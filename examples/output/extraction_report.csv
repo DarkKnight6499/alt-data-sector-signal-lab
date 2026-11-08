@@ -1,0 +1,961 @@
+document_id,ticker,period_end,available_at,metric,unit,evidence,extracted_value,reported_value,absolute_error,tolerance,status,reason,method
+IND01_2020-03-31,IND01,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 467.9334 million for period ended 2020-03-31.,467.9334,467.9334,0,0.0004679334,accepted,,rule
+IND01_2020-03-31,IND01,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 64.3592 million for period ended 2020-03-31.,64.3592,64.3592,0,0.0001,accepted,,rule
+IND01_2020-03-31,IND01,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 990.5812 million for period ended 2020-03-31.,990.5812,990.5812,0,0.0009905812,accepted,,rule
+IND01_2020-03-31,IND01,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 13.7539% for period ended 2020-03-31.,0.137539,0.13753923101,2.31010224977e-07,1e-06,accepted,,rule
+IND02_2020-03-31,IND02,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 535.4656 million for period ended 2020-03-31.,535.4656,535.4656,0,0.0005354656,accepted,,rule
+IND02_2020-03-31,IND02,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 60.9273 million for period ended 2020-03-31.,60.9273,60.9273,0,0.0001,accepted,,rule
+IND02_2020-03-31,IND02,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 1048.7408 million for period ended 2020-03-31.,1048.7408,1048.7408,0,0.0010487408,accepted,,rule
+IND02_2020-03-31,IND02,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 11.3784% for period ended 2020-03-31.,0.113784,0.113783779948,2.20052231173e-07,1e-06,accepted,,rule
+IND03_2020-03-31,IND03,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 647.3307 million for period ended 2020-03-31.,647.3307,647.3307,0,0.0006473307,accepted,,rule
+IND03_2020-03-31,IND03,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 85.1685 million for period ended 2020-03-31.,85.1685,85.1685,0,0.0001,accepted,,rule
+IND03_2020-03-31,IND03,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 1344.5867 million for period ended 2020-03-31.,1344.5867,1344.5867,0,0.0013445867,accepted,,rule
+IND03_2020-03-31,IND03,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 13.1569% for period ended 2020-03-31.,0.131569,0.131568763848,2.36151784544e-07,1e-06,accepted,,rule
+IND04_2020-03-31,IND04,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 719.8462 million for period ended 2020-03-31.,719.8462,719.8462,0,0.0007198462,accepted,,rule
+IND04_2020-03-31,IND04,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 84.8649 million for period ended 2020-03-31.,84.8649,84.8649,0,0.0001,accepted,,rule
+IND04_2020-03-31,IND04,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 1429.5817 million for period ended 2020-03-31.,1429.5817,1429.5817,0,0.0014295817,accepted,,rule
+IND04_2020-03-31,IND04,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 11.7893% for period ended 2020-03-31.,0.117893,0.117893099943,9.99427377663e-08,1e-06,accepted,,rule
+IND05_2020-03-31,IND05,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 799.0769 million for period ended 2020-03-31.,799.0769,799.0769,0,0.0007990769,accepted,,rule
+IND05_2020-03-31,IND05,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 88.8665 million for period ended 2020-03-31.,88.8665,88.8665,0,0.0001,accepted,,rule
+IND05_2020-03-31,IND05,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 1551.3356 million for period ended 2020-03-31.,1551.3356,1551.3356,0,0.0015513356,accepted,,rule
+IND05_2020-03-31,IND05,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 11.1211% for period ended 2020-03-31.,0.111211,0.111211449111,4.49110842765e-07,1e-06,accepted,,rule
+IND06_2020-03-31,IND06,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 902.5196 million for period ended 2020-03-31.,902.5196,902.5196,0,0.0009025196,accepted,,rule
+IND06_2020-03-31,IND06,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 107.7589 million for period ended 2020-03-31.,107.7589,107.7589,0,0.0001077589,accepted,,rule
+IND06_2020-03-31,IND06,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 1801.4159 million for period ended 2020-03-31.,1801.4159,1801.4159,0,0.0018014159,accepted,,rule
+IND06_2020-03-31,IND06,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 11.9398% for period ended 2020-03-31.,0.119398,0.119397850196,1.49803727256e-07,1e-06,accepted,,rule
+IND07_2020-03-31,IND07,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 983.8529 million for period ended 2020-03-31.,983.8529,983.8529,0,0.0009838529,accepted,,rule
+IND07_2020-03-31,IND07,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 113.0306 million for period ended 2020-03-31.,113.0306,113.0306,0,0.0001130306,accepted,,rule
+IND07_2020-03-31,IND07,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 1934.1610 million for period ended 2020-03-31.,1934.161,1934.161,0,0.001934161,accepted,,rule
+IND07_2020-03-31,IND07,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 11.4886% for period ended 2020-03-31.,0.114886,0.114885670409,3.29591344383e-07,1e-06,accepted,,rule
+IND08_2020-03-31,IND08,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 1067.5871 million for period ended 2020-03-31.,1067.5871,1067.5871,0,0.0010675871,accepted,,rule
+IND08_2020-03-31,IND08,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 119.8046 million for period ended 2020-03-31.,119.8046,119.8046,0,0.0001198046,accepted,,rule
+IND08_2020-03-31,IND08,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 2079.8022 million for period ended 2020-03-31.,2079.8022,2079.8022,0,0.0020798022,accepted,,rule
+IND08_2020-03-31,IND08,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 11.2220% for period ended 2020-03-31.,0.11222,0.11221997718,2.28196837537e-08,1e-06,accepted,,rule
+IND09_2020-03-31,IND09,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 1124.9535 million for period ended 2020-03-31.,1124.9535,1124.9535,0,0.0011249535,accepted,,rule
+IND09_2020-03-31,IND09,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 110.6605 million for period ended 2020-03-31.,110.6605,110.6605,0,0.0001106605,accepted,,rule
+IND09_2020-03-31,IND09,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 2087.6812 million for period ended 2020-03-31.,2087.6812,2087.6812,0,0.0020876812,accepted,,rule
+IND09_2020-03-31,IND09,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 9.8369% for period ended 2020-03-31.,0.098369,0.0983689548057,4.51943124868e-08,1e-06,accepted,,rule
+IND10_2020-03-31,IND10,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 1249.0073 million for period ended 2020-03-31.,1249.0073,1249.0073,0,0.0012490073,accepted,,rule
+IND10_2020-03-31,IND10,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 141.9106 million for period ended 2020-03-31.,141.9106,141.9106,0,0.0001419106,accepted,,rule
+IND10_2020-03-31,IND10,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 2444.8791 million for period ended 2020-03-31.,2444.8791,2444.8791,0,0.0024448791,accepted,,rule
+IND10_2020-03-31,IND10,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 11.3619% for period ended 2020-03-31.,0.113619,0.113618711436,2.88564126108e-07,1e-06,accepted,,rule
+IND11_2020-03-31,IND11,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 1345.5304 million for period ended 2020-03-31.,1345.5304,1345.5304,0,0.0013455304,accepted,,rule
+IND11_2020-03-31,IND11,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 156.5415 million for period ended 2020-03-31.,156.5415,156.5415,0,0.0001565415,accepted,,rule
+IND11_2020-03-31,IND11,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 2658.2465 million for period ended 2020-03-31.,2658.2465,2658.2465,0,0.0026582465,accepted,,rule
+IND11_2020-03-31,IND11,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 11.6342% for period ended 2020-03-31.,0.116342,0.116341852997,1.47002847353e-07,1e-06,accepted,,rule
+IND12_2020-03-31,IND12,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 1488.9036 million for period ended 2020-03-31.,1488.9036,1488.9036,0,0.0014889036,accepted,,rule
+IND12_2020-03-31,IND12,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 200.5530 million for period ended 2020-03-31.,200.553,200.553,0,0.000200553,accepted,,rule
+IND12_2020-03-31,IND12,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 3123.7042 million for period ended 2020-03-31.,3123.7042,3123.7042,0,0.0031237042,accepted,,rule
+IND12_2020-03-31,IND12,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 13.4698% for period ended 2020-03-31.,0.134698,0.134698445218,4.45218347245e-07,1e-06,accepted,,rule
+IND01_2020-06-30,IND01,2020-06-30,2020-08-14,revenue,USD_million,Revenue was USD 477.0882 million for period ended 2020-06-30.,477.0882,477.0882,0,0.0004770882,accepted,,rule
+IND01_2020-06-30,IND01,2020-06-30,2020-08-14,operating_income,USD_million,Operating income was USD 68.8090 million for period ended 2020-06-30.,68.809,68.809,0,0.0001,accepted,,rule
+IND01_2020-06-30,IND01,2020-06-30,2020-08-14,backlog,USD_million,Backlog was USD 1031.2322 million for period ended 2020-06-30.,1031.2322,1031.2322,0,0.0010312322,accepted,,rule
+IND01_2020-06-30,IND01,2020-06-30,2020-08-14,operating_margin,ratio,Operating margin was 14.4227% for period ended 2020-06-30.,0.144227,0.144227000374,3.7435424205e-10,1e-06,accepted,,rule
+IND02_2020-06-30,IND02,2020-06-30,2020-08-14,revenue,USD_million,Revenue was USD 535.8433 million for period ended 2020-06-30.,535.8433,535.8433,0,0.0005358433,accepted,,rule
+IND02_2020-06-30,IND02,2020-06-30,2020-08-14,operating_income,USD_million,Operating income was USD 59.5516 million for period ended 2020-06-30.,59.5516,59.5516,0,0.0001,accepted,,rule
+IND02_2020-06-30,IND02,2020-06-30,2020-08-14,backlog,USD_million,Backlog was USD 1040.0228 million for period ended 2020-06-30.,1040.0228,1040.0228,0,0.0010400228,accepted,,rule
+IND02_2020-06-30,IND02,2020-06-30,2020-08-14,operating_margin,ratio,Operating margin was 11.1136% for period ended 2020-06-30.,0.111136,0.111136222101,2.2210075222e-07,1e-06,accepted,,rule
+IND03_2020-06-30,IND03,2020-06-30,2020-08-14,revenue,USD_million,Revenue was USD 633.6721 million for period ended 2020-06-30.,633.6721,633.6721,0,0.0006336721,accepted,,rule
+IND03_2020-06-30,IND03,2020-06-30,2020-08-14,operating_income,USD_million,Operating income was USD 74.7137 million for period ended 2020-06-30.,74.7137,74.7137,0,0.0001,accepted,,rule
+IND03_2020-06-30,IND03,2020-06-30,2020-08-14,backlog,USD_million,Backlog was USD 1258.4976 million for period ended 2020-06-30.,1258.4976,1258.4976,0,0.0012584976,accepted,,rule
+IND03_2020-06-30,IND03,2020-06-30,2020-08-14,operating_margin,ratio,Operating margin was 11.7906% for period ended 2020-06-30.,0.117906,0.117905932737,6.72628635429e-08,1e-06,accepted,,rule
+IND04_2020-06-30,IND04,2020-06-30,2020-08-14,revenue,USD_million,Revenue was USD 704.4163 million for period ended 2020-06-30.,704.4163,704.4163,0,0.0007044163,accepted,,rule
+IND04_2020-06-30,IND04,2020-06-30,2020-08-14,operating_income,USD_million,Operating income was USD 73.3010 million for period ended 2020-06-30.,73.301,73.301,0,0.0001,accepted,,rule
+IND04_2020-06-30,IND04,2020-06-30,2020-08-14,backlog,USD_million,Backlog was USD 1333.9727 million for period ended 2020-06-30.,1333.9727,1333.9727,0,0.0013339727,accepted,,rule
+IND04_2020-06-30,IND04,2020-06-30,2020-08-14,operating_margin,ratio,Operating margin was 10.4059% for period ended 2020-06-30.,0.104059,0.104059204763,2.04762865358e-07,1e-06,accepted,,rule
+IND05_2020-06-30,IND05,2020-06-30,2020-08-14,revenue,USD_million,Revenue was USD 880.9167 million for period ended 2020-06-30.,880.9167,800.8334,80.0833,0.0008008334,rejected,value_mismatch,rule
+IND05_2020-06-30,IND05,2020-06-30,2020-08-14,operating_income,USD_million,Operating income was USD 87.5386 million for period ended 2020-06-30.,87.5386,87.5386,0,0.0001,accepted,,rule
+IND05_2020-06-30,IND05,2020-06-30,2020-08-14,backlog,USD_million,Backlog was USD 1544.5906 million for period ended 2020-06-30.,1544.5906,1544.5906,0,0.0015445906,accepted,,rule
+IND05_2020-06-30,IND05,2020-06-30,2020-08-14,operating_margin,ratio,Operating margin was 10.9309% for period ended 2020-06-30.,0.109309,0.109309376957,3.76956555526e-07,1e-06,accepted,,rule
+IND06_2020-06-30,IND06,2020-06-30,2020-08-14,revenue,USD_million,Revenue was USD 871.4867 million for period ended 2020-06-30.,871.4867,871.4867,0,0.0008714867,accepted,,rule
+IND06_2020-06-30,IND06,2020-06-30,2020-08-14,operating_income,USD_million,Operating income was USD 86.1926 million for period ended 2020-06-30.,86.1926,86.1926,0,0.0001,accepted,,rule
+IND06_2020-06-30,IND06,2020-06-30,2020-08-14,backlog,USD_million,Backlog was USD 1620.4012 million for period ended 2020-06-30.,1620.4012,1620.4012,0,0.0016204012,accepted,,rule
+IND06_2020-06-30,IND06,2020-06-30,2020-08-14,operating_margin,ratio,Operating margin was 9.8903% for period ended 2020-06-30.,0.098903,0.0989029436709,5.6329144224e-08,1e-06,accepted,,rule
+IND07_2020-06-30,IND07,2020-06-30,2020-08-14,revenue,USD_million,Revenue was USD 998.8947 million for period ended 2020-06-30.,998.8947,998.8947,0,0.0009988947,accepted,,rule
+IND07_2020-06-30,IND07,2020-06-30,2020-08-14,operating_income,USD_million,Operating income was USD 119.3402 million for period ended 2020-06-30.,119.3402,119.3402,0,0.0001193402,accepted,,rule
+IND07_2020-06-30,IND07,2020-06-30,2020-08-14,backlog,USD_million,Backlog was USD 1994.2748 million for period ended 2020-06-30.,1994.2748,1994.2748,0,0.0019942748,accepted,,rule
+IND07_2020-06-30,IND07,2020-06-30,2020-08-14,operating_margin,ratio,Operating margin was 12.9472% for period ended 2020-06-30.,0.129472,0.119472252681,0.00999974731911,1e-06,rejected,value_mismatch,rule
+IND08_2020-06-30,IND08,2020-06-30,2020-08-14,revenue,USD_million,Revenue was USD 1074.8614 million for period ended 2020-06-30.,1074.8614,1074.8614,0,0.0010748614,accepted,,rule
+IND08_2020-06-30,IND08,2020-06-30,2020-08-14,operating_income,USD_million,Operating income was USD 121.0459 million for period ended 2020-06-30.,121.0459,121.0459,0,0.0001210459,accepted,,rule
+IND08_2020-06-30,IND08,2020-06-30,2020-08-14,backlog,USD_million,Backlog was USD 2096.8063 million for period ended 2020-06-30.,2096.8063,2096.8063,0,0.0020968063,accepted,,rule
+IND08_2020-06-30,IND08,2020-06-30,2020-08-14,operating_margin,ratio,Operating margin was 11.2615% for period ended 2020-06-30.,0.112615,0.112615356733,3.56733435583e-07,1e-06,accepted,,rule
+IND09_2020-06-30,IND09,2020-06-30,2020-08-14,revenue,USD_million,Revenue was USD 1132.1025 million for period ended 2020-06-30.,1132.1025,1132.1025,0,0.0011321025,accepted,,rule
+IND09_2020-06-30,IND09,2020-06-30,2020-08-14,operating_income,USD_million,Operating income was USD 111.5533 million for period ended 2020-06-30.,111.5533,111.5533,0,0.0001115533,accepted,,rule
+IND09_2020-06-30,IND09,2020-06-30,2020-08-14,backlog,USD_million,Backlog was USD 2102.2118 million for period ended 2020-06-30.,2102.2118,2102.2118,0,0.0021022118,accepted,,rule
+IND09_2020-06-30,IND09,2020-06-30,2020-08-14,operating_margin,ratio,Operating margin was 9.8536% for period ended 2020-06-30.,0.098536,0.0985363957769,3.95776884154e-07,1e-06,accepted,,rule
+IND10_2020-06-30,IND10,2020-06-30,2020-08-14,revenue,USD_million,Revenue was USD 1311.9138 million for period ended 2020-06-30.,1311.9138,1311.9138,0,0.0013119138,accepted,,rule
+IND10_2020-06-30,IND10,2020-06-30,2020-08-14,operating_income,USD_million,Operating income was USD 177.3545 million for period ended 2020-06-30.,177.3545,177.3545,0,0.0001773545,accepted,,rule
+IND10_2020-06-30,IND10,2020-06-30,2020-08-14,backlog,USD_million,Backlog was USD 2756.6600 million for period ended 2020-06-30.,2756.66,2756.66,0,0.00275666,accepted,,rule
+IND10_2020-06-30,IND10,2020-06-30,2020-08-14,operating_margin,ratio,Operating margin was 13.5188% for period ended 2020-06-30.,0.135188,0.135187616747,3.83252619196e-07,1e-06,accepted,,rule
+IND11_2020-06-30,IND11,2020-06-30,2020-08-14,revenue,USD_million,Revenue was USD 1329.9921 million for period ended 2020-06-30.,1329.9921,1329.9921,0,0.0013299921,accepted,,rule
+IND11_2020-06-30,IND11,2020-06-30,2020-08-14,operating_income,USD_million,Operating income was USD 143.0196 million for period ended 2020-06-30.,143.0196,143.0196,0,0.0001430196,accepted,,rule
+IND11_2020-06-30,IND11,2020-06-30,2020-08-14,operating_margin,ratio,Operating margin was 10.7534% for period ended 2020-06-30.,0.107534,0.107534172571,1.72571401003e-07,1e-06,accepted,,rule
+IND11_2020-06-30,IND11,2020-06-30,2020-08-14,backlog,USD_million,,,,,,missing,not_extracted,rule
+IND12_2020-06-30,IND12,2020-06-30,2020-08-14,revenue,USD_million,Revenue was USD 1420.3475 million for period ended 2020-06-30.,1420.3475,1420.3475,0,0.0014203475,accepted,,rule
+IND12_2020-06-30,IND12,2020-06-30,2020-08-14,operating_income,USD_million,Operating income was USD 153.5811 million for period ended 2020-06-30.,153.5811,153.5811,0,0.0001535811,accepted,,rule
+IND12_2020-06-30,IND12,2020-06-30,2020-08-14,backlog,USD_million,Backlog was USD 2728.2909 million for period ended 2020-06-30.,2728.2909,2728.2909,0,0.0027282909,accepted,,rule
+IND12_2020-06-30,IND12,2020-06-30,2020-08-14,operating_margin,ratio,Operating margin was 10.8129% for period ended 2020-06-30.,0.108129,0.10812924302,2.43019753945e-07,1e-06,accepted,,rule
+IND01_2020-09-30,IND01,2020-09-30,2020-11-14,revenue,USD_million,Revenue was USD 463.5773 million for period ended 2020-09-30.,463.5773,463.5773,0,0.0004635773,accepted,,rule
+IND01_2020-09-30,IND01,2020-09-30,2020-11-14,operating_income,USD_million,Operating income was USD 58.8107 million for period ended 2020-09-30.,58.8107,58.8107,0,0.0001,accepted,,rule
+IND01_2020-09-30,IND01,2020-09-30,2020-11-14,backlog,USD_million,Backlog was USD 948.3641 million for period ended 2020-09-30.,948.3641,948.3641,0,0.0009483641,accepted,,rule
+IND01_2020-09-30,IND01,2020-09-30,2020-11-14,operating_margin,ratio,Operating margin was 12.6863% for period ended 2020-09-30.,0.126863,0.126862769165,2.30835073251e-07,1e-06,accepted,,rule
+IND02_2020-09-30,IND02,2020-09-30,2020-11-14,revenue,USD_million,Revenue was USD 557.7259 million for period ended 2020-09-30.,557.7259,557.7259,0,0.0005577259,accepted,,rule
+IND02_2020-09-30,IND02,2020-09-30,2020-11-14,operating_income,USD_million,Operating income was USD 71.4722 million for period ended 2020-09-30.,71.4722,71.4722,0,0.0001,accepted,,rule
+IND02_2020-09-30,IND02,2020-09-30,2020-11-14,backlog,USD_million,Backlog was USD 1145.7521 million for period ended 2020-09-30.,1145.7521,1145.7521,0,0.0011457521,accepted,,rule
+IND02_2020-09-30,IND02,2020-09-30,2020-11-14,operating_margin,ratio,Operating margin was 12.8149% for period ended 2020-09-30.,0.128149,0.128149329267,3.29267297761e-07,1e-06,accepted,,rule
+IND03_2020-09-30,IND03,2020-09-30,2020-11-14,revenue,USD_million,Revenue was USD 646.8756 million for period ended 2020-09-30.,646.8756,646.8756,0,0.0006468756,accepted,,rule
+IND03_2020-09-30,IND03,2020-09-30,2020-11-14,operating_income,USD_million,Operating income was USD 80.9999 million for period ended 2020-09-30.,80.9999,80.9999,0,0.0001,accepted,,rule
+IND03_2020-09-30,IND03,2020-09-30,2020-11-14,backlog,USD_million,Backlog was USD 1316.2499 million for period ended 2020-09-30.,1316.2499,1316.2499,0,0.0013162499,accepted,,rule
+IND03_2020-09-30,IND03,2020-09-30,2020-11-14,operating_margin,ratio,Operating margin was 12.5217% for period ended 2020-09-30.,0.125217,0.125217120572,1.20571559681e-07,1e-06,accepted,,rule
+IND04_2020-09-30,IND04,2020-09-30,2020-11-14,revenue,USD_million,Revenue was USD 731.0887 million for period ended 2020-09-30.,731.0887,731.0887,0,0.0007310887,accepted,,rule
+IND04_2020-09-30,IND04,2020-09-30,2020-11-14,operating_income,USD_million,Operating income was USD 87.4688 million for period ended 2020-09-30.,87.4688,87.4688,0,0.0001,accepted,,rule
+IND04_2020-09-30,IND04,2020-09-30,2020-11-14,backlog,USD_million,Backlog was USD 1460.4316 million for period ended 2020-09-30.,1460.4316,1460.4316,0,0.0014604316,accepted,,rule
+IND04_2020-09-30,IND04,2020-09-30,2020-11-14,operating_margin,ratio,Operating margin was 11.9642% for period ended 2020-09-30.,0.119642,0.119641843733,1.56267495305e-07,1e-06,accepted,,rule
+IND05_2020-09-30,IND05,2020-09-30,2020-11-14,revenue,USD_million,Revenue was USD 825.7185 million for period ended 2020-09-30.,825.7185,825.7185,0,0.0008257185,accepted,,rule
+IND05_2020-09-30,IND05,2020-09-30,2020-11-14,operating_income,USD_million,Operating income was USD 100.4155 million for period ended 2020-09-30.,100.4155,100.4155,0,0.0001004155,accepted,,rule
+IND05_2020-09-30,IND05,2020-09-30,2020-11-14,backlog,USD_million,Backlog was USD 1660.2989 million for period ended 2020-09-30.,1660.2989,1660.2989,0,0.0016602989,accepted,,rule
+IND05_2020-09-30,IND05,2020-09-30,2020-11-14,operating_margin,ratio,Operating margin was 12.1610% for period ended 2020-09-30.,0.12161,0.121609846455,1.5354506408e-07,1e-06,accepted,,rule
+IND06_2020-09-30,IND06,2020-09-30,2020-11-14,revenue,USD_million,Revenue was USD 899.9213 million for period ended 2020-09-30.,899.9213,899.9213,0,0.0008999213,accepted,,rule
+IND06_2020-09-30,IND06,2020-09-30,2020-11-14,operating_income,USD_million,Operating income was USD 100.7519 million for period ended 2020-09-30.,100.7519,100.7519,0,0.0001007519,accepted,,rule
+IND06_2020-09-30,IND06,2020-09-30,2020-11-14,backlog,USD_million,Backlog was USD 1751.5846 million for period ended 2020-09-30.,1751.5846,1751.5846,0,0.0017515846,accepted,,rule
+IND06_2020-09-30,IND06,2020-09-30,2020-11-14,operating_margin,ratio,Operating margin was 11.1956% for period ended 2020-09-30.,0.111956,0.111956345516,3.45515991235e-07,1e-06,accepted,,rule
+IND07_2020-09-30,IND07,2020-09-30,2020-11-14,revenue,USD_million,Revenue was USD 1005.8928 million for period ended 2020-09-30.,1005.8928,1005.8928,0,0.0010058928,accepted,,rule
+IND07_2020-09-30,IND07,2020-09-30,2020-11-14,operating_income,USD_million,Operating income was USD 120.6698 million for period ended 2020-09-30.,120.6698,120.6698,0,0.0001206698,accepted,,rule
+IND07_2020-09-30,IND07,2020-09-30,2020-11-14,backlog,USD_million,Backlog was USD 2011.5369 million for period ended 2020-09-30.,2011.5369,2011.5369,0,0.0020115369,accepted,,rule
+IND07_2020-09-30,IND07,2020-09-30,2020-11-14,operating_margin,ratio,Operating margin was 11.9963% for period ended 2020-09-30.,0.119963,0.119962882725,1.17275319997e-07,1e-06,accepted,,rule
+IND08_2020-09-30,IND08,2020-09-30,2020-11-14,revenue,USD_million,Revenue was USD 1112.0897 million for period ended 2020-09-30.,1112.0897,1112.0897,0,0.0011120897,accepted,,rule
+IND08_2020-09-30,IND08,2020-09-30,2020-11-14,operating_income,USD_million,Operating income was USD 140.8349 million for period ended 2020-09-30.,140.8349,140.8349,0,0.0001408349,accepted,,rule
+IND08_2020-09-30,IND08,2020-09-30,2020-11-14,backlog,USD_million,Backlog was USD 2273.4071 million for period ended 2020-09-30.,2273.4071,2273.4071,0,0.0022734071,accepted,,rule
+IND08_2020-09-30,IND08,2020-09-30,2020-11-14,operating_margin,ratio,Operating margin was 12.6640% for period ended 2020-09-30.,0.12664,0.126639874463,1.25536636114e-07,1e-06,accepted,,rule
+IND09_2020-09-30,IND09,2020-09-30,2020-11-14,revenue,USD_million,Revenue was USD 1220.5143 million for period ended 2020-09-30.,1220.5143,1220.5143,0,0.0012205143,accepted,,rule
+IND09_2020-09-30,IND09,2020-09-30,2020-11-14,operating_income,USD_million,Operating income was USD 162.4923 million for period ended 2020-09-30.,162.4923,162.4923,0,0.0001624923,accepted,,rule
+IND09_2020-09-30,IND09,2020-09-30,2020-11-14,backlog,USD_million,Backlog was USD 2547.8993 million for period ended 2020-09-30.,2547.8993,2547.8993,0,0.0025478993,accepted,,rule
+IND09_2020-09-30,IND09,2020-09-30,2020-11-14,operating_margin,ratio,Operating margin was 13.3134% for period ended 2020-09-30.,0.133134,0.133134286096,2.86095623775e-07,1e-06,accepted,,rule
+IND10_2020-09-30,IND10,2020-09-30,2020-11-14,revenue,USD_million,Revenue was USD 1445.9779 million for period ended 2020-09-30.,1445.9779,1314.5254,131.4525,0.0013145254,rejected,value_mismatch,rule
+IND10_2020-09-30,IND10,2020-09-30,2020-11-14,operating_income,USD_million,Operating income was USD 175.0711 million for period ended 2020-09-30.,175.0711,175.0711,0,0.0001750711,accepted,,rule
+IND10_2020-09-30,IND10,2020-09-30,2020-11-14,backlog,USD_million,Backlog was USD 2744.5712 million for period ended 2020-09-30.,2744.5712,2744.5712,0,0.0027445712,accepted,,rule
+IND10_2020-09-30,IND10,2020-09-30,2020-11-14,operating_margin,ratio,Operating margin was 13.3182% for period ended 2020-09-30.,0.133182,0.133181983399,1.66012767699e-08,1e-06,accepted,,rule
+IND11_2020-09-30,IND11,2020-09-30,2020-11-14,revenue,USD_million,Revenue was USD 1355.2956 million for period ended 2020-09-30.,1355.2956,1355.2956,0,0.0013552956,accepted,,rule
+IND11_2020-09-30,IND11,2020-09-30,2020-11-14,operating_income,USD_million,Operating income was USD 154.4461 million for period ended 2020-09-30.,154.4461,154.4461,0,0.0001544461,accepted,,rule
+IND11_2020-09-30,IND11,2020-09-30,2020-11-14,backlog,USD_million,Backlog was USD 2655.9954 million for period ended 2020-09-30.,2655.9954,2655.9954,0,0.0026559954,accepted,,rule
+IND11_2020-09-30,IND11,2020-09-30,2020-11-14,operating_margin,ratio,Operating margin was 11.3958% for period ended 2020-09-30.,0.113958,0.113957501227,4.98772961405e-07,1e-06,accepted,,rule
+IND12_2020-09-30,IND12,2020-09-30,2020-11-14,revenue,USD_million,Revenue was USD 1398.8817 million for period ended 2020-09-30.,1398.8817,1398.8817,0,0.0013988817,accepted,,rule
+IND12_2020-09-30,IND12,2020-09-30,2020-11-14,operating_income,USD_million,Operating income was USD 136.4120 million for period ended 2020-09-30.,136.412,136.412,0,0.000136412,accepted,,rule
+IND12_2020-09-30,IND12,2020-09-30,2020-11-14,backlog,USD_million,Backlog was USD 2588.0711 million for period ended 2020-09-30.,2588.0711,2588.0711,0,0.0025880711,accepted,,rule
+IND12_2020-09-30,IND12,2020-09-30,2020-11-14,operating_margin,ratio,Operating margin was 9.7515% for period ended 2020-09-30.,0.097515,0.0975150364752,3.64752073129e-08,1e-06,accepted,,rule
+IND01_2020-12-31,IND01,2020-12-31,2021-02-14,revenue,USD_million,Revenue was USD 454.8772 million for period ended 2020-12-31.,454.8772,454.8772,0,0.0004548772,accepted,,rule
+IND01_2020-12-31,IND01,2020-12-31,2021-02-14,operating_income,USD_million,Operating income was USD 52.0334 million for period ended 2020-12-31.,52.0334,52.0334,0,0.0001,accepted,,rule
+IND01_2020-12-31,IND01,2020-12-31,2021-02-14,backlog,USD_million,Backlog was USD 892.7420 million for period ended 2020-12-31.,892.742,892.742,0,0.000892742,accepted,,rule
+IND01_2020-12-31,IND01,2020-12-31,2021-02-14,operating_margin,ratio,Operating margin was 11.4390% for period ended 2020-12-31.,0.11439,0.114389993607,6.39293419591e-09,1e-06,accepted,,rule
+IND02_2020-12-31,IND02,2020-12-31,2021-02-14,revenue,USD_million,Revenue was USD 537.5703 million for period ended 2020-12-31.,537.5703,537.5703,0,0.0005375703,accepted,,rule
+IND02_2020-12-31,IND02,2020-12-31,2021-02-14,operating_income,USD_million,Operating income was USD 57.3831 million for period ended 2020-12-31.,57.3831,57.3831,0,0.0001,accepted,,rule
+IND02_2020-12-31,IND02,2020-12-31,2021-02-14,backlog,USD_million,Backlog was USD 1027.6381 million for period ended 2020-12-31.,1027.6381,1027.6381,0,0.0010276381,accepted,,rule
+IND02_2020-12-31,IND02,2020-12-31,2021-02-14,operating_margin,ratio,Operating margin was 11.6745% for period ended 2020-12-31.,0.116745,0.106745294522,0.00999970547759,1e-06,rejected,value_mismatch,rule
+IND03_2020-12-31,IND03,2020-12-31,2021-02-14,revenue,USD_million,Revenue was USD 632.6249 million for period ended 2020-12-31.,632.6249,632.6249,0,0.0006326249,accepted,,rule
+IND03_2020-12-31,IND03,2020-12-31,2021-02-14,operating_income,USD_million,Operating income was USD 70.2713 million for period ended 2020-12-31.,70.2713,70.2713,0,0.0001,accepted,,rule
+IND03_2020-12-31,IND03,2020-12-31,2021-02-14,backlog,USD_million,Backlog was USD 1227.6250 million for period ended 2020-12-31.,1227.625,1227.625,0,0.001227625,accepted,,rule
+IND03_2020-12-31,IND03,2020-12-31,2021-02-14,operating_margin,ratio,Operating margin was 11.1079% for period ended 2020-12-31.,0.111079,0.111078934768,6.52315455957e-08,1e-06,accepted,,rule
+IND04_2020-12-31,IND04,2020-12-31,2021-02-14,revenue,USD_million,Revenue was USD 740.4972 million for period ended 2020-12-31.,740.4972,740.4972,0,0.0007404972,accepted,,rule
+IND04_2020-12-31,IND04,2020-12-31,2021-02-14,operating_income,USD_million,Operating income was USD 91.1073 million for period ended 2020-12-31.,91.1073,91.1073,0,0.0001,accepted,,rule
+IND04_2020-12-31,IND04,2020-12-31,2021-02-14,backlog,USD_million,Backlog was USD 1495.9787 million for period ended 2020-12-31.,1495.9787,1495.9787,0,0.0014959787,accepted,,rule
+IND04_2020-12-31,IND04,2020-12-31,2021-02-14,operating_margin,ratio,Operating margin was 12.3035% for period ended 2020-12-31.,0.123035,0.123035306548,3.06548086859e-07,1e-06,accepted,,rule
+IND05_2020-12-31,IND05,2020-12-31,2021-02-14,revenue,USD_million,Revenue was USD 855.5106 million for period ended 2020-12-31.,855.5106,855.5106,0,0.0008555106,accepted,,rule
+IND05_2020-12-31,IND05,2020-12-31,2021-02-14,operating_income,USD_million,Operating income was USD 116.6336 million for period ended 2020-12-31.,116.6336,116.6336,0,0.0001166336,accepted,,rule
+IND05_2020-12-31,IND05,2020-12-31,2021-02-14,backlog,USD_million,Backlog was USD 1804.1700 million for period ended 2020-12-31.,1804.17,1804.17,0,0.00180417,accepted,,rule
+IND05_2020-12-31,IND05,2020-12-31,2021-02-14,operating_margin,ratio,Operating margin was 13.6332% for period ended 2020-12-31.,0.136332,0.136332150648,1.50647811975e-07,1e-06,accepted,,rule
+IND06_2020-12-31,IND06,2020-12-31,2021-02-14,revenue,USD_million,Revenue was USD 918.0825 million for period ended 2020-12-31.,918.0825,918.0825,0,0.0009180825,accepted,,rule
+IND06_2020-12-31,IND06,2020-12-31,2021-02-14,operating_income,USD_million,Operating income was USD 109.2025 million for period ended 2020-12-31.,109.2025,109.2025,0,0.0001092025,accepted,,rule
+IND06_2020-12-31,IND06,2020-12-31,2021-02-14,backlog,USD_million,Backlog was USD 1829.7156 million for period ended 2020-12-31.,1829.7156,1829.7156,0,0.0018297156,accepted,,rule
+IND06_2020-12-31,IND06,2020-12-31,2021-02-14,operating_margin,ratio,Operating margin was 11.8946% for period ended 2020-12-31.,0.118946,0.118946282061,2.8206070804e-07,1e-06,accepted,,rule
+IND07_2020-12-31,IND07,2020-12-31,2021-02-14,revenue,USD_million,Revenue was USD 1002.7800 million for period ended 2020-12-31.,1002.78,1002.78,0,0.00100278,accepted,,rule
+IND07_2020-12-31,IND07,2020-12-31,2021-02-14,operating_income,USD_million,Operating income was USD 115.7341 million for period ended 2020-12-31.,115.7341,115.7341,0,0.0001157341,accepted,,rule
+IND07_2020-12-31,IND07,2020-12-31,2021-02-14,backlog,USD_million,Backlog was USD 1974.8967 million for period ended 2020-12-31.,1974.8967,1974.8967,0,0.0019748967,accepted,,rule
+IND07_2020-12-31,IND07,2020-12-31,2021-02-14,operating_margin,ratio,Operating margin was 11.5413% for period ended 2020-12-31.,0.115413,0.115413251162,2.51161770284e-07,1e-06,accepted,,rule
+IND08_2020-12-31,IND08,2020-12-31,2021-02-14,revenue,USD_million,Revenue was USD 1076.6656 million for period ended 2020-12-31.,1076.6656,1076.6656,0,0.0010766656,accepted,,rule
+IND08_2020-12-31,IND08,2020-12-31,2021-02-14,operating_income,USD_million,Operating income was USD 115.6919 million for period ended 2020-12-31.,115.6919,115.6919,0,0.0001156919,accepted,,rule
+IND08_2020-12-31,IND08,2020-12-31,2021-02-14,backlog,USD_million,Backlog was USD 2063.2781 million for period ended 2020-12-31.,2063.2781,2063.2781,0,0.0020632781,accepted,,rule
+IND08_2020-12-31,IND08,2020-12-31,2021-02-14,operating_margin,ratio,Operating margin was 10.7454% for period ended 2020-12-31.,0.107454,0.107453883546,1.16454356866e-07,1e-06,accepted,,rule
+IND09_2020-12-31,IND09,2020-12-31,2021-02-14,revenue,USD_million,Revenue was USD 1264.9603 million for period ended 2020-12-31.,1264.9603,1264.9603,0,0.0012649603,accepted,,rule
+IND09_2020-12-31,IND09,2020-12-31,2021-02-14,operating_income,USD_million,Operating income was USD 187.2375 million for period ended 2020-12-31.,187.2375,187.2375,0,0.0001872375,accepted,,rule
+IND09_2020-12-31,IND09,2020-12-31,2021-02-14,backlog,USD_million,Backlog was USD 2766.2025 million for period ended 2020-12-31.,2766.2025,2766.2025,0,0.0027662025,accepted,,rule
+IND09_2020-12-31,IND09,2020-12-31,2021-02-14,operating_margin,ratio,Operating margin was 14.8018% for period ended 2020-12-31.,0.148018,0.148018479315,4.79315121593e-07,1e-06,accepted,,rule
+IND10_2020-12-31,IND10,2020-12-31,2021-02-14,revenue,USD_million,Revenue was USD 1242.4187 million for period ended 2020-12-31.,1242.4187,1242.4187,0,0.0012424187,accepted,,rule
+IND10_2020-12-31,IND10,2020-12-31,2021-02-14,operating_income,USD_million,Operating income was USD 126.6946 million for period ended 2020-12-31.,126.6946,126.6946,0,0.0001266946,accepted,,rule
+IND10_2020-12-31,IND10,2020-12-31,2021-02-14,operating_margin,ratio,Operating margin was 10.1974% for period ended 2020-12-31.,0.101974,0.101974157343,1.57343253121e-07,1e-06,accepted,,rule
+IND10_2020-12-31,IND10,2020-12-31,2021-02-14,backlog,USD_million,,,,,,missing,not_extracted,rule
+IND11_2020-12-31,IND11,2020-12-31,2021-02-14,revenue,USD_million,Revenue was USD 1399.6075 million for period ended 2020-12-31.,1399.6075,1399.6075,0,0.0013996075,accepted,,rule
+IND11_2020-12-31,IND11,2020-12-31,2021-02-14,operating_income,USD_million,Operating income was USD 177.8112 million for period ended 2020-12-31.,177.8112,177.8112,0,0.0001778112,accepted,,rule
+IND11_2020-12-31,IND11,2020-12-31,2021-02-14,backlog,USD_million,Backlog was USD 2864.9369 million for period ended 2020-12-31.,2864.9369,2864.9369,0,0.0028649369,accepted,,rule
+IND11_2020-12-31,IND11,2020-12-31,2021-02-14,operating_margin,ratio,Operating margin was 12.7044% for period ended 2020-12-31.,0.127044,0.127043617586,3.82414355432e-07,1e-06,accepted,,rule
+IND12_2020-12-31,IND12,2020-12-31,2021-02-14,revenue,USD_million,Revenue was USD 1403.5302 million for period ended 2020-12-31.,1403.5302,1403.5302,0,0.0014035302,accepted,,rule
+IND12_2020-12-31,IND12,2020-12-31,2021-02-14,operating_income,USD_million,Operating income was USD 134.9828 million for period ended 2020-12-31.,134.9828,134.9828,0,0.0001349828,accepted,,rule
+IND12_2020-12-31,IND12,2020-12-31,2021-02-14,backlog,USD_million,Backlog was USD 2584.1214 million for period ended 2020-12-31.,2584.1214,2584.1214,0,0.0025841214,accepted,,rule
+IND12_2020-12-31,IND12,2020-12-31,2021-02-14,operating_margin,ratio,Operating margin was 9.6174% for period ended 2020-12-31.,0.096174,0.0961737766669,2.23333135249e-07,1e-06,accepted,,rule
+IND01_2021-03-31,IND01,2021-03-31,2021-05-15,revenue,USD_million,Revenue was USD 452.3528 million for period ended 2021-03-31.,452.3528,452.3528,0,0.0004523528,accepted,,rule
+IND01_2021-03-31,IND01,2021-03-31,2021-05-15,operating_income,USD_million,Operating income was USD 49.1288 million for period ended 2021-03-31.,49.1288,49.1288,0,0.0001,accepted,,rule
+IND01_2021-03-31,IND01,2021-03-31,2021-05-15,backlog,USD_million,Backlog was USD 870.3490 million for period ended 2021-03-31.,870.349,870.349,0,0.000870349,accepted,,rule
+IND01_2021-03-31,IND01,2021-03-31,2021-05-15,operating_margin,ratio,Operating margin was 10.8607% for period ended 2021-03-31.,0.108607,0.108607264065,2.64064685798e-07,1e-06,accepted,,rule
+IND02_2021-03-31,IND02,2021-03-31,2021-05-15,revenue,USD_million,Revenue was USD 541.7160 million for period ended 2021-03-31.,541.716,541.716,0,0.000541716,accepted,,rule
+IND02_2021-03-31,IND02,2021-03-31,2021-05-15,operating_income,USD_million,Operating income was USD 58.2812 million for period ended 2021-03-31.,58.2812,58.2812,0,0.0001,accepted,,rule
+IND02_2021-03-31,IND02,2021-03-31,2021-05-15,backlog,USD_million,Backlog was USD 1038.6009 million for period ended 2021-03-31.,1038.6009,1038.6009,0,0.0010386009,accepted,,rule
+IND02_2021-03-31,IND02,2021-03-31,2021-05-15,operating_margin,ratio,Operating margin was 10.7586% for period ended 2021-03-31.,0.107586,0.107586262913,2.62912670107e-07,1e-06,accepted,,rule
+IND03_2021-03-31,IND03,2021-03-31,2021-05-15,revenue,USD_million,Revenue was USD 705.3692 million for period ended 2021-03-31.,705.3692,641.2447,64.1245,0.0006412447,rejected,value_mismatch,rule
+IND03_2021-03-31,IND03,2021-03-31,2021-05-15,operating_income,USD_million,Operating income was USD 73.6442 million for period ended 2021-03-31.,73.6442,73.6442,0,0.0001,accepted,,rule
+IND03_2021-03-31,IND03,2021-03-31,2021-05-15,backlog,USD_million,Backlog was USD 1260.4548 million for period ended 2021-03-31.,1260.4548,1260.4548,0,0.0012604548,accepted,,rule
+IND03_2021-03-31,IND03,2021-03-31,2021-05-15,operating_margin,ratio,Operating margin was 11.4846% for period ended 2021-03-31.,0.114846,0.114845705547,2.94452648111e-07,1e-06,accepted,,rule
+IND04_2021-03-31,IND04,2021-03-31,2021-05-15,revenue,USD_million,Revenue was USD 735.5669 million for period ended 2021-03-31.,735.5669,735.5669,0,0.0007355669,accepted,,rule
+IND04_2021-03-31,IND04,2021-03-31,2021-05-15,operating_income,USD_million,Operating income was USD 85.8371 million for period ended 2021-03-31.,85.8371,85.8371,0,0.0001,accepted,,rule
+IND04_2021-03-31,IND04,2021-03-31,2021-05-15,backlog,USD_million,Backlog was USD 1454.9275 million for period ended 2021-03-31.,1454.9275,1454.9275,0,0.0014549275,accepted,,rule
+IND04_2021-03-31,IND04,2021-03-31,2021-05-15,operating_margin,ratio,Operating margin was 11.6695% for period ended 2021-03-31.,0.116695,0.116695163961,1.63961293001e-07,1e-06,accepted,,rule
+IND05_2021-03-31,IND05,2021-03-31,2021-05-15,revenue,USD_million,Revenue was USD 871.4484 million for period ended 2021-03-31.,871.4484,871.4484,0,0.0008714484,accepted,,rule
+IND05_2021-03-31,IND05,2021-03-31,2021-05-15,operating_income,USD_million,Operating income was USD 124.2347 million for period ended 2021-03-31.,124.2347,124.2347,0,0.0001242347,accepted,,rule
+IND05_2021-03-31,IND05,2021-03-31,2021-05-15,backlog,USD_million,Backlog was USD 1873.9696 million for period ended 2021-03-31.,1873.9696,1873.9696,0,0.0018739696,accepted,,rule
+IND05_2021-03-31,IND05,2021-03-31,2021-05-15,operating_margin,ratio,Operating margin was 14.2561% for period ended 2021-03-31.,0.142561,0.142561165985,1.6598527236e-07,1e-06,accepted,,rule
+IND06_2021-03-31,IND06,2021-03-31,2021-05-15,revenue,USD_million,Revenue was USD 925.0880 million for period ended 2021-03-31.,925.088,925.088,0,0.000925088,accepted,,rule
+IND06_2021-03-31,IND06,2021-03-31,2021-05-15,operating_income,USD_million,Operating income was USD 110.7766 million for period ended 2021-03-31.,110.7766,110.7766,0,0.0001107766,accepted,,rule
+IND06_2021-03-31,IND06,2021-03-31,2021-05-15,backlog,USD_million,Backlog was USD 1848.6161 million for period ended 2021-03-31.,1848.6161,1848.6161,0,0.0018486161,accepted,,rule
+IND06_2021-03-31,IND06,2021-03-31,2021-05-15,operating_margin,ratio,Operating margin was 11.9747% for period ended 2021-03-31.,0.119747,0.11974709433,9.43304853118e-08,1e-06,accepted,,rule
+IND07_2021-03-31,IND07,2021-03-31,2021-05-15,revenue,USD_million,Revenue was USD 985.9113 million for period ended 2021-03-31.,985.9113,985.9113,0,0.0009859113,accepted,,rule
+IND07_2021-03-31,IND07,2021-03-31,2021-05-15,operating_income,USD_million,Operating income was USD 102.4665 million for period ended 2021-03-31.,102.4665,102.4665,0,0.0001024665,accepted,,rule
+IND07_2021-03-31,IND07,2021-03-31,2021-05-15,backlog,USD_million,Backlog was USD 1866.2033 million for period ended 2021-03-31.,1866.2033,1866.2033,0,0.0018662033,accepted,,rule
+IND07_2021-03-31,IND07,2021-03-31,2021-05-15,operating_margin,ratio,Operating margin was 10.3931% for period ended 2021-03-31.,0.103931,0.103930749145,2.50854514008e-07,1e-06,accepted,,rule
+IND08_2021-03-31,IND08,2021-03-31,2021-05-15,revenue,USD_million,Revenue was USD 1076.4639 million for period ended 2021-03-31.,1076.4639,1076.4639,0,0.0010764639,accepted,,rule
+IND08_2021-03-31,IND08,2021-03-31,2021-05-15,operating_income,USD_million,Operating income was USD 112.3400 million for period ended 2021-03-31.,112.34,112.34,0,0.00011234,accepted,,rule
+IND08_2021-03-31,IND08,2021-03-31,2021-05-15,backlog,USD_million,Backlog was USD 2040.6901 million for period ended 2021-03-31.,2040.6901,2040.6901,0,0.0020406901,accepted,,rule
+IND08_2021-03-31,IND08,2021-03-31,2021-05-15,operating_margin,ratio,Operating margin was 10.4360% for period ended 2021-03-31.,0.10436,0.104360211243,2.11243498277e-07,1e-06,accepted,,rule
+IND09_2021-03-31,IND09,2021-03-31,2021-05-15,revenue,USD_million,Revenue was USD 1241.9874 million for period ended 2021-03-31.,1241.9874,1241.9874,0,0.0012419874,accepted,,rule
+IND09_2021-03-31,IND09,2021-03-31,2021-05-15,operating_income,USD_million,Operating income was USD 168.7297 million for period ended 2021-03-31.,168.7297,168.7297,0,0.0001687297,accepted,,rule
+IND09_2021-03-31,IND09,2021-03-31,2021-05-15,backlog,USD_million,Backlog was USD 2615.2493 million for period ended 2021-03-31.,2615.2493,2615.2493,0,0.0026152493,accepted,,rule
+IND09_2021-03-31,IND09,2021-03-31,2021-05-15,operating_margin,ratio,Operating margin was 14.5855% for period ended 2021-03-31.,0.145855,0.135854598847,0.010000401153,1e-06,rejected,value_mismatch,rule
+IND10_2021-03-31,IND10,2021-03-31,2021-05-15,revenue,USD_million,Revenue was USD 1315.4286 million for period ended 2021-03-31.,1315.4286,1315.4286,0,0.0013154286,accepted,,rule
+IND10_2021-03-31,IND10,2021-03-31,2021-05-15,operating_income,USD_million,Operating income was USD 167.7506 million for period ended 2021-03-31.,167.7506,167.7506,0,0.0001677506,accepted,,rule
+IND10_2021-03-31,IND10,2021-03-31,2021-05-15,backlog,USD_million,Backlog was USD 2696.8515 million for period ended 2021-03-31.,2696.8515,2696.8515,0,0.0026968515,accepted,,rule
+IND10_2021-03-31,IND10,2021-03-31,2021-05-15,operating_margin,ratio,Operating margin was 12.7525% for period ended 2021-03-31.,0.127525,0.127525431635,4.31634981923e-07,1e-06,accepted,,rule
+IND11_2021-03-31,IND11,2021-03-31,2021-05-15,revenue,USD_million,Revenue was USD 1457.7048 million for period ended 2021-03-31.,1457.7048,1457.7048,0,0.0014577048,accepted,,rule
+IND11_2021-03-31,IND11,2021-03-31,2021-05-15,operating_income,USD_million,Operating income was USD 210.4624 million for period ended 2021-03-31.,210.4624,210.4624,0,0.0002104624,accepted,,rule
+IND11_2021-03-31,IND11,2021-03-31,2021-05-15,backlog,USD_million,Backlog was USD 3152.3282 million for period ended 2021-03-31.,3152.3282,3152.3282,0,0.0031523282,accepted,,rule
+IND11_2021-03-31,IND11,2021-03-31,2021-05-15,operating_margin,ratio,Operating margin was 14.4379% for period ended 2021-03-31.,0.144379,0.144379300939,3.00939394571e-07,1e-06,accepted,,rule
+IND12_2021-03-31,IND12,2021-03-31,2021-05-15,revenue,USD_million,Revenue was USD 1512.1668 million for period ended 2021-03-31.,1512.1668,1512.1668,0,0.0015121668,accepted,,rule
+IND12_2021-03-31,IND12,2021-03-31,2021-05-15,operating_income,USD_million,Operating income was USD 197.2625 million for period ended 2021-03-31.,197.2625,197.2625,0,0.0001972625,accepted,,rule
+IND12_2021-03-31,IND12,2021-03-31,2021-05-15,backlog,USD_million,Backlog was USD 3129.6835 million for period ended 2021-03-31.,3129.6835,3129.6835,0,0.0031296835,accepted,,rule
+IND12_2021-03-31,IND12,2021-03-31,2021-05-15,operating_margin,ratio,Operating margin was 13.0450% for period ended 2021-03-31.,0.13045,0.130450225465,2.25464545311e-07,1e-06,accepted,,rule
+IND01_2021-06-30,IND01,2021-06-30,2021-08-14,revenue,USD_million,Revenue was USD 459.8883 million for period ended 2021-06-30.,459.8883,459.8883,0,0.0004598883,accepted,,rule
+IND01_2021-06-30,IND01,2021-06-30,2021-08-14,operating_income,USD_million,Operating income was USD 52.3666 million for period ended 2021-06-30.,52.3666,52.3666,0,0.0001,accepted,,rule
+IND01_2021-06-30,IND01,2021-06-30,2021-08-14,backlog,USD_million,Backlog was USD 900.9764 million for period ended 2021-06-30.,900.9764,900.9764,0,0.0009009764,accepted,,rule
+IND01_2021-06-30,IND01,2021-06-30,2021-08-14,operating_margin,ratio,Operating margin was 11.3868% for period ended 2021-06-30.,0.113868,0.113868084924,8.49241000439e-08,1e-06,accepted,,rule
+IND02_2021-06-30,IND02,2021-06-30,2021-08-14,revenue,USD_million,Revenue was USD 544.8491 million for period ended 2021-06-30.,544.8491,544.8491,0,0.0005448491,accepted,,rule
+IND02_2021-06-30,IND02,2021-06-30,2021-08-14,operating_income,USD_million,Operating income was USD 58.5549 million for period ended 2021-06-30.,58.5549,58.5549,0,0.0001,accepted,,rule
+IND02_2021-06-30,IND02,2021-06-30,2021-08-14,backlog,USD_million,Backlog was USD 1044.1847 million for period ended 2021-06-30.,1044.1847,1044.1847,0,0.0010441847,accepted,,rule
+IND02_2021-06-30,IND02,2021-06-30,2021-08-14,operating_margin,ratio,Operating margin was 10.7470% for period ended 2021-06-30.,0.10747,0.107469939842,6.01579409759e-08,1e-06,accepted,,rule
+IND03_2021-06-30,IND03,2021-06-30,2021-08-14,revenue,USD_million,Revenue was USD 640.9927 million for period ended 2021-06-30.,640.9927,640.9927,0,0.0006409927,accepted,,rule
+IND03_2021-06-30,IND03,2021-06-30,2021-08-14,operating_income,USD_million,Operating income was USD 71.5663 million for period ended 2021-06-30.,71.5663,71.5663,0,0.0001,accepted,,rule
+IND03_2021-06-30,IND03,2021-06-30,2021-08-14,backlog,USD_million,Backlog was USD 1246.2997 million for period ended 2021-06-30.,1246.2997,1246.2997,0,0.0012462997,accepted,,rule
+IND03_2021-06-30,IND03,2021-06-30,2021-08-14,operating_margin,ratio,Operating margin was 11.1649% for period ended 2021-06-30.,0.111649,0.111649165427,1.65427312973e-07,1e-06,accepted,,rule
+IND04_2021-06-30,IND04,2021-06-30,2021-08-14,revenue,USD_million,Revenue was USD 739.2599 million for period ended 2021-06-30.,739.2599,739.2599,0,0.0007392599,accepted,,rule
+IND04_2021-06-30,IND04,2021-06-30,2021-08-14,operating_income,USD_million,Operating income was USD 85.9014 million for period ended 2021-06-30.,85.9014,85.9014,0,0.0001,accepted,,rule
+IND04_2021-06-30,IND04,2021-06-30,2021-08-14,backlog,USD_million,Backlog was USD 1459.7877 million for period ended 2021-06-30.,1459.7877,1459.7877,0,0.0014597877,accepted,,rule
+IND04_2021-06-30,IND04,2021-06-30,2021-08-14,operating_margin,ratio,Operating margin was 11.6199% for period ended 2021-06-30.,0.116199,0.116199187863,1.87863429355e-07,1e-06,accepted,,rule
+IND05_2021-06-30,IND05,2021-06-30,2021-08-14,revenue,USD_million,Revenue was USD 808.7709 million for period ended 2021-06-30.,808.7709,808.7709,0,0.0008087709,accepted,,rule
+IND05_2021-06-30,IND05,2021-06-30,2021-08-14,operating_income,USD_million,Operating income was USD 82.6893 million for period ended 2021-06-30.,82.6893,82.6893,0,0.0001,accepted,,rule
+IND05_2021-06-30,IND05,2021-06-30,2021-08-14,backlog,USD_million,Backlog was USD 1521.7871 million for period ended 2021-06-30.,1521.7871,1521.7871,0,0.0015217871,accepted,,rule
+IND05_2021-06-30,IND05,2021-06-30,2021-08-14,operating_margin,ratio,Operating margin was 10.2241% for period ended 2021-06-30.,0.102241,0.102240696346,3.03654471234e-07,1e-06,accepted,,rule
+IND06_2021-06-30,IND06,2021-06-30,2021-08-14,revenue,USD_million,Revenue was USD 888.7203 million for period ended 2021-06-30.,888.7203,888.7203,0,0.0008887203,accepted,,rule
+IND06_2021-06-30,IND06,2021-06-30,2021-08-14,operating_income,USD_million,Operating income was USD 85.9338 million for period ended 2021-06-30.,85.9338,85.9338,0,0.0001,accepted,,rule
+IND06_2021-06-30,IND06,2021-06-30,2021-08-14,backlog,USD_million,Backlog was USD 1639.3565 million for period ended 2021-06-30.,1639.3565,1639.3565,0,0.0016393565,accepted,,rule
+IND06_2021-06-30,IND06,2021-06-30,2021-08-14,operating_margin,ratio,Operating margin was 9.6694% for period ended 2021-06-30.,0.096694,0.0966938642,1.35799981149e-07,1e-06,accepted,,rule
+IND07_2021-06-30,IND07,2021-06-30,2021-08-14,revenue,USD_million,Revenue was USD 971.0032 million for period ended 2021-06-30.,971.0032,971.0032,0,0.0009710032,accepted,,rule
+IND07_2021-06-30,IND07,2021-06-30,2021-08-14,operating_income,USD_million,Operating income was USD 90.6066 million for period ended 2021-06-30.,90.6066,90.6066,0,0.0001,accepted,,rule
+IND07_2021-06-30,IND07,2021-06-30,2021-08-14,backlog,USD_million,Backlog was USD 1769.2482 million for period ended 2021-06-30.,1769.2482,1769.2482,0,0.0017692482,accepted,,rule
+IND07_2021-06-30,IND07,2021-06-30,2021-08-14,operating_margin,ratio,Operating margin was 9.3312% for period ended 2021-06-30.,0.093312,0.0933123598357,3.59835683333e-07,1e-06,accepted,,rule
+IND08_2021-06-30,IND08,2021-06-30,2021-08-14,revenue,USD_million,Revenue was USD 1250.4850 million for period ended 2021-06-30.,1250.485,1136.8045,113.6805,0.0011368045,rejected,value_mismatch,rule
+IND08_2021-06-30,IND08,2021-06-30,2021-08-14,operating_income,USD_million,Operating income was USD 146.2273 million for period ended 2021-06-30.,146.2273,146.2273,0,0.0001462273,accepted,,rule
+IND08_2021-06-30,IND08,2021-06-30,2021-08-14,backlog,USD_million,Backlog was USD 2339.0138 million for period ended 2021-06-30.,2339.0138,2339.0138,0,0.0023390138,accepted,,rule
+IND08_2021-06-30,IND08,2021-06-30,2021-08-14,operating_margin,ratio,Operating margin was 12.8630% for period ended 2021-06-30.,0.12863,0.128630120658,1.20658389391e-07,1e-06,accepted,,rule
+IND09_2021-06-30,IND09,2021-06-30,2021-08-14,revenue,USD_million,Revenue was USD 1264.7782 million for period ended 2021-06-30.,1264.7782,1264.7782,0,0.0012647782,accepted,,rule
+IND09_2021-06-30,IND09,2021-06-30,2021-08-14,operating_income,USD_million,Operating income was USD 179.5308 million for period ended 2021-06-30.,179.5308,179.5308,0,0.0001795308,accepted,,rule
+IND09_2021-06-30,IND09,2021-06-30,2021-08-14,operating_margin,ratio,Operating margin was 14.1946% for period ended 2021-06-30.,0.141946,0.141946469349,4.69349329402e-07,1e-06,accepted,,rule
+IND09_2021-06-30,IND09,2021-06-30,2021-08-14,backlog,USD_million,,,,,,missing,not_extracted,rule
+IND10_2021-06-30,IND10,2021-06-30,2021-08-14,revenue,USD_million,Revenue was USD 1284.4649 million for period ended 2021-06-30.,1284.4649,1284.4649,0,0.0012844649,accepted,,rule
+IND10_2021-06-30,IND10,2021-06-30,2021-08-14,operating_income,USD_million,Operating income was USD 144.6503 million for period ended 2021-06-30.,144.6503,144.6503,0,0.0001446503,accepted,,rule
+IND10_2021-06-30,IND10,2021-06-30,2021-08-14,backlog,USD_million,Backlog was USD 2505.6934 million for period ended 2021-06-30.,2505.6934,2505.6934,0,0.0025056934,accepted,,rule
+IND10_2021-06-30,IND10,2021-06-30,2021-08-14,operating_margin,ratio,Operating margin was 11.2615% for period ended 2021-06-30.,0.112615,0.112615222105,2.22105329614e-07,1e-06,accepted,,rule
+IND11_2021-06-30,IND11,2021-06-30,2021-08-14,revenue,USD_million,Revenue was USD 1398.4548 million for period ended 2021-06-30.,1398.4548,1398.4548,0,0.0013984548,accepted,,rule
+IND11_2021-06-30,IND11,2021-06-30,2021-08-14,operating_income,USD_million,Operating income was USD 168.6979 million for period ended 2021-06-30.,168.6979,168.6979,0,0.0001686979,accepted,,rule
+IND11_2021-06-30,IND11,2021-06-30,2021-08-14,backlog,USD_million,Backlog was USD 2802.7985 million for period ended 2021-06-30.,2802.7985,2802.7985,0,0.0028027985,accepted,,rule
+IND11_2021-06-30,IND11,2021-06-30,2021-08-14,operating_margin,ratio,Operating margin was 12.0632% for period ended 2021-06-30.,0.120632,0.120631642868,3.57132457912e-07,1e-06,accepted,,rule
+IND12_2021-06-30,IND12,2021-06-30,2021-08-14,revenue,USD_million,Revenue was USD 1491.9657 million for period ended 2021-06-30.,1491.9657,1491.9657,0,0.0014919657,accepted,,rule
+IND12_2021-06-30,IND12,2021-06-30,2021-08-14,operating_income,USD_million,Operating income was USD 180.1186 million for period ended 2021-06-30.,180.1186,180.1186,0,0.0001801186,accepted,,rule
+IND12_2021-06-30,IND12,2021-06-30,2021-08-14,backlog,USD_million,Backlog was USD 2991.1494 million for period ended 2021-06-30.,2991.1494,2991.1494,0,0.0029911494,accepted,,rule
+IND12_2021-06-30,IND12,2021-06-30,2021-08-14,operating_margin,ratio,Operating margin was 12.0726% for period ended 2021-06-30.,0.120726,0.120725697648,3.02351588918e-07,1e-06,accepted,,rule
+IND01_2021-09-30,IND01,2021-09-30,2021-11-14,revenue,USD_million,Revenue was USD 453.6868 million for period ended 2021-09-30.,453.6868,453.6868,0,0.0004536868,accepted,,rule
+IND01_2021-09-30,IND01,2021-09-30,2021-11-14,operating_income,USD_million,Operating income was USD 47.2196 million for period ended 2021-09-30.,47.2196,47.2196,0,0.0001,accepted,,rule
+IND01_2021-09-30,IND01,2021-09-30,2021-11-14,backlog,USD_million,Backlog was USD 859.2216 million for period ended 2021-09-30.,859.2216,859.2216,0,0.0008592216,accepted,,rule
+IND01_2021-09-30,IND01,2021-09-30,2021-11-14,operating_margin,ratio,Operating margin was 10.4080% for period ended 2021-09-30.,0.10408,0.104079730775,2.69225377506e-07,1e-06,accepted,,rule
+IND02_2021-09-30,IND02,2021-09-30,2021-11-14,revenue,USD_million,Revenue was USD 552.4438 million for period ended 2021-09-30.,552.4438,552.4438,0,0.0005524438,accepted,,rule
+IND02_2021-09-30,IND02,2021-09-30,2021-11-14,operating_income,USD_million,Operating income was USD 61.5374 million for period ended 2021-09-30.,61.5374,61.5374,0,0.0001,accepted,,rule
+IND02_2021-09-30,IND02,2021-09-30,2021-11-14,backlog,USD_million,Backlog was USD 1073.1819 million for period ended 2021-09-30.,1073.1819,1073.1819,0,0.0010731819,accepted,,rule
+IND02_2021-09-30,IND02,2021-09-30,2021-11-14,operating_margin,ratio,Operating margin was 11.1391% for period ended 2021-09-30.,0.111391,0.111391240159,2.4015872746e-07,1e-06,accepted,,rule
+IND03_2021-09-30,IND03,2021-09-30,2021-11-14,revenue,USD_million,Revenue was USD 660.1182 million for period ended 2021-09-30.,660.1182,660.1182,0,0.0006601182,accepted,,rule
+IND03_2021-09-30,IND03,2021-09-30,2021-11-14,operating_income,USD_million,Operating income was USD 81.4253 million for period ended 2021-09-30.,81.4253,81.4253,0,0.0001,accepted,,rule
+IND03_2021-09-30,IND03,2021-09-30,2021-11-14,backlog,USD_million,Backlog was USD 1334.9770 million for period ended 2021-09-30.,1334.977,1334.977,0,0.001334977,accepted,,rule
+IND03_2021-09-30,IND03,2021-09-30,2021-11-14,operating_margin,ratio,Operating margin was 12.3350% for period ended 2021-09-30.,0.12335,0.123349575879,4.24121013504e-07,1e-06,accepted,,rule
+IND04_2021-09-30,IND04,2021-09-30,2021-11-14,revenue,USD_million,Revenue was USD 738.3953 million for period ended 2021-09-30.,738.3953,738.3953,0,0.0007383953,accepted,,rule
+IND04_2021-09-30,IND04,2021-09-30,2021-11-14,operating_income,USD_million,Operating income was USD 83.1537 million for period ended 2021-09-30.,83.1537,83.1537,0,0.0001,accepted,,rule
+IND04_2021-09-30,IND04,2021-09-30,2021-11-14,backlog,USD_million,Backlog was USD 1440.4324 million for period ended 2021-09-30.,1440.4324,1440.4324,0,0.0014404324,accepted,,rule
+IND04_2021-09-30,IND04,2021-09-30,2021-11-14,operating_margin,ratio,Operating margin was 12.2614% for period ended 2021-09-30.,0.122614,0.112614069997,0.00999993000253,1e-06,rejected,value_mismatch,rule
+IND05_2021-09-30,IND05,2021-09-30,2021-11-14,revenue,USD_million,Revenue was USD 825.4131 million for period ended 2021-09-30.,825.4131,825.4131,0,0.0008254131,accepted,,rule
+IND05_2021-09-30,IND05,2021-09-30,2021-11-14,operating_income,USD_million,Operating income was USD 90.3207 million for period ended 2021-09-30.,90.3207,90.3207,0,0.0001,accepted,,rule
+IND05_2021-09-30,IND05,2021-09-30,2021-11-14,backlog,USD_million,Backlog was USD 1592.6340 million for period ended 2021-09-30.,1592.634,1592.634,0,0.001592634,accepted,,rule
+IND05_2021-09-30,IND05,2021-09-30,2021-11-14,operating_margin,ratio,Operating margin was 10.9425% for period ended 2021-09-30.,0.109425,0.10942484436,1.55640248509e-07,1e-06,accepted,,rule
+IND06_2021-09-30,IND06,2021-09-30,2021-11-14,revenue,USD_million,Revenue was USD 915.3795 million for period ended 2021-09-30.,915.3795,915.3795,0,0.0009153795,accepted,,rule
+IND06_2021-09-30,IND06,2021-09-30,2021-11-14,operating_income,USD_million,Operating income was USD 99.2930 million for period ended 2021-09-30.,99.293,99.293,0,0.0001,accepted,,rule
+IND06_2021-09-30,IND06,2021-09-30,2021-11-14,backlog,USD_million,Backlog was USD 1760.4090 million for period ended 2021-09-30.,1760.409,1760.409,0,0.001760409,accepted,,rule
+IND06_2021-09-30,IND06,2021-09-30,2021-11-14,operating_margin,ratio,Operating margin was 10.8472% for period ended 2021-09-30.,0.108472,0.108471950705,4.92954015247e-08,1e-06,accepted,,rule
+IND07_2021-09-30,IND07,2021-09-30,2021-11-14,revenue,USD_million,Revenue was USD 1012.7484 million for period ended 2021-09-30.,1012.7484,1012.7484,0,0.0010127484,accepted,,rule
+IND07_2021-09-30,IND07,2021-09-30,2021-11-14,operating_income,USD_million,Operating income was USD 112.7787 million for period ended 2021-09-30.,112.7787,112.7787,0,0.0001127787,accepted,,rule
+IND07_2021-09-30,IND07,2021-09-30,2021-11-14,backlog,USD_million,Backlog was USD 1967.1562 million for period ended 2021-09-30.,1967.1562,1967.1562,0,0.0019671562,accepted,,rule
+IND07_2021-09-30,IND07,2021-09-30,2021-11-14,operating_margin,ratio,Operating margin was 11.1359% for period ended 2021-09-30.,0.111359,0.111359050283,5.02833675253e-08,1e-06,accepted,,rule
+IND08_2021-09-30,IND08,2021-09-30,2021-11-14,revenue,USD_million,Revenue was USD 1113.9333 million for period ended 2021-09-30.,1113.9333,1113.9333,0,0.0011139333,accepted,,rule
+IND08_2021-09-30,IND08,2021-09-30,2021-11-14,operating_income,USD_million,Operating income was USD 128.6238 million for period ended 2021-09-30.,128.6238,128.6238,0,0.0001286238,accepted,,rule
+IND08_2021-09-30,IND08,2021-09-30,2021-11-14,backlog,USD_million,Backlog was USD 2194.2118 million for period ended 2021-09-30.,2194.2118,2194.2118,0,0.0021942118,accepted,,rule
+IND08_2021-09-30,IND08,2021-09-30,2021-11-14,operating_margin,ratio,Operating margin was 11.5468% for period ended 2021-09-30.,0.115468,0.115468134403,1.34402661264e-07,1e-06,accepted,,rule
+IND09_2021-09-30,IND09,2021-09-30,2021-11-14,revenue,USD_million,Revenue was USD 1259.8938 million for period ended 2021-09-30.,1259.8938,1259.8938,0,0.0012598938,accepted,,rule
+IND09_2021-09-30,IND09,2021-09-30,2021-11-14,operating_income,USD_million,Operating income was USD 172.6204 million for period ended 2021-09-30.,172.6204,172.6204,0,0.0001726204,accepted,,rule
+IND09_2021-09-30,IND09,2021-09-30,2021-11-14,backlog,USD_million,Backlog was USD 2662.6752 million for period ended 2021-09-30.,2662.6752,2662.6752,0,0.0026626752,accepted,,rule
+IND09_2021-09-30,IND09,2021-09-30,2021-11-14,operating_margin,ratio,Operating margin was 13.7012% for period ended 2021-09-30.,0.137012,0.137011865603,1.34396724555e-07,1e-06,accepted,,rule
+IND10_2021-09-30,IND10,2021-09-30,2021-11-14,revenue,USD_million,Revenue was USD 1289.3383 million for period ended 2021-09-30.,1289.3383,1289.3383,0,0.0012893383,accepted,,rule
+IND10_2021-09-30,IND10,2021-09-30,2021-11-14,operating_income,USD_million,Operating income was USD 143.7725 million for period ended 2021-09-30.,143.7725,143.7725,0,0.0001437725,accepted,,rule
+IND10_2021-09-30,IND10,2021-09-30,2021-11-14,backlog,USD_million,Backlog was USD 2505.6890 million for period ended 2021-09-30.,2505.689,2505.689,0,0.002505689,accepted,,rule
+IND10_2021-09-30,IND10,2021-09-30,2021-11-14,operating_margin,ratio,Operating margin was 11.1509% for period ended 2021-09-30.,0.111509,0.111508748325,2.5167537486e-07,1e-06,accepted,,rule
+IND11_2021-09-30,IND11,2021-09-30,2021-11-14,revenue,USD_million,Revenue was USD 1425.2632 million for period ended 2021-09-30.,1425.2632,1425.2632,0,0.0014252632,accepted,,rule
+IND11_2021-09-30,IND11,2021-09-30,2021-11-14,operating_income,USD_million,Operating income was USD 181.1879 million for period ended 2021-09-30.,181.1879,181.1879,0,0.0001811879,accepted,,rule
+IND11_2021-09-30,IND11,2021-09-30,2021-11-14,backlog,USD_million,Backlog was USD 2918.2355 million for period ended 2021-09-30.,2918.2355,2918.2355,0,0.0029182355,accepted,,rule
+IND11_2021-09-30,IND11,2021-09-30,2021-11-14,operating_margin,ratio,Operating margin was 12.7126% for period ended 2021-09-30.,0.127126,0.127125923128,7.6872257726e-08,1e-06,accepted,,rule
+IND12_2021-09-30,IND12,2021-09-30,2021-11-14,revenue,USD_million,Revenue was USD 1520.9413 million for period ended 2021-09-30.,1520.9413,1520.9413,0,0.0015209413,accepted,,rule
+IND12_2021-09-30,IND12,2021-09-30,2021-11-14,operating_income,USD_million,Operating income was USD 193.6815 million for period ended 2021-09-30.,193.6815,193.6815,0,0.0001936815,accepted,,rule
+IND12_2021-09-30,IND12,2021-09-30,2021-11-14,backlog,USD_million,Backlog was USD 3116.3392 million for period ended 2021-09-30.,3116.3392,3116.3392,0,0.0031163392,accepted,,rule
+IND12_2021-09-30,IND12,2021-09-30,2021-11-14,operating_margin,ratio,Operating margin was 12.7343% for period ended 2021-09-30.,0.127343,0.127343178859,1.78859039496e-07,1e-06,accepted,,rule
+IND01_2021-12-31,IND01,2021-12-31,2022-02-14,revenue,USD_million,Revenue was USD 522.5312 million for period ended 2021-12-31.,522.5312,475.0284,47.5028,0.0004750284,rejected,value_mismatch,rule
+IND01_2021-12-31,IND01,2021-12-31,2022-02-14,operating_income,USD_million,Operating income was USD 58.9337 million for period ended 2021-12-31.,58.9337,58.9337,0,0.0001,accepted,,rule
+IND01_2021-12-31,IND01,2021-12-31,2022-02-14,backlog,USD_million,Backlog was USD 962.9253 million for period ended 2021-12-31.,962.9253,962.9253,0,0.0009629253,accepted,,rule
+IND01_2021-12-31,IND01,2021-12-31,2022-02-14,operating_margin,ratio,Operating margin was 12.4064% for period ended 2021-12-31.,0.124064,0.124063529675,4.70324721627e-07,1e-06,accepted,,rule
+IND02_2021-12-31,IND02,2021-12-31,2022-02-14,revenue,USD_million,Revenue was USD 555.4077 million for period ended 2021-12-31.,555.4077,555.4077,0,0.0005554077,accepted,,rule
+IND02_2021-12-31,IND02,2021-12-31,2022-02-14,operating_income,USD_million,Operating income was USD 61.6873 million for period ended 2021-12-31.,61.6873,61.6873,0,0.0001,accepted,,rule
+IND02_2021-12-31,IND02,2021-12-31,2022-02-14,backlog,USD_million,Backlog was USD 1077.7377 million for period ended 2021-12-31.,1077.7377,1077.7377,0,0.0010777377,accepted,,rule
+IND02_2021-12-31,IND02,2021-12-31,2022-02-14,operating_margin,ratio,Operating margin was 11.1067% for period ended 2021-12-31.,0.111067,0.111066699291,3.00708650591e-07,1e-06,accepted,,rule
+IND03_2021-12-31,IND03,2021-12-31,2022-02-14,revenue,USD_million,Revenue was USD 664.2120 million for period ended 2021-12-31.,664.212,664.212,0,0.000664212,accepted,,rule
+IND03_2021-12-31,IND03,2021-12-31,2022-02-14,operating_income,USD_million,Operating income was USD 81.9909 million for period ended 2021-12-31.,81.9909,81.9909,0,0.0001,accepted,,rule
+IND03_2021-12-31,IND03,2021-12-31,2022-02-14,backlog,USD_million,Backlog was USD 1343.6602 million for period ended 2021-12-31.,1343.6602,1343.6602,0,0.0013436602,accepted,,rule
+IND03_2021-12-31,IND03,2021-12-31,2022-02-14,operating_margin,ratio,Operating margin was 12.3441% for period ended 2021-12-31.,0.123441,0.123440859244,1.40756264561e-07,1e-06,accepted,,rule
+IND04_2021-12-31,IND04,2021-12-31,2022-02-14,revenue,USD_million,Revenue was USD 732.0309 million for period ended 2021-12-31.,732.0309,732.0309,0,0.0007320309,accepted,,rule
+IND04_2021-12-31,IND04,2021-12-31,2022-02-14,operating_income,USD_million,Operating income was USD 77.0724 million for period ended 2021-12-31.,77.0724,77.0724,0,0.0001,accepted,,rule
+IND04_2021-12-31,IND04,2021-12-31,2022-02-14,backlog,USD_million,Backlog was USD 1392.2532 million for period ended 2021-12-31.,1392.2532,1392.2532,0,0.0013922532,accepted,,rule
+IND04_2021-12-31,IND04,2021-12-31,2022-02-14,operating_margin,ratio,Operating margin was 10.5286% for period ended 2021-12-31.,0.105286,0.105285719496,2.80503732838e-07,1e-06,accepted,,rule
+IND05_2021-12-31,IND05,2021-12-31,2022-02-14,revenue,USD_million,Revenue was USD 821.0014 million for period ended 2021-12-31.,821.0014,821.0014,0,0.0008210014,accepted,,rule
+IND05_2021-12-31,IND05,2021-12-31,2022-02-14,operating_income,USD_million,Operating income was USD 85.1750 million for period ended 2021-12-31.,85.175,85.175,0,0.0001,accepted,,rule
+IND05_2021-12-31,IND05,2021-12-31,2022-02-14,backlog,USD_million,Backlog was USD 1553.0353 million for period ended 2021-12-31.,1553.0353,1553.0353,0,0.0015530353,accepted,,rule
+IND05_2021-12-31,IND05,2021-12-31,2022-02-14,operating_margin,ratio,Operating margin was 10.3745% for period ended 2021-12-31.,0.103745,0.103745255489,2.55489211107e-07,1e-06,accepted,,rule
+IND06_2021-12-31,IND06,2021-12-31,2022-02-14,revenue,USD_million,Revenue was USD 947.0451 million for period ended 2021-12-31.,947.0451,947.0451,0,0.0009470451,accepted,,rule
+IND06_2021-12-31,IND06,2021-12-31,2022-02-14,operating_income,USD_million,Operating income was USD 115.9903 million for period ended 2021-12-31.,115.9903,115.9903,0,0.0001159903,accepted,,rule
+IND06_2021-12-31,IND06,2021-12-31,2022-02-14,backlog,USD_million,Backlog was USD 1909.7226 million for period ended 2021-12-31.,1909.7226,1909.7226,0,0.0019097226,accepted,,rule
+IND06_2021-12-31,IND06,2021-12-31,2022-02-14,operating_margin,ratio,Operating margin was 12.2476% for period ended 2021-12-31.,0.122476,0.122476004575,4.57465014481e-09,1e-06,accepted,,rule
+IND07_2021-12-31,IND07,2021-12-31,2022-02-14,revenue,USD_million,Revenue was USD 1024.9121 million for period ended 2021-12-31.,1024.9121,1024.9121,0,0.0010249121,accepted,,rule
+IND07_2021-12-31,IND07,2021-12-31,2022-02-14,operating_income,USD_million,Operating income was USD 117.1768 million for period ended 2021-12-31.,117.1768,117.1768,0,0.0001171768,accepted,,rule
+IND07_2021-12-31,IND07,2021-12-31,2022-02-14,backlog,USD_million,Backlog was USD 2011.0729 million for period ended 2021-12-31.,2011.0729,2011.0729,0,0.0020110729,accepted,,rule
+IND07_2021-12-31,IND07,2021-12-31,2022-02-14,operating_margin,ratio,Operating margin was 11.4329% for period ended 2021-12-31.,0.114329,0.114328633646,3.66354246384e-07,1e-06,accepted,,rule
+IND08_2021-12-31,IND08,2021-12-31,2022-02-14,revenue,USD_million,Revenue was USD 1138.8806 million for period ended 2021-12-31.,1138.8806,1138.8806,0,0.0011388806,accepted,,rule
+IND08_2021-12-31,IND08,2021-12-31,2022-02-14,operating_income,USD_million,Operating income was USD 140.7001 million for period ended 2021-12-31.,140.7001,140.7001,0,0.0001407001,accepted,,rule
+IND08_2021-12-31,IND08,2021-12-31,2022-02-14,operating_margin,ratio,Operating margin was 12.3542% for period ended 2021-12-31.,0.123542,0.123542450367,4.50367492411e-07,1e-06,accepted,,rule
+IND08_2021-12-31,IND08,2021-12-31,2022-02-14,backlog,USD_million,,,,,,missing,not_extracted,rule
+IND09_2021-12-31,IND09,2021-12-31,2022-02-14,revenue,USD_million,Revenue was USD 1218.8265 million for period ended 2021-12-31.,1218.8265,1218.8265,0,0.0012188265,accepted,,rule
+IND09_2021-12-31,IND09,2021-12-31,2022-02-14,operating_income,USD_million,Operating income was USD 143.1419 million for period ended 2021-12-31.,143.1419,143.1419,0,0.0001431419,accepted,,rule
+IND09_2021-12-31,IND09,2021-12-31,2022-02-14,backlog,USD_million,Backlog was USD 2416.8709 million for period ended 2021-12-31.,2416.8709,2416.8709,0,0.0024168709,accepted,,rule
+IND09_2021-12-31,IND09,2021-12-31,2022-02-14,operating_margin,ratio,Operating margin was 11.7442% for period ended 2021-12-31.,0.117442,0.117442392334,3.92333937616e-07,1e-06,accepted,,rule
+IND10_2021-12-31,IND10,2021-12-31,2022-02-14,revenue,USD_million,Revenue was USD 1322.1859 million for period ended 2021-12-31.,1322.1859,1322.1859,0,0.0013221859,accepted,,rule
+IND10_2021-12-31,IND10,2021-12-31,2022-02-14,operating_income,USD_million,Operating income was USD 160.0999 million for period ended 2021-12-31.,160.0999,160.0999,0,0.0001600999,accepted,,rule
+IND10_2021-12-31,IND10,2021-12-31,2022-02-14,backlog,USD_million,Backlog was USD 2653.9560 million for period ended 2021-12-31.,2653.956,2653.956,0,0.002653956,accepted,,rule
+IND10_2021-12-31,IND10,2021-12-31,2022-02-14,operating_margin,ratio,Operating margin was 12.1087% for period ended 2021-12-31.,0.121087,0.121087284322,2.84322121402e-07,1e-06,accepted,,rule
+IND11_2021-12-31,IND11,2021-12-31,2022-02-14,revenue,USD_million,Revenue was USD 1444.8437 million for period ended 2021-12-31.,1444.8437,1444.8437,0,0.0014448437,accepted,,rule
+IND11_2021-12-31,IND11,2021-12-31,2022-02-14,operating_income,USD_million,Operating income was USD 189.1998 million for period ended 2021-12-31.,189.1998,189.1998,0,0.0001891998,accepted,,rule
+IND11_2021-12-31,IND11,2021-12-31,2022-02-14,backlog,USD_million,Backlog was USD 2995.1443 million for period ended 2021-12-31.,2995.1443,2995.1443,0,0.0029951443,accepted,,rule
+IND11_2021-12-31,IND11,2021-12-31,2022-02-14,operating_margin,ratio,Operating margin was 14.0948% for period ended 2021-12-31.,0.140948,0.130948281811,0.00999971818931,1e-06,rejected,value_mismatch,rule
+IND12_2021-12-31,IND12,2021-12-31,2022-02-14,revenue,USD_million,Revenue was USD 1457.1559 million for period ended 2021-12-31.,1457.1559,1457.1559,0,0.0014571559,accepted,,rule
+IND12_2021-12-31,IND12,2021-12-31,2022-02-14,operating_income,USD_million,Operating income was USD 149.9730 million for period ended 2021-12-31.,149.973,149.973,0,0.000149973,accepted,,rule
+IND12_2021-12-31,IND12,2021-12-31,2022-02-14,backlog,USD_million,Backlog was USD 2748.4069 million for period ended 2021-12-31.,2748.4069,2748.4069,0,0.0027484069,accepted,,rule
+IND12_2021-12-31,IND12,2021-12-31,2022-02-14,operating_margin,ratio,Operating margin was 10.2922% for period ended 2021-12-31.,0.102922,0.102921725808,2.74191526095e-07,1e-06,accepted,,rule
+IND01_2022-03-31,IND01,2022-03-31,2022-05-15,revenue,USD_million,Revenue was USD 464.1713 million for period ended 2022-03-31.,464.1713,464.1713,0,0.0004641713,accepted,,rule
+IND01_2022-03-31,IND01,2022-03-31,2022-05-15,operating_income,USD_million,Operating income was USD 50.8282 million for period ended 2022-03-31.,50.8282,50.8282,0,0.0001,accepted,,rule
+IND01_2022-03-31,IND01,2022-03-31,2022-05-15,backlog,USD_million,Backlog was USD 895.8601 million for period ended 2022-03-31.,895.8601,895.8601,0,0.0008958601,accepted,,rule
+IND01_2022-03-31,IND01,2022-03-31,2022-05-15,operating_margin,ratio,Operating margin was 10.9503% for period ended 2022-03-31.,0.109503,0.109503108012,1.08012063654e-07,1e-06,accepted,,rule
+IND02_2022-03-31,IND02,2022-03-31,2022-05-15,revenue,USD_million,Revenue was USD 572.3841 million for period ended 2022-03-31.,572.3841,572.3841,0,0.0005723841,accepted,,rule
+IND02_2022-03-31,IND02,2022-03-31,2022-05-15,operating_income,USD_million,Operating income was USD 70.4723 million for period ended 2022-03-31.,70.4723,70.4723,0,0.0001,accepted,,rule
+IND02_2022-03-31,IND02,2022-03-31,2022-05-15,backlog,USD_million,Backlog was USD 1156.6760 million for period ended 2022-03-31.,1156.676,1156.676,0,0.001156676,accepted,,rule
+IND02_2022-03-31,IND02,2022-03-31,2022-05-15,operating_margin,ratio,Operating margin was 12.3121% for period ended 2022-03-31.,0.123121,0.123120645734,3.542657806e-07,1e-06,accepted,,rule
+IND03_2022-03-31,IND03,2022-03-31,2022-05-15,revenue,USD_million,Revenue was USD 635.3007 million for period ended 2022-03-31.,635.3007,635.3007,0,0.0006353007,accepted,,rule
+IND03_2022-03-31,IND03,2022-03-31,2022-05-15,operating_income,USD_million,Operating income was USD 62.3797 million for period ended 2022-03-31.,62.3797,62.3797,0,0.0001,accepted,,rule
+IND03_2022-03-31,IND03,2022-03-31,2022-05-15,backlog,USD_million,Backlog was USD 1178.2256 million for period ended 2022-03-31.,1178.2256,1178.2256,0,0.0011782256,accepted,,rule
+IND03_2022-03-31,IND03,2022-03-31,2022-05-15,operating_margin,ratio,Operating margin was 9.8189% for period ended 2022-03-31.,0.098189,0.0981892511688,2.51168777249e-07,1e-06,accepted,,rule
+IND04_2022-03-31,IND04,2022-03-31,2022-05-15,revenue,USD_million,Revenue was USD 746.4070 million for period ended 2022-03-31.,746.407,746.407,0,0.000746407,accepted,,rule
+IND04_2022-03-31,IND04,2022-03-31,2022-05-15,operating_income,USD_million,Operating income was USD 83.6050 million for period ended 2022-03-31.,83.605,83.605,0,0.0001,accepted,,rule
+IND04_2022-03-31,IND04,2022-03-31,2022-05-15,backlog,USD_million,Backlog was USD 1453.0550 million for period ended 2022-03-31.,1453.055,1453.055,0,0.001453055,accepted,,rule
+IND04_2022-03-31,IND04,2022-03-31,2022-05-15,operating_margin,ratio,Operating margin was 11.2010% for period ended 2022-03-31.,0.11201,0.112009935598,6.44018611912e-08,1e-06,accepted,,rule
+IND05_2022-03-31,IND05,2022-03-31,2022-05-15,revenue,USD_million,Revenue was USD 866.2826 million for period ended 2022-03-31.,866.2826,866.2826,0,0.0008662826,accepted,,rule
+IND05_2022-03-31,IND05,2022-03-31,2022-05-15,operating_income,USD_million,Operating income was USD 110.5277 million for period ended 2022-03-31.,110.5277,110.5277,0,0.0001105277,accepted,,rule
+IND05_2022-03-31,IND05,2022-03-31,2022-05-15,backlog,USD_million,Backlog was USD 1776.3904 million for period ended 2022-03-31.,1776.3904,1776.3904,0,0.0017763904,accepted,,rule
+IND05_2022-03-31,IND05,2022-03-31,2022-05-15,operating_margin,ratio,Operating margin was 12.7589% for period ended 2022-03-31.,0.127589,0.127588502874,4.97125764748e-07,1e-06,accepted,,rule
+IND06_2022-03-31,IND06,2022-03-31,2022-05-15,revenue,USD_million,Revenue was USD 996.5056 million for period ended 2022-03-31.,996.5056,905.9142,90.5914,0.0009059142,rejected,value_mismatch,rule
+IND06_2022-03-31,IND06,2022-03-31,2022-05-15,operating_income,USD_million,Operating income was USD 88.1227 million for period ended 2022-03-31.,88.1227,88.1227,0,0.0001,accepted,,rule
+IND06_2022-03-31,IND06,2022-03-31,2022-05-15,backlog,USD_million,Backlog was USD 1674.5820 million for period ended 2022-03-31.,1674.582,1674.582,0,0.001674582,accepted,,rule
+IND06_2022-03-31,IND06,2022-03-31,2022-05-15,operating_margin,ratio,Operating margin was 9.7275% for period ended 2022-03-31.,0.097275,0.0972748854141,1.14585906708e-07,1e-06,accepted,,rule
+IND07_2022-03-31,IND07,2022-03-31,2022-05-15,revenue,USD_million,Revenue was USD 991.5028 million for period ended 2022-03-31.,991.5028,991.5028,0,0.0009915028,accepted,,rule
+IND07_2022-03-31,IND07,2022-03-31,2022-05-15,operating_income,USD_million,Operating income was USD 93.9532 million for period ended 2022-03-31.,93.9532,93.9532,0,0.0001,accepted,,rule
+IND07_2022-03-31,IND07,2022-03-31,2022-05-15,backlog,USD_million,Backlog was USD 1816.1582 million for period ended 2022-03-31.,1816.1582,1816.1582,0,0.0018161582,accepted,,rule
+IND07_2022-03-31,IND07,2022-03-31,2022-05-15,operating_margin,ratio,Operating margin was 9.4758% for period ended 2022-03-31.,0.094758,0.0947583809143,3.80914305029e-07,1e-06,accepted,,rule
+IND08_2022-03-31,IND08,2022-03-31,2022-05-15,revenue,USD_million,Revenue was USD 1173.9874 million for period ended 2022-03-31.,1173.9874,1173.9874,0,0.0011739874,accepted,,rule
+IND08_2022-03-31,IND08,2022-03-31,2022-05-15,operating_income,USD_million,Operating income was USD 159.3365 million for period ended 2022-03-31.,159.3365,159.3365,0,0.0001593365,accepted,,rule
+IND08_2022-03-31,IND08,2022-03-31,2022-05-15,backlog,USD_million,Backlog was USD 2471.0279 million for period ended 2022-03-31.,2471.0279,2471.0279,0,0.0024710279,accepted,,rule
+IND08_2022-03-31,IND08,2022-03-31,2022-05-15,operating_margin,ratio,Operating margin was 13.5722% for period ended 2022-03-31.,0.135722,0.135722495829,4.95829171582e-07,1e-06,accepted,,rule
+IND09_2022-03-31,IND09,2022-03-31,2022-05-15,revenue,USD_million,Revenue was USD 1243.5194 million for period ended 2022-03-31.,1243.5194,1243.5194,0,0.0012435194,accepted,,rule
+IND09_2022-03-31,IND09,2022-03-31,2022-05-15,operating_income,USD_million,Operating income was USD 154.7820 million for period ended 2022-03-31.,154.782,154.782,0,0.000154782,accepted,,rule
+IND09_2022-03-31,IND09,2022-03-31,2022-05-15,backlog,USD_million,Backlog was USD 2524.1032 million for period ended 2022-03-31.,2524.1032,2524.1032,0,0.0025241032,accepted,,rule
+IND09_2022-03-31,IND09,2022-03-31,2022-05-15,operating_margin,ratio,Operating margin was 12.4471% for period ended 2022-03-31.,0.124471,0.12447091698,8.30203372715e-08,1e-06,accepted,,rule
+IND10_2022-03-31,IND10,2022-03-31,2022-05-15,revenue,USD_million,Revenue was USD 1291.4276 million for period ended 2022-03-31.,1291.4276,1291.4276,0,0.0012914276,accepted,,rule
+IND10_2022-03-31,IND10,2022-03-31,2022-05-15,operating_income,USD_million,Operating income was USD 137.3024 million for period ended 2022-03-31.,137.3024,137.3024,0,0.0001373024,accepted,,rule
+IND10_2022-03-31,IND10,2022-03-31,2022-05-15,backlog,USD_million,Backlog was USD 2465.0621 million for period ended 2022-03-31.,2465.0621,2465.0621,0,0.0024650621,accepted,,rule
+IND10_2022-03-31,IND10,2022-03-31,2022-05-15,operating_margin,ratio,Operating margin was 10.6318% for period ended 2022-03-31.,0.106318,0.106318310062,3.10062445621e-07,1e-06,accepted,,rule
+IND11_2022-03-31,IND11,2022-03-31,2022-05-15,revenue,USD_million,Revenue was USD 1425.8000 million for period ended 2022-03-31.,1425.8,1425.8,0,0.0014258,accepted,,rule
+IND11_2022-03-31,IND11,2022-03-31,2022-05-15,operating_income,USD_million,Operating income was USD 172.9698 million for period ended 2022-03-31.,172.9698,172.9698,0,0.0001729698,accepted,,rule
+IND11_2022-03-31,IND11,2022-03-31,2022-05-15,backlog,USD_million,Backlog was USD 2864.0921 million for period ended 2022-03-31.,2864.0921,2864.0921,0,0.0028640921,accepted,,rule
+IND11_2022-03-31,IND11,2022-03-31,2022-05-15,operating_margin,ratio,Operating margin was 12.1314% for period ended 2022-03-31.,0.121314,0.121314209567,2.09566559134e-07,1e-06,accepted,,rule
+IND12_2022-03-31,IND12,2022-03-31,2022-05-15,revenue,USD_million,Revenue was USD 1534.1017 million for period ended 2022-03-31.,1534.1017,1534.1017,0,0.0015341017,accepted,,rule
+IND12_2022-03-31,IND12,2022-03-31,2022-05-15,operating_income,USD_million,Operating income was USD 192.7613 million for period ended 2022-03-31.,192.7613,192.7613,0,0.0001927613,accepted,,rule
+IND12_2022-03-31,IND12,2022-03-31,2022-05-15,backlog,USD_million,Backlog was USD 3125.9974 million for period ended 2022-03-31.,3125.9974,3125.9974,0,0.0031259974,accepted,,rule
+IND12_2022-03-31,IND12,2022-03-31,2022-05-15,operating_margin,ratio,Operating margin was 12.5651% for period ended 2022-03-31.,0.125651,0.125650926532,7.34675543179e-08,1e-06,accepted,,rule
+IND01_2022-06-30,IND01,2022-06-30,2022-08-14,revenue,USD_million,Revenue was USD 486.7586 million for period ended 2022-06-30.,486.7586,486.7586,0,0.0004867586,accepted,,rule
+IND01_2022-06-30,IND01,2022-06-30,2022-08-14,operating_income,USD_million,Operating income was USD 63.4054 million for period ended 2022-06-30.,63.4054,63.4054,0,0.0001,accepted,,rule
+IND01_2022-06-30,IND01,2022-06-30,2022-08-14,backlog,USD_million,Backlog was USD 1006.8127 million for period ended 2022-06-30.,1006.8127,1006.8127,0,0.0010068127,accepted,,rule
+IND01_2022-06-30,IND01,2022-06-30,2022-08-14,operating_margin,ratio,Operating margin was 13.0260% for period ended 2022-06-30.,0.13026,0.130260461757,4.61756607922e-07,1e-06,accepted,,rule
+IND02_2022-06-30,IND02,2022-06-30,2022-08-14,revenue,USD_million,Revenue was USD 577.1741 million for period ended 2022-06-30.,577.1741,577.1741,0,0.0005771741,accepted,,rule
+IND02_2022-06-30,IND02,2022-06-30,2022-08-14,operating_income,USD_million,Operating income was USD 71.7355 million for period ended 2022-06-30.,71.7355,71.7355,0,0.0001,accepted,,rule
+IND02_2022-06-30,IND02,2022-06-30,2022-08-14,backlog,USD_million,Backlog was USD 1170.8455 million for period ended 2022-06-30.,1170.8455,1170.8455,0,0.0011708455,accepted,,rule
+IND02_2022-06-30,IND02,2022-06-30,2022-08-14,operating_margin,ratio,Operating margin was 12.4287% for period ended 2022-06-30.,0.124287,0.124287455033,4.55033065436e-07,1e-06,accepted,,rule
+IND03_2022-06-30,IND03,2022-06-30,2022-08-14,revenue,USD_million,Revenue was USD 644.8231 million for period ended 2022-06-30.,644.8231,644.8231,0,0.0006448231,accepted,,rule
+IND03_2022-06-30,IND03,2022-06-30,2022-08-14,operating_income,USD_million,Operating income was USD 66.1770 million for period ended 2022-06-30.,66.177,66.177,0,0.0001,accepted,,rule
+IND03_2022-06-30,IND03,2022-06-30,2022-08-14,backlog,USD_million,Backlog was USD 1214.9676 million for period ended 2022-06-30.,1214.9676,1214.9676,0,0.0012149676,accepted,,rule
+IND03_2022-06-30,IND03,2022-06-30,2022-08-14,operating_margin,ratio,Operating margin was 10.2628% for period ended 2022-06-30.,0.102628,0.102628147162,1.47161601377e-07,1e-06,accepted,,rule
+IND04_2022-06-30,IND04,2022-06-30,2022-08-14,revenue,USD_million,Revenue was USD 800.2531 million for period ended 2022-06-30.,800.2531,800.2531,0,0.0008002531,accepted,,rule
+IND04_2022-06-30,IND04,2022-06-30,2022-08-14,operating_income,USD_million,Operating income was USD 115.1071 million for period ended 2022-06-30.,115.1071,115.1071,0,0.0001151071,accepted,,rule
+IND04_2022-06-30,IND04,2022-06-30,2022-08-14,backlog,USD_million,Backlog was USD 1727.6847 million for period ended 2022-06-30.,1727.6847,1727.6847,0,0.0017276847,accepted,,rule
+IND04_2022-06-30,IND04,2022-06-30,2022-08-14,operating_margin,ratio,Operating margin was 14.3838% for period ended 2022-06-30.,0.143838,0.143838368136,3.68136280876e-07,1e-06,accepted,,rule
+IND05_2022-06-30,IND05,2022-06-30,2022-08-14,revenue,USD_million,Revenue was USD 864.3596 million for period ended 2022-06-30.,864.3596,864.3596,0,0.0008643596,accepted,,rule
+IND05_2022-06-30,IND05,2022-06-30,2022-08-14,operating_income,USD_million,Operating income was USD 106.7288 million for period ended 2022-06-30.,106.7288,106.7288,0,0.0001067288,accepted,,rule
+IND05_2022-06-30,IND05,2022-06-30,2022-08-14,backlog,USD_million,Backlog was USD 1748.7569 million for period ended 2022-06-30.,1748.7569,1748.7569,0,0.0017487569,accepted,,rule
+IND05_2022-06-30,IND05,2022-06-30,2022-08-14,operating_margin,ratio,Operating margin was 12.3477% for period ended 2022-06-30.,0.123477,0.123477311989,3.11989130461e-07,1e-06,accepted,,rule
+IND06_2022-06-30,IND06,2022-06-30,2022-08-14,revenue,USD_million,Revenue was USD 918.6970 million for period ended 2022-06-30.,918.697,918.697,0,0.000918697,accepted,,rule
+IND06_2022-06-30,IND06,2022-06-30,2022-08-14,operating_income,USD_million,Operating income was USD 93.0464 million for period ended 2022-06-30.,93.0464,93.0464,0,0.0001,accepted,,rule
+IND06_2022-06-30,IND06,2022-06-30,2022-08-14,backlog,USD_million,Backlog was USD 1722.7456 million for period ended 2022-06-30.,1722.7456,1722.7456,0,0.0017227456,accepted,,rule
+IND06_2022-06-30,IND06,2022-06-30,2022-08-14,operating_margin,ratio,Operating margin was 11.1281% for period ended 2022-06-30.,0.111281,0.101280835792,0.0100001642076,1e-06,rejected,value_mismatch,rule
+IND07_2022-06-30,IND07,2022-06-30,2022-08-14,revenue,USD_million,Revenue was USD 1055.0089 million for period ended 2022-06-30.,1055.0089,1055.0089,0,0.0010550089,accepted,,rule
+IND07_2022-06-30,IND07,2022-06-30,2022-08-14,operating_income,USD_million,Operating income was USD 129.5549 million for period ended 2022-06-30.,129.5549,129.5549,0,0.0001295549,accepted,,rule
+IND07_2022-06-30,IND07,2022-06-30,2022-08-14,operating_margin,ratio,Operating margin was 12.2800% for period ended 2022-06-30.,0.1228,0.122799817139,1.8286101662e-07,1e-06,accepted,,rule
+IND07_2022-06-30,IND07,2022-06-30,2022-08-14,backlog,USD_million,,,,,,missing,not_extracted,rule
+IND08_2022-06-30,IND08,2022-06-30,2022-08-14,revenue,USD_million,Revenue was USD 1191.0132 million for period ended 2022-06-30.,1191.0132,1191.0132,0,0.0011910132,accepted,,rule
+IND08_2022-06-30,IND08,2022-06-30,2022-08-14,operating_income,USD_million,Operating income was USD 166.6485 million for period ended 2022-06-30.,166.6485,166.6485,0,0.0001666485,accepted,,rule
+IND08_2022-06-30,IND08,2022-06-30,2022-08-14,backlog,USD_million,Backlog was USD 2540.2061 million for period ended 2022-06-30.,2540.2061,2540.2061,0,0.0025402061,accepted,,rule
+IND08_2022-06-30,IND08,2022-06-30,2022-08-14,operating_margin,ratio,Operating margin was 13.9922% for period ended 2022-06-30.,0.139922,0.139921623035,3.76965091586e-07,1e-06,accepted,,rule
+IND09_2022-06-30,IND09,2022-06-30,2022-08-14,revenue,USD_million,Revenue was USD 1246.0494 million for period ended 2022-06-30.,1246.0494,1246.0494,0,0.0012460494,accepted,,rule
+IND09_2022-06-30,IND09,2022-06-30,2022-08-14,operating_income,USD_million,Operating income was USD 152.6250 million for period ended 2022-06-30.,152.625,152.625,0,0.000152625,accepted,,rule
+IND09_2022-06-30,IND09,2022-06-30,2022-08-14,backlog,USD_million,Backlog was USD 2512.7595 million for period ended 2022-06-30.,2512.7595,2512.7595,0,0.0025127595,accepted,,rule
+IND09_2022-06-30,IND09,2022-06-30,2022-08-14,operating_margin,ratio,Operating margin was 12.2487% for period ended 2022-06-30.,0.122487,0.122487118087,1.18086971507e-07,1e-06,accepted,,rule
+IND10_2022-06-30,IND10,2022-06-30,2022-08-14,revenue,USD_million,Revenue was USD 1298.7627 million for period ended 2022-06-30.,1298.7627,1298.7627,0,0.0012987627,accepted,,rule
+IND10_2022-06-30,IND10,2022-06-30,2022-08-14,operating_income,USD_million,Operating income was USD 137.8639 million for period ended 2022-06-30.,137.8639,137.8639,0,0.0001378639,accepted,,rule
+IND10_2022-06-30,IND10,2022-06-30,2022-08-14,backlog,USD_million,Backlog was USD 2477.6077 million for period ended 2022-06-30.,2477.6077,2477.6077,0,0.0024776077,accepted,,rule
+IND10_2022-06-30,IND10,2022-06-30,2022-08-14,operating_margin,ratio,Operating margin was 10.6150% for period ended 2022-06-30.,0.10615,0.106150184325,1.84325435276e-07,1e-06,accepted,,rule
+IND11_2022-06-30,IND11,2022-06-30,2022-08-14,revenue,USD_million,Revenue was USD 1598.4371 million for period ended 2022-06-30.,1598.4371,1453.1246,145.3125,0.0014531246,rejected,value_mismatch,rule
+IND11_2022-06-30,IND11,2022-06-30,2022-08-14,operating_income,USD_million,Operating income was USD 185.7177 million for period ended 2022-06-30.,185.7177,185.7177,0,0.0001857177,accepted,,rule
+IND11_2022-06-30,IND11,2022-06-30,2022-08-14,backlog,USD_million,Backlog was USD 2981.8674 million for period ended 2022-06-30.,2981.8674,2981.8674,0,0.0029818674,accepted,,rule
+IND11_2022-06-30,IND11,2022-06-30,2022-08-14,operating_margin,ratio,Operating margin was 12.7806% for period ended 2022-06-30.,0.127806,0.127805764213,2.3578680039e-07,1e-06,accepted,,rule
+IND12_2022-06-30,IND12,2022-06-30,2022-08-14,revenue,USD_million,Revenue was USD 1555.0610 million for period ended 2022-06-30.,1555.061,1555.061,0,0.001555061,accepted,,rule
+IND12_2022-06-30,IND12,2022-06-30,2022-08-14,operating_income,USD_million,Operating income was USD 201.2806 million for period ended 2022-06-30.,201.2806,201.2806,0,0.0002012806,accepted,,rule
+IND12_2022-06-30,IND12,2022-06-30,2022-08-14,backlog,USD_million,Backlog was USD 3207.9438 million for period ended 2022-06-30.,3207.9438,3207.9438,0,0.0032079438,accepted,,rule
+IND12_2022-06-30,IND12,2022-06-30,2022-08-14,operating_margin,ratio,Operating margin was 12.9436% for period ended 2022-06-30.,0.129436,0.129435822775,1.77225202097e-07,1e-06,accepted,,rule
+IND01_2022-09-30,IND01,2022-09-30,2022-11-14,revenue,USD_million,Revenue was USD 469.9041 million for period ended 2022-09-30.,469.9041,469.9041,0,0.0004699041,accepted,,rule
+IND01_2022-09-30,IND01,2022-09-30,2022-11-14,operating_income,USD_million,Operating income was USD 51.5205 million for period ended 2022-09-30.,51.5205,51.5205,0,0.0001,accepted,,rule
+IND01_2022-09-30,IND01,2022-09-30,2022-11-14,backlog,USD_million,Backlog was USD 907.3550 million for period ended 2022-09-30.,907.355,907.355,0,0.000907355,accepted,,rule
+IND01_2022-09-30,IND01,2022-09-30,2022-11-14,operating_margin,ratio,Operating margin was 10.9640% for period ended 2022-09-30.,0.10964,0.109640456425,4.56425045009e-07,1e-06,accepted,,rule
+IND02_2022-09-30,IND02,2022-09-30,2022-11-14,revenue,USD_million,Revenue was USD 597.8190 million for period ended 2022-09-30.,597.819,597.819,0,0.000597819,accepted,,rule
+IND02_2022-09-30,IND02,2022-09-30,2022-11-14,operating_income,USD_million,Operating income was USD 83.0128 million for period ended 2022-09-30.,83.0128,83.0128,0,0.0001,accepted,,rule
+IND02_2022-09-30,IND02,2022-09-30,2022-11-14,backlog,USD_million,Backlog was USD 1270.8017 million for period ended 2022-09-30.,1270.8017,1270.8017,0,0.0012708017,accepted,,rule
+IND02_2022-09-30,IND02,2022-09-30,2022-11-14,operating_margin,ratio,Operating margin was 13.8859% for period ended 2022-09-30.,0.138859,0.138859420661,4.20660768552e-07,1e-06,accepted,,rule
+IND03_2022-09-30,IND03,2022-09-30,2022-11-14,revenue,USD_million,Revenue was USD 677.0744 million for period ended 2022-09-30.,677.0744,677.0744,0,0.0006770744,accepted,,rule
+IND03_2022-09-30,IND03,2022-09-30,2022-11-14,operating_income,USD_million,Operating income was USD 83.9780 million for period ended 2022-09-30.,83.978,83.978,0,0.0001,accepted,,rule
+IND03_2022-09-30,IND03,2022-09-30,2022-11-14,backlog,USD_million,Backlog was USD 1372.3424 million for period ended 2022-09-30.,1372.3424,1372.3424,0,0.0013723424,accepted,,rule
+IND03_2022-09-30,IND03,2022-09-30,2022-11-14,operating_margin,ratio,Operating margin was 12.4031% for period ended 2022-09-30.,0.124031,0.124030682596,3.17404409325e-07,1e-06,accepted,,rule
+IND04_2022-09-30,IND04,2022-09-30,2022-11-14,revenue,USD_million,Revenue was USD 745.2489 million for period ended 2022-09-30.,745.2489,745.2489,0,0.0007452489,accepted,,rule
+IND04_2022-09-30,IND04,2022-09-30,2022-11-14,operating_income,USD_million,Operating income was USD 78.4252 million for period ended 2022-09-30.,78.4252,78.4252,0,0.0001,accepted,,rule
+IND04_2022-09-30,IND04,2022-09-30,2022-11-14,backlog,USD_million,Backlog was USD 1417.1332 million for period ended 2022-09-30.,1417.1332,1417.1332,0,0.0014171332,accepted,,rule
+IND04_2022-09-30,IND04,2022-09-30,2022-11-14,operating_margin,ratio,Operating margin was 10.5234% for period ended 2022-09-30.,0.105234,0.105233566933,4.3306685861e-07,1e-06,accepted,,rule
+IND05_2022-09-30,IND05,2022-09-30,2022-11-14,revenue,USD_million,Revenue was USD 865.4877 million for period ended 2022-09-30.,865.4877,865.4877,0,0.0008654877,accepted,,rule
+IND05_2022-09-30,IND05,2022-09-30,2022-11-14,operating_income,USD_million,Operating income was USD 104.8361 million for period ended 2022-09-30.,104.8361,104.8361,0,0.0001048361,accepted,,rule
+IND05_2022-09-30,IND05,2022-09-30,2022-11-14,backlog,USD_million,Backlog was USD 1737.4923 million for period ended 2022-09-30.,1737.4923,1737.4923,0,0.0017374923,accepted,,rule
+IND05_2022-09-30,IND05,2022-09-30,2022-11-14,operating_margin,ratio,Operating margin was 12.1130% for period ended 2022-09-30.,0.12113,0.121129508831,4.91169314137e-07,1e-06,accepted,,rule
+IND06_2022-09-30,IND06,2022-09-30,2022-11-14,revenue,USD_million,Revenue was USD 930.8353 million for period ended 2022-09-30.,930.8353,930.8353,0,0.0009308353,accepted,,rule
+IND06_2022-09-30,IND06,2022-09-30,2022-11-14,operating_income,USD_million,Operating income was USD 97.5923 million for period ended 2022-09-30.,97.5923,97.5923,0,0.0001,accepted,,rule
+IND06_2022-09-30,IND06,2022-09-30,2022-11-14,backlog,USD_million,Backlog was USD 1767.6178 million for period ended 2022-09-30.,1767.6178,1767.6178,0,0.0017676178,accepted,,rule
+IND06_2022-09-30,IND06,2022-09-30,2022-11-14,operating_margin,ratio,Operating margin was 10.4844% for period ended 2022-09-30.,0.104844,0.104843789229,2.10771121389e-07,1e-06,accepted,,rule
+IND07_2022-09-30,IND07,2022-09-30,2022-11-14,revenue,USD_million,Revenue was USD 1085.4525 million for period ended 2022-09-30.,1085.4525,1085.4525,0,0.0010854525,accepted,,rule
+IND07_2022-09-30,IND07,2022-09-30,2022-11-14,operating_income,USD_million,Operating income was USD 145.4763 million for period ended 2022-09-30.,145.4763,145.4763,0,0.0001454763,accepted,,rule
+IND07_2022-09-30,IND07,2022-09-30,2022-11-14,backlog,USD_million,Backlog was USD 2272.3848 million for period ended 2022-09-30.,2272.3848,2272.3848,0,0.0022723848,accepted,,rule
+IND07_2022-09-30,IND07,2022-09-30,2022-11-14,operating_margin,ratio,Operating margin was 13.4024% for period ended 2022-09-30.,0.134024,0.134023644517,3.55483081943e-07,1e-06,accepted,,rule
+IND08_2022-09-30,IND08,2022-09-30,2022-11-14,revenue,USD_million,Revenue was USD 1132.8800 million for period ended 2022-09-30.,1132.88,1132.88,0,0.00113288,accepted,,rule
+IND08_2022-09-30,IND08,2022-09-30,2022-11-14,operating_income,USD_million,Operating income was USD 126.7704 million for period ended 2022-09-30.,126.7704,126.7704,0,0.0001267704,accepted,,rule
+IND08_2022-09-30,IND08,2022-09-30,2022-11-14,backlog,USD_million,Backlog was USD 2204.5921 million for period ended 2022-09-30.,2204.5921,2204.5921,0,0.0022045921,accepted,,rule
+IND08_2022-09-30,IND08,2022-09-30,2022-11-14,operating_margin,ratio,Operating margin was 11.1901% for period ended 2022-09-30.,0.111901,0.111900995692,4.30760541126e-09,1e-06,accepted,,rule
+IND09_2022-09-30,IND09,2022-09-30,2022-11-14,revenue,USD_million,Revenue was USD 1256.3643 million for period ended 2022-09-30.,1256.3643,1256.3643,0,0.0012563643,accepted,,rule
+IND09_2022-09-30,IND09,2022-09-30,2022-11-14,operating_income,USD_million,Operating income was USD 155.2982 million for period ended 2022-09-30.,155.2982,155.2982,0,0.0001552982,accepted,,rule
+IND09_2022-09-30,IND09,2022-09-30,2022-11-14,backlog,USD_million,Backlog was USD 2542.9582 million for period ended 2022-09-30.,2542.9582,2542.9582,0,0.0025429582,accepted,,rule
+IND09_2022-09-30,IND09,2022-09-30,2022-11-14,operating_margin,ratio,Operating margin was 12.3609% for period ended 2022-09-30.,0.123609,0.123609211118,2.11118144633e-07,1e-06,accepted,,rule
+IND10_2022-09-30,IND10,2022-09-30,2022-11-14,revenue,USD_million,Revenue was USD 1341.2303 million for period ended 2022-09-30.,1341.2303,1341.2303,0,0.0013412303,accepted,,rule
+IND10_2022-09-30,IND10,2022-09-30,2022-11-14,operating_income,USD_million,Operating income was USD 159.9253 million for period ended 2022-09-30.,159.9253,159.9253,0,0.0001599253,accepted,,rule
+IND10_2022-09-30,IND10,2022-09-30,2022-11-14,backlog,USD_million,Backlog was USD 2675.6453 million for period ended 2022-09-30.,2675.6453,2675.6453,0,0.0026756453,accepted,,rule
+IND10_2022-09-30,IND10,2022-09-30,2022-11-14,operating_margin,ratio,Operating margin was 11.9238% for period ended 2022-09-30.,0.119238,0.119237762523,2.37477038798e-07,1e-06,accepted,,rule
+IND11_2022-09-30,IND11,2022-09-30,2022-11-14,revenue,USD_million,Revenue was USD 1421.6847 million for period ended 2022-09-30.,1421.6847,1421.6847,0,0.0014216847,accepted,,rule
+IND11_2022-09-30,IND11,2022-09-30,2022-11-14,operating_income,USD_million,Operating income was USD 161.8858 million for period ended 2022-09-30.,161.8858,161.8858,0,0.0001618858,accepted,,rule
+IND11_2022-09-30,IND11,2022-09-30,2022-11-14,backlog,USD_million,Backlog was USD 2785.2604 million for period ended 2022-09-30.,2785.2604,2785.2604,0,0.0027852604,accepted,,rule
+IND11_2022-09-30,IND11,2022-09-30,2022-11-14,operating_margin,ratio,Operating margin was 11.3869% for period ended 2022-09-30.,0.113869,0.113868989376,1.0624226332e-08,1e-06,accepted,,rule
+IND12_2022-09-30,IND12,2022-09-30,2022-11-14,revenue,USD_million,Revenue was USD 1575.7831 million for period ended 2022-09-30.,1575.7831,1575.7831,0,0.0015757831,accepted,,rule
+IND12_2022-09-30,IND12,2022-09-30,2022-11-14,operating_income,USD_million,Operating income was USD 209.6652 million for period ended 2022-09-30.,209.6652,209.6652,0,0.0002096652,accepted,,rule
+IND12_2022-09-30,IND12,2022-09-30,2022-11-14,backlog,USD_million,Backlog was USD 3288.7080 million for period ended 2022-09-30.,3288.708,3288.708,0,0.003288708,accepted,,rule
+IND12_2022-09-30,IND12,2022-09-30,2022-11-14,operating_margin,ratio,Operating margin was 13.3055% for period ended 2022-09-30.,0.133055,0.13305460631,3.93690286454e-07,1e-06,accepted,,rule
+IND01_2022-12-31,IND01,2022-12-31,2023-02-14,revenue,USD_million,Revenue was USD 461.0951 million for period ended 2022-12-31.,461.0951,461.0951,0,0.0004610951,accepted,,rule
+IND01_2022-12-31,IND01,2022-12-31,2023-02-14,operating_income,USD_million,Operating income was USD 44.8085 million for period ended 2022-12-31.,44.8085,44.8085,0,0.0001,accepted,,rule
+IND01_2022-12-31,IND01,2022-12-31,2023-02-14,backlog,USD_million,Backlog was USD 852.0371 million for period ended 2022-12-31.,852.0371,852.0371,0,0.0008520371,accepted,,rule
+IND01_2022-12-31,IND01,2022-12-31,2023-02-14,operating_margin,ratio,Operating margin was 10.7178% for period ended 2022-12-31.,0.107178,0.0971784345572,0.00999956544279,1e-06,rejected,value_mismatch,rule
+IND02_2022-12-31,IND02,2022-12-31,2023-02-14,revenue,USD_million,Revenue was USD 579.2001 million for period ended 2022-12-31.,579.2001,579.2001,0,0.0005792001,accepted,,rule
+IND02_2022-12-31,IND02,2022-12-31,2023-02-14,operating_income,USD_million,Operating income was USD 69.5269 million for period ended 2022-12-31.,69.5269,69.5269,0,0.0001,accepted,,rule
+IND02_2022-12-31,IND02,2022-12-31,2023-02-14,backlog,USD_million,Backlog was USD 1158.5525 million for period ended 2022-12-31.,1158.5525,1158.5525,0,0.0011585525,accepted,,rule
+IND02_2022-12-31,IND02,2022-12-31,2023-02-14,operating_margin,ratio,Operating margin was 12.0040% for period ended 2022-12-31.,0.12004,0.120039516568,4.83432236978e-07,1e-06,accepted,,rule
+IND03_2022-12-31,IND03,2022-12-31,2023-02-14,revenue,USD_million,Revenue was USD 674.7602 million for period ended 2022-12-31.,674.7602,674.7602,0,0.0006747602,accepted,,rule
+IND03_2022-12-31,IND03,2022-12-31,2023-02-14,operating_income,USD_million,Operating income was USD 80.5115 million for period ended 2022-12-31.,80.5115,80.5115,0,0.0001,accepted,,rule
+IND03_2022-12-31,IND03,2022-12-31,2023-02-14,backlog,USD_million,Backlog was USD 1346.4558 million for period ended 2022-12-31.,1346.4558,1346.4558,0,0.0013464558,accepted,,rule
+IND03_2022-12-31,IND03,2022-12-31,2023-02-14,operating_margin,ratio,Operating margin was 11.9319% for period ended 2022-12-31.,0.119319,0.119318685364,3.14635925494e-07,1e-06,accepted,,rule
+IND04_2022-12-31,IND04,2022-12-31,2023-02-14,revenue,USD_million,Revenue was USD 882.0228 million for period ended 2022-12-31.,882.0228,801.8389,80.1839,0.0008018389,rejected,value_mismatch,rule
+IND04_2022-12-31,IND04,2022-12-31,2023-02-14,operating_income,USD_million,Operating income was USD 111.3179 million for period ended 2022-12-31.,111.3179,111.3179,0,0.0001113179,accepted,,rule
+IND04_2022-12-31,IND04,2022-12-31,2023-02-14,backlog,USD_million,Backlog was USD 1704.3259 million for period ended 2022-12-31.,1704.3259,1704.3259,0,0.0017043259,accepted,,rule
+IND04_2022-12-31,IND04,2022-12-31,2023-02-14,operating_margin,ratio,Operating margin was 13.8828% for period ended 2022-12-31.,0.138828,0.138828260889,2.60888814441e-07,1e-06,accepted,,rule
+IND05_2022-12-31,IND05,2022-12-31,2023-02-14,revenue,USD_million,Revenue was USD 882.1657 million for period ended 2022-12-31.,882.1657,882.1657,0,0.0008821657,accepted,,rule
+IND05_2022-12-31,IND05,2022-12-31,2023-02-14,operating_income,USD_million,Operating income was USD 112.6286 million for period ended 2022-12-31.,112.6286,112.6286,0,0.0001126286,accepted,,rule
+IND05_2022-12-31,IND05,2022-12-31,2023-02-14,backlog,USD_million,Backlog was USD 1809.4562 million for period ended 2022-12-31.,1809.4562,1809.4562,0,0.0018094562,accepted,,rule
+IND05_2022-12-31,IND05,2022-12-31,2023-02-14,operating_margin,ratio,Operating margin was 12.7673% for period ended 2022-12-31.,0.127673,0.127672839694,1.60305597907e-07,1e-06,accepted,,rule
+IND06_2022-12-31,IND06,2022-12-31,2023-02-14,revenue,USD_million,Revenue was USD 942.1805 million for period ended 2022-12-31.,942.1805,942.1805,0,0.0009421805,accepted,,rule
+IND06_2022-12-31,IND06,2022-12-31,2023-02-14,operating_income,USD_million,Operating income was USD 101.6623 million for period ended 2022-12-31.,101.6623,101.6623,0,0.0001016623,accepted,,rule
+IND06_2022-12-31,IND06,2022-12-31,2023-02-14,operating_margin,ratio,Operating margin was 10.7901% for period ended 2022-12-31.,0.107901,0.107901086894,8.6893647222e-08,1e-06,accepted,,rule
+IND06_2022-12-31,IND06,2022-12-31,2023-02-14,backlog,USD_million,,,,,,missing,not_extracted,rule
+IND07_2022-12-31,IND07,2022-12-31,2023-02-14,revenue,USD_million,Revenue was USD 1094.8010 million for period ended 2022-12-31.,1094.801,1094.801,0,0.001094801,accepted,,rule
+IND07_2022-12-31,IND07,2022-12-31,2023-02-14,operating_income,USD_million,Operating income was USD 148.1391 million for period ended 2022-12-31.,148.1391,148.1391,0,0.0001481391,accepted,,rule
+IND07_2022-12-31,IND07,2022-12-31,2023-02-14,backlog,USD_million,Backlog was USD 2301.3554 million for period ended 2022-12-31.,2301.3554,2301.3554,0,0.0023013554,accepted,,rule
+IND07_2022-12-31,IND07,2022-12-31,2023-02-14,operating_margin,ratio,Operating margin was 13.5311% for period ended 2022-12-31.,0.135311,0.135311440161,4.4016127132e-07,1e-06,accepted,,rule
+IND08_2022-12-31,IND08,2022-12-31,2023-02-14,revenue,USD_million,Revenue was USD 1111.7311 million for period ended 2022-12-31.,1111.7311,1111.7311,0,0.0011117311,accepted,,rule
+IND08_2022-12-31,IND08,2022-12-31,2023-02-14,operating_income,USD_million,Operating income was USD 110.5935 million for period ended 2022-12-31.,110.5935,110.5935,0,0.0001105935,accepted,,rule
+IND08_2022-12-31,IND08,2022-12-31,2023-02-14,backlog,USD_million,Backlog was USD 2071.3673 million for period ended 2022-12-31.,2071.3673,2071.3673,0,0.0020713673,accepted,,rule
+IND08_2022-12-31,IND08,2022-12-31,2023-02-14,operating_margin,ratio,Operating margin was 9.9479% for period ended 2022-12-31.,0.099479,0.0994786419126,3.58087400815e-07,1e-06,accepted,,rule
+IND09_2022-12-31,IND09,2022-12-31,2023-02-14,revenue,USD_million,Revenue was USD 1332.5861 million for period ended 2022-12-31.,1332.5861,1332.5861,0,0.0013325861,accepted,,rule
+IND09_2022-12-31,IND09,2022-12-31,2023-02-14,operating_income,USD_million,Operating income was USD 199.9663 million for period ended 2022-12-31.,199.9663,199.9663,0,0.0001999663,accepted,,rule
+IND09_2022-12-31,IND09,2022-12-31,2023-02-14,backlog,USD_million,Backlog was USD 2932.2123 million for period ended 2022-12-31.,2932.2123,2932.2123,0,0.0029322123,accepted,,rule
+IND09_2022-12-31,IND09,2022-12-31,2023-02-14,operating_margin,ratio,Operating margin was 15.0059% for period ended 2022-12-31.,0.150059,0.150058821715,1.7828484028e-07,1e-06,accepted,,rule
+IND10_2022-12-31,IND10,2022-12-31,2023-02-14,revenue,USD_million,Revenue was USD 1337.6898 million for period ended 2022-12-31.,1337.6898,1337.6898,0,0.0013376898,accepted,,rule
+IND10_2022-12-31,IND10,2022-12-31,2023-02-14,operating_income,USD_million,Operating income was USD 153.7222 million for period ended 2022-12-31.,153.7222,153.7222,0,0.0001537222,accepted,,rule
+IND10_2022-12-31,IND10,2022-12-31,2023-02-14,backlog,USD_million,Backlog was USD 2630.0424 million for period ended 2022-12-31.,2630.0424,2630.0424,0,0.0026300424,accepted,,rule
+IND10_2022-12-31,IND10,2022-12-31,2023-02-14,operating_margin,ratio,Operating margin was 11.4916% for period ended 2022-12-31.,0.114916,0.114916178624,1.78623773592e-07,1e-06,accepted,,rule
+IND11_2022-12-31,IND11,2022-12-31,2023-02-14,revenue,USD_million,Revenue was USD 1459.7985 million for period ended 2022-12-31.,1459.7985,1459.7985,0,0.0014597985,accepted,,rule
+IND11_2022-12-31,IND11,2022-12-31,2023-02-14,operating_income,USD_million,Operating income was USD 181.1565 million for period ended 2022-12-31.,181.1565,181.1565,0,0.0001811565,accepted,,rule
+IND11_2022-12-31,IND11,2022-12-31,2023-02-14,backlog,USD_million,Backlog was USD 2959.4680 million for period ended 2022-12-31.,2959.468,2959.468,0,0.002959468,accepted,,rule
+IND11_2022-12-31,IND11,2022-12-31,2023-02-14,operating_margin,ratio,Operating margin was 12.4097% for period ended 2022-12-31.,0.124097,0.124096921596,7.84043140412e-08,1e-06,accepted,,rule
+IND12_2022-12-31,IND12,2022-12-31,2023-02-14,revenue,USD_million,Revenue was USD 1534.6484 million for period ended 2022-12-31.,1534.6484,1534.6484,0,0.0015346484,accepted,,rule
+IND12_2022-12-31,IND12,2022-12-31,2023-02-14,operating_income,USD_million,Operating income was USD 179.2916 million for period ended 2022-12-31.,179.2916,179.2916,0,0.0001792916,accepted,,rule
+IND12_2022-12-31,IND12,2022-12-31,2023-02-14,backlog,USD_million,Backlog was USD 3036.8551 million for period ended 2022-12-31.,3036.8551,3036.8551,0,0.0030368551,accepted,,rule
+IND12_2022-12-31,IND12,2022-12-31,2023-02-14,operating_margin,ratio,Operating margin was 11.6829% for period ended 2022-12-31.,0.116829,0.116829105611,1.05611422122e-07,1e-06,accepted,,rule
+IND01_2023-03-31,IND01,2023-03-31,2023-05-15,revenue,USD_million,Revenue was USD 468.5437 million for period ended 2023-03-31.,468.5437,468.5437,0,0.0004685437,accepted,,rule
+IND01_2023-03-31,IND01,2023-03-31,2023-05-15,operating_income,USD_million,Operating income was USD 47.8809 million for period ended 2023-03-31.,47.8809,47.8809,0,0.0001,accepted,,rule
+IND01_2023-03-31,IND01,2023-03-31,2023-05-15,backlog,USD_million,Backlog was USD 881.4585 million for period ended 2023-03-31.,881.4585,881.4585,0,0.0008814585,accepted,,rule
+IND01_2023-03-31,IND01,2023-03-31,2023-05-15,operating_margin,ratio,Operating margin was 10.2191% for period ended 2023-03-31.,0.102191,0.102190894894,1.05105884468e-07,1e-06,accepted,,rule
+IND02_2023-03-31,IND02,2023-03-31,2023-05-15,revenue,USD_million,Revenue was USD 579.0743 million for period ended 2023-03-31.,579.0743,579.0743,0,0.0005790743,accepted,,rule
+IND02_2023-03-31,IND02,2023-03-31,2023-05-15,operating_income,USD_million,Operating income was USD 67.7116 million for period ended 2023-03-31.,67.7116,67.7116,0,0.0001,accepted,,rule
+IND02_2023-03-31,IND02,2023-03-31,2023-05-15,backlog,USD_million,Backlog was USD 1146.3000 million for period ended 2023-03-31.,1146.3,1146.3,0,0.0011463,accepted,,rule
+IND02_2023-03-31,IND02,2023-03-31,2023-05-15,operating_margin,ratio,Operating margin was 11.6931% for period ended 2023-03-31.,0.116931,0.116930763462,2.36538385476e-07,1e-06,accepted,,rule
+IND03_2023-03-31,IND03,2023-03-31,2023-05-15,revenue,USD_million,Revenue was USD 705.3362 million for period ended 2023-03-31.,705.3362,705.3362,0,0.0007053362,accepted,,rule
+IND03_2023-03-31,IND03,2023-03-31,2023-05-15,operating_income,USD_million,Operating income was USD 97.6731 million for period ended 2023-03-31.,97.6731,97.6731,0,0.0001,accepted,,rule
+IND03_2023-03-31,IND03,2023-03-31,2023-05-15,backlog,USD_million,Backlog was USD 1497.5574 million for period ended 2023-03-31.,1497.5574,1497.5574,0,0.0014975574,accepted,,rule
+IND03_2023-03-31,IND03,2023-03-31,2023-05-15,operating_margin,ratio,Operating margin was 13.8477% for period ended 2023-03-31.,0.138477,0.138477367247,3.67246995148e-07,1e-06,accepted,,rule
+IND04_2023-03-31,IND04,2023-03-31,2023-05-15,revenue,USD_million,Revenue was USD 793.7602 million for period ended 2023-03-31.,793.7602,793.7602,0,0.0007937602,accepted,,rule
+IND04_2023-03-31,IND04,2023-03-31,2023-05-15,operating_income,USD_million,Operating income was USD 103.7961 million for period ended 2023-03-31.,103.7961,103.7961,0,0.0001037961,accepted,,rule
+IND04_2023-03-31,IND04,2023-03-31,2023-05-15,backlog,USD_million,Backlog was USD 1644.4865 million for period ended 2023-03-31.,1644.4865,1644.4865,0,0.0016444865,accepted,,rule
+IND04_2023-03-31,IND04,2023-03-31,2023-05-15,operating_margin,ratio,Operating margin was 13.0765% for period ended 2023-03-31.,0.130765,0.130765059775,5.97749798825e-08,1e-06,accepted,,rule
+IND05_2023-03-31,IND05,2023-03-31,2023-05-15,revenue,USD_million,Revenue was USD 900.0820 million for period ended 2023-03-31.,900.082,900.082,0,0.000900082,accepted,,rule
+IND05_2023-03-31,IND05,2023-03-31,2023-05-15,operating_income,USD_million,Operating income was USD 121.2643 million for period ended 2023-03-31.,121.2643,121.2643,0,0.0001212643,accepted,,rule
+IND05_2023-03-31,IND05,2023-03-31,2023-05-15,backlog,USD_million,Backlog was USD 1888.5268 million for period ended 2023-03-31.,1888.5268,1888.5268,0,0.0018885268,accepted,,rule
+IND05_2023-03-31,IND05,2023-03-31,2023-05-15,operating_margin,ratio,Operating margin was 13.4726% for period ended 2023-03-31.,0.134726,0.13472583609,1.63909510464e-07,1e-06,accepted,,rule
+IND06_2023-03-31,IND06,2023-03-31,2023-05-15,revenue,USD_million,Revenue was USD 989.5297 million for period ended 2023-03-31.,989.5297,989.5297,0,0.0009895297,accepted,,rule
+IND06_2023-03-31,IND06,2023-03-31,2023-05-15,operating_income,USD_million,Operating income was USD 128.0625 million for period ended 2023-03-31.,128.0625,128.0625,0,0.0001280625,accepted,,rule
+IND06_2023-03-31,IND06,2023-03-31,2023-05-15,backlog,USD_million,Backlog was USD 2041.1856 million for period ended 2023-03-31.,2041.1856,2041.1856,0,0.0020411856,accepted,,rule
+IND06_2023-03-31,IND06,2023-03-31,2023-05-15,operating_margin,ratio,Operating margin was 12.9418% for period ended 2023-03-31.,0.129418,0.129417540474,4.59525974827e-07,1e-06,accepted,,rule
+IND07_2023-03-31,IND07,2023-03-31,2023-05-15,revenue,USD_million,Revenue was USD 1050.8217 million for period ended 2023-03-31.,1050.8217,1050.8217,0,0.0010508217,accepted,,rule
+IND07_2023-03-31,IND07,2023-03-31,2023-05-15,operating_income,USD_million,Operating income was USD 117.4938 million for period ended 2023-03-31.,117.4938,117.4938,0,0.0001174938,accepted,,rule
+IND07_2023-03-31,IND07,2023-03-31,2023-05-15,backlog,USD_million,Backlog was USD 2044.2781 million for period ended 2023-03-31.,2044.2781,2044.2781,0,0.0020442781,accepted,,rule
+IND07_2023-03-31,IND07,2023-03-31,2023-05-15,operating_margin,ratio,Operating margin was 11.1811% for period ended 2023-03-31.,0.111811,0.11181135677,3.56769659385e-07,1e-06,accepted,,rule
+IND08_2023-03-31,IND08,2023-03-31,2023-05-15,revenue,USD_million,Revenue was USD 1137.2812 million for period ended 2023-03-31.,1137.2812,1137.2812,0,0.0011372812,accepted,,rule
+IND08_2023-03-31,IND08,2023-03-31,2023-05-15,operating_income,USD_million,Operating income was USD 122.6441 million for period ended 2023-03-31.,122.6441,122.6441,0,0.0001226441,accepted,,rule
+IND08_2023-03-31,IND08,2023-03-31,2023-05-15,backlog,USD_million,Backlog was USD 2182.3648 million for period ended 2023-03-31.,2182.3648,2182.3648,0,0.0021823648,accepted,,rule
+IND08_2023-03-31,IND08,2023-03-31,2023-05-15,operating_margin,ratio,Operating margin was 11.7840% for period ended 2023-03-31.,0.11784,0.107839732161,0.0100002678388,1e-06,rejected,value_mismatch,rule
+IND09_2023-03-31,IND09,2023-03-31,2023-05-15,revenue,USD_million,Revenue was USD 1358.6510 million for period ended 2023-03-31.,1358.651,1235.1373,123.5137,0.0012351373,rejected,value_mismatch,rule
+IND09_2023-03-31,IND09,2023-03-31,2023-05-15,operating_income,USD_million,Operating income was USD 134.7401 million for period ended 2023-03-31.,134.7401,134.7401,0,0.0001347401,accepted,,rule
+IND09_2023-03-31,IND09,2023-03-31,2023-05-15,backlog,USD_million,Backlog was USD 2380.4322 million for period ended 2023-03-31.,2380.4322,2380.4322,0,0.0023804322,accepted,,rule
+IND09_2023-03-31,IND09,2023-03-31,2023-05-15,operating_margin,ratio,Operating margin was 10.9089% for period ended 2023-03-31.,0.109089,0.109089167658,1.67657717084e-07,1e-06,accepted,,rule
+IND10_2023-03-31,IND10,2023-03-31,2023-05-15,revenue,USD_million,Revenue was USD 1329.6096 million for period ended 2023-03-31.,1329.6096,1329.6096,0,0.0013296096,accepted,,rule
+IND10_2023-03-31,IND10,2023-03-31,2023-05-15,operating_income,USD_million,Operating income was USD 144.7770 million for period ended 2023-03-31.,144.777,144.777,0,0.000144777,accepted,,rule
+IND10_2023-03-31,IND10,2023-03-31,2023-05-15,backlog,USD_million,Backlog was USD 2560.7113 million for period ended 2023-03-31.,2560.7113,2560.7113,0,0.0025607113,accepted,,rule
+IND10_2023-03-31,IND10,2023-03-31,2023-05-15,operating_margin,ratio,Operating margin was 10.8887% for period ended 2023-03-31.,0.108887,0.108886849192,1.508075754e-07,1e-06,accepted,,rule
+IND11_2023-03-31,IND11,2023-03-31,2023-05-15,revenue,USD_million,Revenue was USD 1446.8209 million for period ended 2023-03-31.,1446.8209,1446.8209,0,0.0014468209,accepted,,rule
+IND11_2023-03-31,IND11,2023-03-31,2023-05-15,operating_income,USD_million,Operating income was USD 168.7456 million for period ended 2023-03-31.,168.7456,168.7456,0,0.0001687456,accepted,,rule
+IND11_2023-03-31,IND11,2023-03-31,2023-05-15,backlog,USD_million,Backlog was USD 2861.1561 million for period ended 2023-03-31.,2861.1561,2861.1561,0,0.0028611561,accepted,,rule
+IND11_2023-03-31,IND11,2023-03-31,2023-05-15,operating_margin,ratio,Operating margin was 11.6632% for period ended 2023-03-31.,0.116632,0.116631989488,1.05118746901e-08,1e-06,accepted,,rule
+IND12_2023-03-31,IND12,2023-03-31,2023-05-15,revenue,USD_million,Revenue was USD 1586.9063 million for period ended 2023-03-31.,1586.9063,1586.9063,0,0.0015869063,accepted,,rule
+IND12_2023-03-31,IND12,2023-03-31,2023-05-15,operating_income,USD_million,Operating income was USD 207.2049 million for period ended 2023-03-31.,207.2049,207.2049,0,0.0002072049,accepted,,rule
+IND12_2023-03-31,IND12,2023-03-31,2023-05-15,backlog,USD_million,Backlog was USD 3285.6538 million for period ended 2023-03-31.,3285.6538,3285.6538,0,0.0032856538,accepted,,rule
+IND12_2023-03-31,IND12,2023-03-31,2023-05-15,operating_margin,ratio,Operating margin was 13.0572% for period ended 2023-03-31.,0.130572,0.130571603377,3.96623039439e-07,1e-06,accepted,,rule
+IND01_2023-06-30,IND01,2023-06-30,2023-08-14,revenue,USD_million,Revenue was USD 497.6918 million for period ended 2023-06-30.,497.6918,497.6918,0,0.0004976918,accepted,,rule
+IND01_2023-06-30,IND01,2023-06-30,2023-08-14,operating_income,USD_million,Operating income was USD 64.3848 million for period ended 2023-06-30.,64.3848,64.3848,0,0.0001,accepted,,rule
+IND01_2023-06-30,IND01,2023-06-30,2023-08-14,backlog,USD_million,Backlog was USD 1026.4620 million for period ended 2023-06-30.,1026.462,1026.462,0,0.001026462,accepted,,rule
+IND01_2023-06-30,IND01,2023-06-30,2023-08-14,operating_margin,ratio,Operating margin was 12.9367% for period ended 2023-06-30.,0.129367,0.129366808937,1.9106322427e-07,1e-06,accepted,,rule
+IND02_2023-06-30,IND02,2023-06-30,2023-08-14,revenue,USD_million,Revenue was USD 601.5033 million for period ended 2023-06-30.,601.5033,601.5033,0,0.0006015033,accepted,,rule
+IND02_2023-06-30,IND02,2023-06-30,2023-08-14,operating_income,USD_million,Operating income was USD 79.9587 million for period ended 2023-06-30.,79.9587,79.9587,0,0.0001,accepted,,rule
+IND02_2023-06-30,IND02,2023-06-30,2023-08-14,backlog,USD_million,Backlog was USD 1254.8620 million for period ended 2023-06-30.,1254.862,1254.862,0,0.001254862,accepted,,rule
+IND02_2023-06-30,IND02,2023-06-30,2023-08-14,operating_margin,ratio,Operating margin was 13.2931% for period ended 2023-06-30.,0.132931,0.132931440276,4.40276387487e-07,1e-06,accepted,,rule
+IND03_2023-06-30,IND03,2023-06-30,2023-08-14,revenue,USD_million,Revenue was USD 692.7268 million for period ended 2023-06-30.,692.7268,692.7268,0,0.0006927268,accepted,,rule
+IND03_2023-06-30,IND03,2023-06-30,2023-08-14,operating_income,USD_million,Operating income was USD 87.6008 million for period ended 2023-06-30.,87.6008,87.6008,0,0.0001,accepted,,rule
+IND03_2023-06-30,IND03,2023-06-30,2023-08-14,backlog,USD_million,Backlog was USD 1415.2774 million for period ended 2023-06-30.,1415.2774,1415.2774,0,0.0014152774,accepted,,rule
+IND03_2023-06-30,IND03,2023-06-30,2023-08-14,operating_margin,ratio,Operating margin was 12.6458% for period ended 2023-06-30.,0.126458,0.126457934066,6.59342181963e-08,1e-06,accepted,,rule
+IND04_2023-06-30,IND04,2023-06-30,2023-08-14,revenue,USD_million,Revenue was USD 783.4125 million for period ended 2023-06-30.,783.4125,783.4125,0,0.0007834125,accepted,,rule
+IND04_2023-06-30,IND04,2023-06-30,2023-08-14,operating_income,USD_million,Operating income was USD 94.9528 million for period ended 2023-06-30.,94.9528,94.9528,0,0.0001,accepted,,rule
+IND04_2023-06-30,IND04,2023-06-30,2023-08-14,backlog,USD_million,Backlog was USD 1573.1135 million for period ended 2023-06-30.,1573.1135,1573.1135,0,0.0015731135,accepted,,rule
+IND04_2023-06-30,IND04,2023-06-30,2023-08-14,operating_margin,ratio,Operating margin was 12.1204% for period ended 2023-06-30.,0.121204,0.121204091076,9.10759018896e-08,1e-06,accepted,,rule
+IND05_2023-06-30,IND05,2023-06-30,2023-08-14,revenue,USD_million,Revenue was USD 897.3887 million for period ended 2023-06-30.,897.3887,897.3887,0,0.0008973887,accepted,,rule
+IND05_2023-06-30,IND05,2023-06-30,2023-08-14,operating_income,USD_million,Operating income was USD 116.8646 million for period ended 2023-06-30.,116.8646,116.8646,0,0.0001168646,accepted,,rule
+IND05_2023-06-30,IND05,2023-06-30,2023-08-14,operating_margin,ratio,Operating margin was 13.0227% for period ended 2023-06-30.,0.130227,0.130227403131,4.03130884064e-07,1e-06,accepted,,rule
+IND05_2023-06-30,IND05,2023-06-30,2023-08-14,backlog,USD_million,,,,,,missing,not_extracted,rule
+IND06_2023-06-30,IND06,2023-06-30,2023-08-14,revenue,USD_million,Revenue was USD 957.7492 million for period ended 2023-06-30.,957.7492,957.7492,0,0.0009577492,accepted,,rule
+IND06_2023-06-30,IND06,2023-06-30,2023-08-14,operating_income,USD_million,Operating income was USD 105.4440 million for period ended 2023-06-30.,105.444,105.444,0,0.000105444,accepted,,rule
+IND06_2023-06-30,IND06,2023-06-30,2023-08-14,backlog,USD_million,Backlog was USD 1852.2588 million for period ended 2023-06-30.,1852.2588,1852.2588,0,0.0018522588,accepted,,rule
+IND06_2023-06-30,IND06,2023-06-30,2023-08-14,operating_margin,ratio,Operating margin was 11.0096% for period ended 2023-06-30.,0.110096,0.110095628375,3.71624638271e-07,1e-06,accepted,,rule
+IND07_2023-06-30,IND07,2023-06-30,2023-08-14,revenue,USD_million,Revenue was USD 1059.8457 million for period ended 2023-06-30.,1059.8457,1059.8457,0,0.0010598457,accepted,,rule
+IND07_2023-06-30,IND07,2023-06-30,2023-08-14,operating_income,USD_million,Operating income was USD 119.8546 million for period ended 2023-06-30.,119.8546,119.8546,0,0.0001198546,accepted,,rule
+IND07_2023-06-30,IND07,2023-06-30,2023-08-14,backlog,USD_million,Backlog was USD 2070.8455 million for period ended 2023-06-30.,2070.8455,2070.8455,0,0.0020708455,accepted,,rule
+IND07_2023-06-30,IND07,2023-06-30,2023-08-14,operating_margin,ratio,Operating margin was 11.3087% for period ended 2023-06-30.,0.113087,0.113086838962,1.61038441734e-07,1e-06,accepted,,rule
+IND08_2023-06-30,IND08,2023-06-30,2023-08-14,revenue,USD_million,Revenue was USD 1176.8022 million for period ended 2023-06-30.,1176.8022,1176.8022,0,0.0011768022,accepted,,rule
+IND08_2023-06-30,IND08,2023-06-30,2023-08-14,operating_income,USD_million,Operating income was USD 143.4756 million for period ended 2023-06-30.,143.4756,143.4756,0,0.0001434756,accepted,,rule
+IND08_2023-06-30,IND08,2023-06-30,2023-08-14,backlog,USD_million,Backlog was USD 2368.6665 million for period ended 2023-06-30.,2368.6665,2368.6665,0,0.0023686665,accepted,,rule
+IND08_2023-06-30,IND08,2023-06-30,2023-08-14,operating_margin,ratio,Operating margin was 12.1920% for period ended 2023-06-30.,0.12192,0.121919894439,1.05560645641e-07,1e-06,accepted,,rule
+IND09_2023-06-30,IND09,2023-06-30,2023-08-14,revenue,USD_million,Revenue was USD 1284.0894 million for period ended 2023-06-30.,1284.0894,1284.0894,0,0.0012840894,accepted,,rule
+IND09_2023-06-30,IND09,2023-06-30,2023-08-14,operating_income,USD_million,Operating income was USD 161.1828 million for period ended 2023-06-30.,161.1828,161.1828,0,0.0001611828,accepted,,rule
+IND09_2023-06-30,IND09,2023-06-30,2023-08-14,backlog,USD_million,Backlog was USD 2615.4594 million for period ended 2023-06-30.,2615.4594,2615.4594,0,0.0026154594,accepted,,rule
+IND09_2023-06-30,IND09,2023-06-30,2023-08-14,operating_margin,ratio,Operating margin was 12.5523% for period ended 2023-06-30.,0.125523,0.125523036013,3.60129130961e-08,1e-06,accepted,,rule
+IND10_2023-06-30,IND10,2023-06-30,2023-08-14,revenue,USD_million,Revenue was USD 1406.6656 million for period ended 2023-06-30.,1406.6656,1406.6656,0,0.0014066656,accepted,,rule
+IND10_2023-06-30,IND10,2023-06-30,2023-08-14,operating_income,USD_million,Operating income was USD 188.5708 million for period ended 2023-06-30.,188.5708,188.5708,0,0.0001885708,accepted,,rule
+IND10_2023-06-30,IND10,2023-06-30,2023-08-14,backlog,USD_million,Backlog was USD 2945.1374 million for period ended 2023-06-30.,2945.1374,2945.1374,0,0.0029451374,accepted,,rule
+IND10_2023-06-30,IND10,2023-06-30,2023-08-14,operating_margin,ratio,Operating margin was 13.4055% for period ended 2023-06-30.,0.134055,0.134055172743,1.72743258947e-07,1e-06,accepted,,rule
+IND11_2023-06-30,IND11,2023-06-30,2023-08-14,revenue,USD_million,Revenue was USD 1461.0926 million for period ended 2023-06-30.,1461.0926,1461.0926,0,0.0014610926,accepted,,rule
+IND11_2023-06-30,IND11,2023-06-30,2023-08-14,operating_income,USD_million,Operating income was USD 173.1978 million for period ended 2023-06-30.,173.1978,173.1978,0,0.0001731978,accepted,,rule
+IND11_2023-06-30,IND11,2023-06-30,2023-08-14,backlog,USD_million,Backlog was USD 2907.9634 million for period ended 2023-06-30.,2907.9634,2907.9634,0,0.0029079634,accepted,,rule
+IND11_2023-06-30,IND11,2023-06-30,2023-08-14,operating_margin,ratio,Operating margin was 11.8540% for period ended 2023-06-30.,0.11854,0.118539920057,7.99429139414e-08,1e-06,accepted,,rule
+IND12_2023-06-30,IND12,2023-06-30,2023-08-14,revenue,USD_million,Revenue was USD 1593.8514 million for period ended 2023-06-30.,1593.8514,1593.8514,0,0.0015938514,accepted,,rule
+IND12_2023-06-30,IND12,2023-06-30,2023-08-14,operating_income,USD_million,Operating income was USD 206.8104 million for period ended 2023-06-30.,206.8104,206.8104,0,0.0002068104,accepted,,rule
+IND12_2023-06-30,IND12,2023-06-30,2023-08-14,backlog,USD_million,Backlog was USD 3291.3577 million for period ended 2023-06-30.,3291.3577,3291.3577,0,0.0032913577,accepted,,rule
+IND12_2023-06-30,IND12,2023-06-30,2023-08-14,operating_margin,ratio,Operating margin was 12.9755% for period ended 2023-06-30.,0.129755,0.129755132756,1.3275578889e-07,1e-06,accepted,,rule
+IND01_2023-09-30,IND01,2023-09-30,2023-11-14,revenue,USD_million,Revenue was USD 494.4170 million for period ended 2023-09-30.,494.417,494.417,0,0.000494417,accepted,,rule
+IND01_2023-09-30,IND01,2023-09-30,2023-11-14,operating_income,USD_million,Operating income was USD 60.8458 million for period ended 2023-09-30.,60.8458,60.8458,0,0.0001,accepted,,rule
+IND01_2023-09-30,IND01,2023-09-30,2023-11-14,backlog,USD_million,Backlog was USD 998.9393 million for period ended 2023-09-30.,998.9393,998.9393,0,0.0009989393,accepted,,rule
+IND01_2023-09-30,IND01,2023-09-30,2023-11-14,operating_margin,ratio,Operating margin was 12.3066% for period ended 2023-09-30.,0.123066,0.123065752189,2.47811058271e-07,1e-06,accepted,,rule
+IND02_2023-09-30,IND02,2023-09-30,2023-11-14,revenue,USD_million,Revenue was USD 677.6439 million for period ended 2023-09-30.,677.6439,616.0399,61.604,0.0006160399,rejected,value_mismatch,rule
+IND02_2023-09-30,IND02,2023-09-30,2023-11-14,operating_income,USD_million,Operating income was USD 87.3984 million for period ended 2023-09-30.,87.3984,87.3984,0,0.0001,accepted,,rule
+IND02_2023-09-30,IND02,2023-09-30,2023-11-14,backlog,USD_million,Backlog was USD 1321.9038 million for period ended 2023-09-30.,1321.9038,1321.9038,0,0.0013219038,accepted,,rule
+IND02_2023-09-30,IND02,2023-09-30,2023-11-14,operating_margin,ratio,Operating margin was 14.1871% for period ended 2023-09-30.,0.141871,0.141871330088,3.30087547906e-07,1e-06,accepted,,rule
+IND03_2023-09-30,IND03,2023-09-30,2023-11-14,revenue,USD_million,Revenue was USD 674.5854 million for period ended 2023-09-30.,674.5854,674.5854,0,0.0006745854,accepted,,rule
+IND03_2023-09-30,IND03,2023-09-30,2023-11-14,operating_income,USD_million,Operating income was USD 74.3320 million for period ended 2023-09-30.,74.332,74.332,0,0.0001,accepted,,rule
+IND03_2023-09-30,IND03,2023-09-30,2023-11-14,backlog,USD_million,Backlog was USD 1305.0493 million for period ended 2023-09-30.,1305.0493,1305.0493,0,0.0013050493,accepted,,rule
+IND03_2023-09-30,IND03,2023-09-30,2023-11-14,operating_margin,ratio,Operating margin was 12.0189% for period ended 2023-09-30.,0.120189,0.110189162113,0.0099998378865,1e-06,rejected,value_mismatch,rule
+IND04_2023-09-30,IND04,2023-09-30,2023-11-14,revenue,USD_million,Revenue was USD 761.1832 million for period ended 2023-09-30.,761.1832,761.1832,0,0.0007611832,accepted,,rule
+IND04_2023-09-30,IND04,2023-09-30,2023-11-14,operating_income,USD_million,Operating income was USD 79.0195 million for period ended 2023-09-30.,79.0195,79.0195,0,0.0001,accepted,,rule
+IND04_2023-09-30,IND04,2023-09-30,2023-11-14,backlog,USD_million,Backlog was USD 1440.2166 million for period ended 2023-09-30.,1440.2166,1440.2166,0,0.0014402166,accepted,,rule
+IND04_2023-09-30,IND04,2023-09-30,2023-11-14,operating_margin,ratio,Operating margin was 10.3811% for period ended 2023-09-30.,0.103811,0.103811408344,4.08344272423e-07,1e-06,accepted,,rule
+IND05_2023-09-30,IND05,2023-09-30,2023-11-14,revenue,USD_million,Revenue was USD 900.5803 million for period ended 2023-09-30.,900.5803,900.5803,0,0.0009005803,accepted,,rule
+IND05_2023-09-30,IND05,2023-09-30,2023-11-14,operating_income,USD_million,Operating income was USD 116.1771 million for period ended 2023-09-30.,116.1771,116.1771,0,0.0001161771,accepted,,rule
+IND05_2023-09-30,IND05,2023-09-30,2023-11-14,backlog,USD_million,Backlog was USD 1855.2107 million for period ended 2023-09-30.,1855.2107,1855.2107,0,0.0018552107,accepted,,rule
+IND05_2023-09-30,IND05,2023-09-30,2023-11-14,operating_margin,ratio,Operating margin was 12.9002% for period ended 2023-09-30.,0.129002,0.129002488729,4.88728656406e-07,1e-06,accepted,,rule
+IND06_2023-09-30,IND06,2023-09-30,2023-11-14,revenue,USD_million,Revenue was USD 923.9561 million for period ended 2023-09-30.,923.9561,923.9561,0,0.0009239561,accepted,,rule
+IND06_2023-09-30,IND06,2023-09-30,2023-11-14,operating_income,USD_million,Operating income was USD 82.3567 million for period ended 2023-09-30.,82.3567,82.3567,0,0.0001,accepted,,rule
+IND06_2023-09-30,IND06,2023-09-30,2023-11-14,backlog,USD_million,Backlog was USD 1657.7922 million for period ended 2023-09-30.,1657.7922,1657.7922,0,0.0016577922,accepted,,rule
+IND06_2023-09-30,IND06,2023-09-30,2023-11-14,operating_margin,ratio,Operating margin was 8.9135% for period ended 2023-09-30.,0.089135,0.0891348625763,1.37423736904e-07,1e-06,accepted,,rule
+IND07_2023-09-30,IND07,2023-09-30,2023-11-14,revenue,USD_million,Revenue was USD 1098.9614 million for period ended 2023-09-30.,1098.9614,1098.9614,0,0.0010989614,accepted,,rule
+IND07_2023-09-30,IND07,2023-09-30,2023-11-14,operating_income,USD_million,Operating income was USD 140.8956 million for period ended 2023-09-30.,140.8956,140.8956,0,0.0001408956,accepted,,rule
+IND07_2023-09-30,IND07,2023-09-30,2023-11-14,backlog,USD_million,Backlog was USD 2258.0577 million for period ended 2023-09-30.,2258.0577,2258.0577,0,0.0022580577,accepted,,rule
+IND07_2023-09-30,IND07,2023-09-30,2023-11-14,operating_margin,ratio,Operating margin was 12.8208% for period ended 2023-09-30.,0.128208,0.128207960716,3.92836363439e-08,1e-06,accepted,,rule
+IND08_2023-09-30,IND08,2023-09-30,2023-11-14,revenue,USD_million,Revenue was USD 1209.1058 million for period ended 2023-09-30.,1209.1058,1209.1058,0,0.0012091058,accepted,,rule
+IND08_2023-09-30,IND08,2023-09-30,2023-11-14,operating_income,USD_million,Operating income was USD 160.1582 million for period ended 2023-09-30.,160.1582,160.1582,0,0.0001601582,accepted,,rule
+IND08_2023-09-30,IND08,2023-09-30,2023-11-14,backlog,USD_million,Backlog was USD 2518.6483 million for period ended 2023-09-30.,2518.6483,2518.6483,0,0.0025186483,accepted,,rule
+IND08_2023-09-30,IND08,2023-09-30,2023-11-14,operating_margin,ratio,Operating margin was 13.2460% for period ended 2023-09-30.,0.13246,0.132460037823,3.78229928211e-08,1e-06,accepted,,rule
+IND09_2023-09-30,IND09,2023-09-30,2023-11-14,revenue,USD_million,Revenue was USD 1315.7467 million for period ended 2023-09-30.,1315.7467,1315.7467,0,0.0013157467,accepted,,rule
+IND09_2023-09-30,IND09,2023-09-30,2023-11-14,operating_income,USD_million,Operating income was USD 177.2315 million for period ended 2023-09-30.,177.2315,177.2315,0,0.0001772315,accepted,,rule
+IND09_2023-09-30,IND09,2023-09-30,2023-11-14,backlog,USD_million,Backlog was USD 2760.4391 million for period ended 2023-09-30.,2760.4391,2760.4391,0,0.0027604391,accepted,,rule
+IND09_2023-09-30,IND09,2023-09-30,2023-11-14,operating_margin,ratio,Operating margin was 13.4700% for period ended 2023-09-30.,0.1347,0.134700318838,3.1883796478e-07,1e-06,accepted,,rule
+IND10_2023-09-30,IND10,2023-09-30,2023-11-14,revenue,USD_million,Revenue was USD 1388.7046 million for period ended 2023-09-30.,1388.7046,1388.7046,0,0.0013887046,accepted,,rule
+IND10_2023-09-30,IND10,2023-09-30,2023-11-14,operating_income,USD_million,Operating income was USD 173.0740 million for period ended 2023-09-30.,173.074,173.074,0,0.000173074,accepted,,rule
+IND10_2023-09-30,IND10,2023-09-30,2023-11-14,backlog,USD_million,Backlog was USD 2820.2724 million for period ended 2023-09-30.,2820.2724,2820.2724,0,0.0028202724,accepted,,rule
+IND10_2023-09-30,IND10,2023-09-30,2023-11-14,operating_margin,ratio,Operating margin was 12.4630% for period ended 2023-09-30.,0.12463,0.124629816881,1.83118857661e-07,1e-06,accepted,,rule
+IND11_2023-09-30,IND11,2023-09-30,2023-11-14,revenue,USD_million,Revenue was USD 1465.4303 million for period ended 2023-09-30.,1465.4303,1465.4303,0,0.0014654303,accepted,,rule
+IND11_2023-09-30,IND11,2023-09-30,2023-11-14,operating_income,USD_million,Operating income was USD 171.4878 million for period ended 2023-09-30.,171.4878,171.4878,0,0.0001714878,accepted,,rule
+IND11_2023-09-30,IND11,2023-09-30,2023-11-14,backlog,USD_million,Backlog was USD 2901.7685 million for period ended 2023-09-30.,2901.7685,2901.7685,0,0.0029017685,accepted,,rule
+IND11_2023-09-30,IND11,2023-09-30,2023-11-14,operating_margin,ratio,Operating margin was 11.7022% for period ended 2023-09-30.,0.117022,0.11702214701,1.47010335461e-07,1e-06,accepted,,rule
+IND12_2023-09-30,IND12,2023-09-30,2023-11-14,revenue,USD_million,Revenue was USD 1619.9021 million for period ended 2023-09-30.,1619.9021,1619.9021,0,0.0016199021,accepted,,rule
+IND12_2023-09-30,IND12,2023-09-30,2023-11-14,operating_income,USD_million,Operating income was USD 218.4621 million for period ended 2023-09-30.,218.4621,218.4621,0,0.0002184621,accepted,,rule
+IND12_2023-09-30,IND12,2023-09-30,2023-11-14,backlog,USD_million,Backlog was USD 3400.2965 million for period ended 2023-09-30.,3400.2965,3400.2965,0,0.0034002965,accepted,,rule
+IND12_2023-09-30,IND12,2023-09-30,2023-11-14,operating_margin,ratio,Operating margin was 13.4861% for period ended 2023-09-30.,0.134861,0.134861298099,2.98099434526e-07,1e-06,accepted,,rule
+IND01_2023-12-31,IND01,2023-12-31,2024-02-14,revenue,USD_million,Revenue was USD 474.5189 million for period ended 2023-12-31.,474.5189,474.5189,0,0.0004745189,accepted,,rule
+IND01_2023-12-31,IND01,2023-12-31,2024-02-14,operating_income,USD_million,Operating income was USD 47.2274 million for period ended 2023-12-31.,47.2274,47.2274,0,0.0001,accepted,,rule
+IND01_2023-12-31,IND01,2023-12-31,2024-02-14,backlog,USD_million,Backlog was USD 884.2722 million for period ended 2023-12-31.,884.2722,884.2722,0,0.0008842722,accepted,,rule
+IND01_2023-12-31,IND01,2023-12-31,2024-02-14,operating_margin,ratio,Operating margin was 9.9527% for period ended 2023-12-31.,0.099527,0.0995269103085,8.96914748721e-08,1e-06,accepted,,rule
+IND02_2023-12-31,IND02,2023-12-31,2024-02-14,revenue,USD_million,Revenue was USD 596.7631 million for period ended 2023-12-31.,596.7631,596.7631,0,0.0005967631,accepted,,rule
+IND02_2023-12-31,IND02,2023-12-31,2024-02-14,operating_income,USD_million,Operating income was USD 73.3873 million for period ended 2023-12-31.,73.3873,73.3873,0,0.0001,accepted,,rule
+IND02_2023-12-31,IND02,2023-12-31,2024-02-14,backlog,USD_million,Backlog was USD 1205.3641 million for period ended 2023-12-31.,1205.3641,1205.3641,0,0.0012053641,accepted,,rule
+IND02_2023-12-31,IND02,2023-12-31,2024-02-14,operating_margin,ratio,Operating margin was 12.2976% for period ended 2023-12-31.,0.122976,0.12297559953,4.00469801168e-07,1e-06,accepted,,rule
+IND03_2023-12-31,IND03,2023-12-31,2024-02-14,revenue,USD_million,Revenue was USD 677.3334 million for period ended 2023-12-31.,677.3334,677.3334,0,0.0006773334,accepted,,rule
+IND03_2023-12-31,IND03,2023-12-31,2024-02-14,operating_income,USD_million,Operating income was USD 73.9796 million for period ended 2023-12-31.,73.9796,73.9796,0,0.0001,accepted,,rule
+IND03_2023-12-31,IND03,2023-12-31,2024-02-14,backlog,USD_million,Backlog was USD 1305.9976 million for period ended 2023-12-31.,1305.9976,1305.9976,0,0.0013059976,accepted,,rule
+IND03_2023-12-31,IND03,2023-12-31,2024-02-14,operating_margin,ratio,Operating margin was 10.9222% for period ended 2023-12-31.,0.109222,0.109221839644,1.60356480275e-07,1e-06,accepted,,rule
+IND04_2023-12-31,IND04,2023-12-31,2024-02-14,revenue,USD_million,Revenue was USD 818.7027 million for period ended 2023-12-31.,818.7027,818.7027,0,0.0008187027,accepted,,rule
+IND04_2023-12-31,IND04,2023-12-31,2024-02-14,operating_income,USD_million,Operating income was USD 112.3546 million for period ended 2023-12-31.,112.3546,112.3546,0,0.0001123546,accepted,,rule
+IND04_2023-12-31,IND04,2023-12-31,2024-02-14,operating_margin,ratio,Operating margin was 13.7235% for period ended 2023-12-31.,0.137235,0.137234920564,7.94360394685e-08,1e-06,accepted,,rule
+IND04_2023-12-31,IND04,2023-12-31,2024-02-14,backlog,USD_million,,,,,,missing,not_extracted,rule
+IND05_2023-12-31,IND05,2023-12-31,2024-02-14,revenue,USD_million,Revenue was USD 887.6889 million for period ended 2023-12-31.,887.6889,887.6889,0,0.0008876889,accepted,,rule
+IND05_2023-12-31,IND05,2023-12-31,2024-02-14,operating_income,USD_million,Operating income was USD 105.4517 million for period ended 2023-12-31.,105.4517,105.4517,0,0.0001054517,accepted,,rule
+IND05_2023-12-31,IND05,2023-12-31,2024-02-14,backlog,USD_million,Backlog was USD 1768.2379 million for period ended 2023-12-31.,1768.2379,1768.2379,0,0.0017682379,accepted,,rule
+IND05_2023-12-31,IND05,2023-12-31,2024-02-14,operating_margin,ratio,Operating margin was 11.8794% for period ended 2023-12-31.,0.118794,0.118793532284,4.67716336217e-07,1e-06,accepted,,rule
+IND06_2023-12-31,IND06,2023-12-31,2024-02-14,revenue,USD_million,Revenue was USD 959.6227 million for period ended 2023-12-31.,959.6227,959.6227,0,0.0009596227,accepted,,rule
+IND06_2023-12-31,IND06,2023-12-31,2024-02-14,operating_income,USD_million,Operating income was USD 100.8302 million for period ended 2023-12-31.,100.8302,100.8302,0,0.0001008302,accepted,,rule
+IND06_2023-12-31,IND06,2023-12-31,2024-02-14,backlog,USD_million,Backlog was USD 1823.7485 million for period ended 2023-12-31.,1823.7485,1823.7485,0,0.0018237485,accepted,,rule
+IND06_2023-12-31,IND06,2023-12-31,2024-02-14,operating_margin,ratio,Operating margin was 10.5073% for period ended 2023-12-31.,0.105073,0.105072754115,2.45885283884e-07,1e-06,accepted,,rule
+IND07_2023-12-31,IND07,2023-12-31,2024-02-14,revenue,USD_million,Revenue was USD 1163.6019 million for period ended 2023-12-31.,1163.6019,1057.8199,105.782,0.0010578199,rejected,value_mismatch,rule
+IND07_2023-12-31,IND07,2023-12-31,2024-02-14,operating_income,USD_million,Operating income was USD 112.2667 million for period ended 2023-12-31.,112.2667,112.2667,0,0.0001122667,accepted,,rule
+IND07_2023-12-31,IND07,2023-12-31,2024-02-14,backlog,USD_million,Backlog was USD 2017.8283 million for period ended 2023-12-31.,2017.8283,2017.8283,0,0.0020178283,accepted,,rule
+IND07_2023-12-31,IND07,2023-12-31,2024-02-14,operating_margin,ratio,Operating margin was 10.6130% for period ended 2023-12-31.,0.10613,0.106130259036,2.59035588202e-07,1e-06,accepted,,rule
+IND08_2023-12-31,IND08,2023-12-31,2024-02-14,revenue,USD_million,Revenue was USD 1205.8483 million for period ended 2023-12-31.,1205.8483,1205.8483,0,0.0012058483,accepted,,rule
+IND08_2023-12-31,IND08,2023-12-31,2024-02-14,operating_income,USD_million,Operating income was USD 154.4826 million for period ended 2023-12-31.,154.4826,154.4826,0,0.0001544826,accepted,,rule
+IND08_2023-12-31,IND08,2023-12-31,2024-02-14,backlog,USD_million,Backlog was USD 2476.9020 million for period ended 2023-12-31.,2476.902,2476.902,0,0.002476902,accepted,,rule
+IND08_2023-12-31,IND08,2023-12-31,2024-02-14,operating_margin,ratio,Operating margin was 12.8111% for period ended 2023-12-31.,0.128111,0.128111139685,1.39684817713e-07,1e-06,accepted,,rule
+IND09_2023-12-31,IND09,2023-12-31,2024-02-14,revenue,USD_million,Revenue was USD 1299.7346 million for period ended 2023-12-31.,1299.7346,1299.7346,0,0.0012997346,accepted,,rule
+IND09_2023-12-31,IND09,2023-12-31,2024-02-14,operating_income,USD_million,Operating income was USD 163.2183 million for period ended 2023-12-31.,163.2183,163.2183,0,0.0001632183,accepted,,rule
+IND09_2023-12-31,IND09,2023-12-31,2024-02-14,backlog,USD_million,Backlog was USD 2647.8036 million for period ended 2023-12-31.,2647.8036,2647.8036,0,0.0026478036,accepted,,rule
+IND09_2023-12-31,IND09,2023-12-31,2024-02-14,operating_margin,ratio,Operating margin was 12.5578% for period ended 2023-12-31.,0.125578,0.125578175729,1.75729106544e-07,1e-06,accepted,,rule
+IND10_2023-12-31,IND10,2023-12-31,2024-02-14,revenue,USD_million,Revenue was USD 1411.1930 million for period ended 2023-12-31.,1411.193,1411.193,0,0.001411193,accepted,,rule
+IND10_2023-12-31,IND10,2023-12-31,2024-02-14,operating_income,USD_million,Operating income was USD 182.9779 million for period ended 2023-12-31.,182.9779,182.9779,0,0.0001829779,accepted,,rule
+IND10_2023-12-31,IND10,2023-12-31,2024-02-14,backlog,USD_million,Backlog was USD 2913.2845 million for period ended 2023-12-31.,2913.2845,2913.2845,0,0.0029132845,accepted,,rule
+IND10_2023-12-31,IND10,2023-12-31,2024-02-14,operating_margin,ratio,Operating margin was 13.9662% for period ended 2023-12-31.,0.139662,0.129661853481,0.0100001465186,1e-06,rejected,value_mismatch,rule
+IND11_2023-12-31,IND11,2023-12-31,2024-02-14,revenue,USD_million,Revenue was USD 1454.6350 million for period ended 2023-12-31.,1454.635,1454.635,0,0.001454635,accepted,,rule
+IND11_2023-12-31,IND11,2023-12-31,2024-02-14,operating_income,USD_million,Operating income was USD 160.4829 million for period ended 2023-12-31.,160.4829,160.4829,0,0.0001604829,accepted,,rule
+IND11_2023-12-31,IND11,2023-12-31,2024-02-14,backlog,USD_million,Backlog was USD 2815.4479 million for period ended 2023-12-31.,2815.4479,2815.4479,0,0.0028154479,accepted,,rule
+IND11_2023-12-31,IND11,2023-12-31,2024-02-14,operating_margin,ratio,Operating margin was 11.0325% for period ended 2023-12-31.,0.110325,0.110325201855,2.01854760809e-07,1e-06,accepted,,rule
+IND12_2023-12-31,IND12,2023-12-31,2024-02-14,revenue,USD_million,Revenue was USD 1613.8456 million for period ended 2023-12-31.,1613.8456,1613.8456,0,0.0016138456,accepted,,rule
+IND12_2023-12-31,IND12,2023-12-31,2024-02-14,operating_income,USD_million,Operating income was USD 209.7812 million for period ended 2023-12-31.,209.7812,209.7812,0,0.0002097812,accepted,,rule
+IND12_2023-12-31,IND12,2023-12-31,2024-02-14,backlog,USD_million,Backlog was USD 3335.1559 million for period ended 2023-12-31.,3335.1559,3335.1559,0,0.0033351559,accepted,,rule
+IND12_2023-12-31,IND12,2023-12-31,2024-02-14,operating_margin,ratio,Operating margin was 12.9988% for period ended 2023-12-31.,0.129988,0.12998839542,3.95420231031e-07,1e-06,accepted,,rule
+IND01_2024-03-31,IND01,2024-03-31,2024-05-15,revenue,USD_million,Revenue was USD 490.3704 million for period ended 2024-03-31.,490.3704,490.3704,0,0.0004903704,accepted,,rule
+IND01_2024-03-31,IND01,2024-03-31,2024-05-15,operating_income,USD_million,Operating income was USD 55.3906 million for period ended 2024-03-31.,55.3906,55.3906,0,0.0001,accepted,,rule
+IND01_2024-03-31,IND01,2024-03-31,2024-05-15,backlog,USD_million,Backlog was USD 957.7153 million for period ended 2024-03-31.,957.7153,957.7153,0,0.0009577153,accepted,,rule
+IND01_2024-03-31,IND01,2024-03-31,2024-05-15,operating_margin,ratio,Operating margin was 11.2957% for period ended 2024-03-31.,0.112957,0.112956654806,3.4519375558e-07,1e-06,accepted,,rule
+IND02_2024-03-31,IND02,2024-03-31,2024-05-15,revenue,USD_million,Revenue was USD 615.5125 million for period ended 2024-03-31.,615.5125,615.5125,0,0.0006155125,accepted,,rule
+IND02_2024-03-31,IND02,2024-03-31,2024-05-15,operating_income,USD_million,Operating income was USD 83.3669 million for period ended 2024-03-31.,83.3669,83.3669,0,0.0001,accepted,,rule
+IND02_2024-03-31,IND02,2024-03-31,2024-05-15,backlog,USD_million,Backlog was USD 1294.3942 million for period ended 2024-03-31.,1294.3942,1294.3942,0,0.0012943942,accepted,,rule
+IND02_2024-03-31,IND02,2024-03-31,2024-05-15,operating_margin,ratio,Operating margin was 13.5443% for period ended 2024-03-31.,0.135443,0.135443065738,6.57379013169e-08,1e-06,accepted,,rule
+IND03_2024-03-31,IND03,2024-03-31,2024-05-15,revenue,USD_million,Revenue was USD 666.5060 million for period ended 2024-03-31.,666.506,666.506,0,0.000666506,accepted,,rule
+IND03_2024-03-31,IND03,2024-03-31,2024-05-15,operating_income,USD_million,Operating income was USD 65.4273 million for period ended 2024-03-31.,65.4273,65.4273,0,0.0001,accepted,,rule
+IND03_2024-03-31,IND03,2024-03-31,2024-05-15,backlog,USD_million,Backlog was USD 1235.9895 million for period ended 2024-03-31.,1235.9895,1235.9895,0,0.0012359895,accepted,,rule
+IND03_2024-03-31,IND03,2024-03-31,2024-05-15,operating_margin,ratio,Operating margin was 9.8165% for period ended 2024-03-31.,0.098165,0.0981646076704,3.92329551416e-07,1e-06,accepted,,rule
+IND04_2024-03-31,IND04,2024-03-31,2024-05-15,revenue,USD_million,Revenue was USD 823.4837 million for period ended 2024-03-31.,823.4837,823.4837,0,0.0008234837,accepted,,rule
+IND04_2024-03-31,IND04,2024-03-31,2024-05-15,operating_income,USD_million,Operating income was USD 112.9377 million for period ended 2024-03-31.,112.9377,112.9377,0,0.0001129377,accepted,,rule
+IND04_2024-03-31,IND04,2024-03-31,2024-05-15,backlog,USD_million,Backlog was USD 1741.0985 million for period ended 2024-03-31.,1741.0985,1741.0985,0,0.0017410985,accepted,,rule
+IND04_2024-03-31,IND04,2024-03-31,2024-05-15,operating_margin,ratio,Operating margin was 13.7146% for period ended 2024-03-31.,0.137146,0.137146248311,2.48310683015e-07,1e-06,accepted,,rule
+IND05_2024-03-31,IND05,2024-03-31,2024-05-15,revenue,USD_million,Revenue was USD 865.5202 million for period ended 2024-03-31.,865.5202,865.5202,0,0.0008655202,accepted,,rule
+IND05_2024-03-31,IND05,2024-03-31,2024-05-15,operating_income,USD_million,Operating income was USD 89.2769 million for period ended 2024-03-31.,89.2769,89.2769,0,0.0001,accepted,,rule
+IND05_2024-03-31,IND05,2024-03-31,2024-05-15,backlog,USD_million,Backlog was USD 1633.8035 million for period ended 2024-03-31.,1633.8035,1633.8035,0,0.0016338035,accepted,,rule
+IND05_2024-03-31,IND05,2024-03-31,2024-05-15,operating_margin,ratio,Operating margin was 10.3148% for period ended 2024-03-31.,0.103148,0.103148256967,2.56967312831e-07,1e-06,accepted,,rule
+IND06_2024-03-31,IND06,2024-03-31,2024-05-15,revenue,USD_million,Revenue was USD 1015.2305 million for period ended 2024-03-31.,1015.2305,1015.2305,0,0.0010152305,accepted,,rule
+IND06_2024-03-31,IND06,2024-03-31,2024-05-15,operating_income,USD_million,Operating income was USD 132.2217 million for period ended 2024-03-31.,132.2217,132.2217,0,0.0001322217,accepted,,rule
+IND06_2024-03-31,IND06,2024-03-31,2024-05-15,backlog,USD_million,Backlog was USD 2099.7546 million for period ended 2024-03-31.,2099.7546,2099.7546,0,0.0020997546,accepted,,rule
+IND06_2024-03-31,IND06,2024-03-31,2024-05-15,operating_margin,ratio,Operating margin was 13.0238% for period ended 2024-03-31.,0.130238,0.130238108489,1.08488663414e-07,1e-06,accepted,,rule
+IND07_2024-03-31,IND07,2024-03-31,2024-05-15,revenue,USD_million,Revenue was USD 1057.5544 million for period ended 2024-03-31.,1057.5544,1057.5544,0,0.0010575544,accepted,,rule
+IND07_2024-03-31,IND07,2024-03-31,2024-05-15,operating_income,USD_million,Operating income was USD 108.9331 million for period ended 2024-03-31.,108.9331,108.9331,0,0.0001089331,accepted,,rule
+IND07_2024-03-31,IND07,2024-03-31,2024-05-15,backlog,USD_million,Backlog was USD 1995.2856 million for period ended 2024-03-31.,1995.2856,1995.2856,0,0.0019952856,accepted,,rule
+IND07_2024-03-31,IND07,2024-03-31,2024-05-15,operating_margin,ratio,Operating margin was 10.3005% for period ended 2024-03-31.,0.103005,0.103004724863,2.75136673819e-07,1e-06,accepted,,rule
+IND08_2024-03-31,IND08,2024-03-31,2024-05-15,revenue,USD_million,Revenue was USD 1234.9702 million for period ended 2024-03-31.,1234.9702,1234.9702,0,0.0012349702,accepted,,rule
+IND08_2024-03-31,IND08,2024-03-31,2024-05-15,operating_income,USD_million,Operating income was USD 169.2439 million for period ended 2024-03-31.,169.2439,169.2439,0,0.0001692439,accepted,,rule
+IND08_2024-03-31,IND08,2024-03-31,2024-05-15,backlog,USD_million,Backlog was USD 2610.2570 million for period ended 2024-03-31.,2610.257,2610.257,0,0.002610257,accepted,,rule
+IND08_2024-03-31,IND08,2024-03-31,2024-05-15,operating_margin,ratio,Operating margin was 13.7043% for period ended 2024-03-31.,0.137043,0.137042901926,9.80741073631e-08,1e-06,accepted,,rule
+IND09_2024-03-31,IND09,2024-03-31,2024-05-15,revenue,USD_million,Revenue was USD 1301.7470 million for period ended 2024-03-31.,1301.747,1301.747,0,0.001301747,accepted,,rule
+IND09_2024-03-31,IND09,2024-03-31,2024-05-15,operating_income,USD_million,Operating income was USD 160.5728 million for period ended 2024-03-31.,160.5728,160.5728,0,0.0001605728,accepted,,rule
+IND09_2024-03-31,IND09,2024-03-31,2024-05-15,backlog,USD_million,Backlog was USD 2632.5814 million for period ended 2024-03-31.,2632.5814,2632.5814,0,0.0026325814,accepted,,rule
+IND09_2024-03-31,IND09,2024-03-31,2024-05-15,operating_margin,ratio,Operating margin was 12.3352% for period ended 2024-03-31.,0.123352,0.123351772656,2.27343715797e-07,1e-06,accepted,,rule
+IND10_2024-03-31,IND10,2024-03-31,2024-05-15,revenue,USD_million,Revenue was USD 1407.7328 million for period ended 2024-03-31.,1407.7328,1407.7328,0,0.0014077328,accepted,,rule
+IND10_2024-03-31,IND10,2024-03-31,2024-05-15,operating_income,USD_million,Operating income was USD 176.5781 million for period ended 2024-03-31.,176.5781,176.5781,0,0.0001765781,accepted,,rule
+IND10_2024-03-31,IND10,2024-03-31,2024-05-15,backlog,USD_million,Backlog was USD 2866.4667 million for period ended 2024-03-31.,2866.4667,2866.4667,0,0.0028664667,accepted,,rule
+IND10_2024-03-31,IND10,2024-03-31,2024-05-15,operating_margin,ratio,Operating margin was 12.5434% for period ended 2024-03-31.,0.125434,0.125434386412,3.86411966841e-07,1e-06,accepted,,rule
+IND11_2024-03-31,IND11,2024-03-31,2024-05-15,revenue,USD_million,Revenue was USD 1492.3437 million for period ended 2024-03-31.,1492.3437,1492.3437,0,0.0014923437,accepted,,rule
+IND11_2024-03-31,IND11,2024-03-31,2024-05-15,operating_income,USD_million,Operating income was USD 179.2628 million for period ended 2024-03-31.,179.2628,179.2628,0,0.0001792628,accepted,,rule
+IND11_2024-03-31,IND11,2024-03-31,2024-05-15,backlog,USD_million,Backlog was USD 2985.8976 million for period ended 2024-03-31.,2985.8976,2985.8976,0,0.0029858976,accepted,,rule
+IND11_2024-03-31,IND11,2024-03-31,2024-05-15,operating_margin,ratio,Operating margin was 12.0122% for period ended 2024-03-31.,0.120122,0.120121658302,3.41698363451e-07,1e-06,accepted,,rule
+IND12_2024-03-31,IND12,2024-03-31,2024-05-15,revenue,USD_million,Revenue was USD 1758.0567 million for period ended 2024-03-31.,1758.0567,1598.2334,159.8233,0.0015982334,rejected,value_mismatch,rule
+IND12_2024-03-31,IND12,2024-03-31,2024-05-15,operating_income,USD_million,Operating income was USD 195.1889 million for period ended 2024-03-31.,195.1889,195.1889,0,0.0001951889,accepted,,rule
+IND12_2024-03-31,IND12,2024-03-31,2024-05-15,backlog,USD_million,Backlog was USD 3219.1392 million for period ended 2024-03-31.,3219.1392,3219.1392,0,0.0032191392,accepted,,rule
+IND12_2024-03-31,IND12,2024-03-31,2024-05-15,operating_margin,ratio,Operating margin was 12.2128% for period ended 2024-03-31.,0.122128,0.122127906975,9.30247109204e-08,1e-06,accepted,,rule
+IND01_2024-06-30,IND01,2024-06-30,2024-08-14,revenue,USD_million,Revenue was USD 477.5031 million for period ended 2024-06-30.,477.5031,477.5031,0,0.0004775031,accepted,,rule
+IND01_2024-06-30,IND01,2024-06-30,2024-08-14,operating_income,USD_million,Operating income was USD 46.1562 million for period ended 2024-06-30.,46.1562,46.1562,0,0.0001,accepted,,rule
+IND01_2024-06-30,IND01,2024-06-30,2024-08-14,backlog,USD_million,Backlog was USD 880.7115 million for period ended 2024-06-30.,880.7115,880.7115,0,0.0008807115,accepted,,rule
+IND01_2024-06-30,IND01,2024-06-30,2024-08-14,operating_margin,ratio,Operating margin was 9.6662% for period ended 2024-06-30.,0.096662,0.0966615714118,4.28588212309e-07,1e-06,accepted,,rule
+IND02_2024-06-30,IND02,2024-06-30,2024-08-14,revenue,USD_million,Revenue was USD 630.7221 million for period ended 2024-06-30.,630.7221,630.7221,0,0.0006307221,accepted,,rule
+IND02_2024-06-30,IND02,2024-06-30,2024-08-14,operating_income,USD_million,Operating income was USD 91.2327 million for period ended 2024-06-30.,91.2327,91.2327,0,0.0001,accepted,,rule
+IND02_2024-06-30,IND02,2024-06-30,2024-08-14,backlog,USD_million,Backlog was USD 1365.0847 million for period ended 2024-06-30.,1365.0847,1365.0847,0,0.0013650847,accepted,,rule
+IND02_2024-06-30,IND02,2024-06-30,2024-08-14,operating_margin,ratio,Operating margin was 14.4648% for period ended 2024-06-30.,0.144648,0.144648015346,1.53462198227e-08,1e-06,accepted,,rule
+IND03_2024-06-30,IND03,2024-06-30,2024-08-14,revenue,USD_million,Revenue was USD 692.2359 million for period ended 2024-06-30.,692.2359,692.2359,0,0.0006922359,accepted,,rule
+IND03_2024-06-30,IND03,2024-06-30,2024-08-14,operating_income,USD_million,Operating income was USD 78.9865 million for period ended 2024-06-30.,78.9865,78.9865,0,0.0001,accepted,,rule
+IND03_2024-06-30,IND03,2024-06-30,2024-08-14,operating_margin,ratio,Operating margin was 11.4103% for period ended 2024-06-30.,0.114103,0.114103443638,4.43638216399e-07,1e-06,accepted,,rule
+IND03_2024-06-30,IND03,2024-06-30,2024-08-14,backlog,USD_million,,,,,,missing,not_extracted,rule
+IND04_2024-06-30,IND04,2024-06-30,2024-08-14,revenue,USD_million,Revenue was USD 785.9926 million for period ended 2024-06-30.,785.9926,785.9926,0,0.0007859926,accepted,,rule
+IND04_2024-06-30,IND04,2024-06-30,2024-08-14,operating_income,USD_million,Operating income was USD 87.1258 million for period ended 2024-06-30.,87.1258,87.1258,0,0.0001,accepted,,rule
+IND04_2024-06-30,IND04,2024-06-30,2024-08-14,backlog,USD_million,Backlog was USD 1524.0297 million for period ended 2024-06-30.,1524.0297,1524.0297,0,0.0015240297,accepted,,rule
+IND04_2024-06-30,IND04,2024-06-30,2024-08-14,operating_margin,ratio,Operating margin was 11.0848% for period ended 2024-06-30.,0.110848,0.1108481174,1.17399578559e-07,1e-06,accepted,,rule
+IND05_2024-06-30,IND05,2024-06-30,2024-08-14,revenue,USD_million,Revenue was USD 897.8515 million for period ended 2024-06-30.,897.8515,897.8515,0,0.0008978515,accepted,,rule
+IND05_2024-06-30,IND05,2024-06-30,2024-08-14,operating_income,USD_million,Operating income was USD 106.3821 million for period ended 2024-06-30.,106.3821,106.3821,0,0.0001063821,accepted,,rule
+IND05_2024-06-30,IND05,2024-06-30,2024-08-14,backlog,USD_million,Backlog was USD 1786.6360 million for period ended 2024-06-30.,1786.636,1786.636,0,0.001786636,accepted,,rule
+IND05_2024-06-30,IND05,2024-06-30,2024-08-14,operating_margin,ratio,Operating margin was 12.8485% for period ended 2024-06-30.,0.128485,0.118485183797,0.0099998162029,1e-06,rejected,value_mismatch,rule
+IND06_2024-06-30,IND06,2024-06-30,2024-08-14,revenue,USD_million,Revenue was USD 1006.9116 million for period ended 2024-06-30.,1006.9116,1006.9116,0,0.0010069116,accepted,,rule
+IND06_2024-06-30,IND06,2024-06-30,2024-08-14,operating_income,USD_million,Operating income was USD 123.9751 million for period ended 2024-06-30.,123.9751,123.9751,0,0.0001239751,accepted,,rule
+IND06_2024-06-30,IND06,2024-06-30,2024-08-14,backlog,USD_million,Backlog was USD 2034.7949 million for period ended 2024-06-30.,2034.7949,2034.7949,0,0.0020347949,accepted,,rule
+IND06_2024-06-30,IND06,2024-06-30,2024-08-14,operating_margin,ratio,Operating margin was 12.3124% for period ended 2024-06-30.,0.123124,0.123124115364,1.15364248446e-07,1e-06,accepted,,rule
+IND07_2024-06-30,IND07,2024-06-30,2024-08-14,revenue,USD_million,Revenue was USD 1110.5557 million for period ended 2024-06-30.,1110.5557,1110.5557,0,0.0011105557,accepted,,rule
+IND07_2024-06-30,IND07,2024-06-30,2024-08-14,operating_income,USD_million,Operating income was USD 138.2147 million for period ended 2024-06-30.,138.2147,138.2147,0,0.0001382147,accepted,,rule
+IND07_2024-06-30,IND07,2024-06-30,2024-08-14,backlog,USD_million,Backlog was USD 2254.0980 million for period ended 2024-06-30.,2254.098,2254.098,0,0.002254098,accepted,,rule
+IND07_2024-06-30,IND07,2024-06-30,2024-08-14,operating_margin,ratio,Operating margin was 12.4455% for period ended 2024-06-30.,0.124455,0.124455441542,4.41541563395e-07,1e-06,accepted,,rule
+IND08_2024-06-30,IND08,2024-06-30,2024-08-14,revenue,USD_million,Revenue was USD 1218.4007 million for period ended 2024-06-30.,1218.4007,1218.4007,0,0.0012184007,accepted,,rule
+IND08_2024-06-30,IND08,2024-06-30,2024-08-14,operating_income,USD_million,Operating income was USD 155.0890 million for period ended 2024-06-30.,155.089,155.089,0,0.000155089,accepted,,rule
+IND08_2024-06-30,IND08,2024-06-30,2024-08-14,backlog,USD_million,Backlog was USD 2496.0077 million for period ended 2024-06-30.,2496.0077,2496.0077,0,0.0024960077,accepted,,rule
+IND08_2024-06-30,IND08,2024-06-30,2024-08-14,operating_margin,ratio,Operating margin was 12.7289% for period ended 2024-06-30.,0.127289,0.127288994499,5.50089965246e-09,1e-06,accepted,,rule
+IND09_2024-06-30,IND09,2024-06-30,2024-08-14,revenue,USD_million,Revenue was USD 1337.0879 million for period ended 2024-06-30.,1337.0879,1337.0879,0,0.0013370879,accepted,,rule
+IND09_2024-06-30,IND09,2024-06-30,2024-08-14,operating_income,USD_million,Operating income was USD 178.8290 million for period ended 2024-06-30.,178.829,178.829,0,0.000178829,accepted,,rule
+IND09_2024-06-30,IND09,2024-06-30,2024-08-14,backlog,USD_million,Backlog was USD 2796.6989 million for period ended 2024-06-30.,2796.6989,2796.6989,0,0.0027966989,accepted,,rule
+IND09_2024-06-30,IND09,2024-06-30,2024-08-14,operating_margin,ratio,Operating margin was 13.3745% for period ended 2024-06-30.,0.133745,0.133745133734,1.33734289282e-07,1e-06,accepted,,rule
+IND10_2024-06-30,IND10,2024-06-30,2024-08-14,revenue,USD_million,Revenue was USD 1387.9275 million for period ended 2024-06-30.,1387.9275,1387.9275,0,0.0013879275,accepted,,rule
+IND10_2024-06-30,IND10,2024-06-30,2024-08-14,operating_income,USD_million,Operating income was USD 160.0974 million for period ended 2024-06-30.,160.0974,160.0974,0,0.0001600974,accepted,,rule
+IND10_2024-06-30,IND10,2024-06-30,2024-08-14,backlog,USD_million,Backlog was USD 2732.8287 million for period ended 2024-06-30.,2732.8287,2732.8287,0,0.0027328287,accepted,,rule
+IND10_2024-06-30,IND10,2024-06-30,2024-08-14,operating_margin,ratio,Operating margin was 11.5350% for period ended 2024-06-30.,0.11535,0.115349973251,2.67485153332e-08,1e-06,accepted,,rule
+IND11_2024-06-30,IND11,2024-06-30,2024-08-14,revenue,USD_million,Revenue was USD 1461.2010 million for period ended 2024-06-30.,1461.201,1461.201,0,0.001461201,accepted,,rule
+IND11_2024-06-30,IND11,2024-06-30,2024-08-14,operating_income,USD_million,Operating income was USD 155.7305 million for period ended 2024-06-30.,155.7305,155.7305,0,0.0001557305,accepted,,rule
+IND11_2024-06-30,IND11,2024-06-30,2024-08-14,backlog,USD_million,Backlog was USD 2791.6444 million for period ended 2024-06-30.,2791.6444,2791.6444,0,0.0027916444,accepted,,rule
+IND11_2024-06-30,IND11,2024-06-30,2024-08-14,operating_margin,ratio,Operating margin was 10.6577% for period ended 2024-06-30.,0.106577,0.10657705545,5.5449592487e-08,1e-06,accepted,,rule
+IND12_2024-06-30,IND12,2024-06-30,2024-08-14,revenue,USD_million,Revenue was USD 1665.0625 million for period ended 2024-06-30.,1665.0625,1665.0625,0,0.0016650625,accepted,,rule
+IND12_2024-06-30,IND12,2024-06-30,2024-08-14,operating_income,USD_million,Operating income was USD 232.4590 million for period ended 2024-06-30.,232.459,232.459,0,0.000232459,accepted,,rule
+IND12_2024-06-30,IND12,2024-06-30,2024-08-14,backlog,USD_million,Backlog was USD 3547.8017 million for period ended 2024-06-30.,3547.8017,3547.8017,0,0.0035478017,accepted,,rule
+IND12_2024-06-30,IND12,2024-06-30,2024-08-14,operating_margin,ratio,Operating margin was 13.9610% for period ended 2024-06-30.,0.13961,0.139609774408,2.25592132447e-07,1e-06,accepted,,rule
+IND01_2024-09-30,IND01,2024-09-30,2024-11-14,revenue,USD_million,Revenue was USD 502.9626 million for period ended 2024-09-30.,502.9626,502.9626,0,0.0005029626,accepted,,rule
+IND01_2024-09-30,IND01,2024-09-30,2024-11-14,operating_income,USD_million,Operating income was USD 60.1715 million for period ended 2024-09-30.,60.1715,60.1715,0,0.0001,accepted,,rule
+IND01_2024-09-30,IND01,2024-09-30,2024-11-14,backlog,USD_million,Backlog was USD 1004.6983 million for period ended 2024-09-30.,1004.6983,1004.6983,0,0.0010046983,accepted,,rule
+IND01_2024-09-30,IND01,2024-09-30,2024-11-14,operating_margin,ratio,Operating margin was 11.9634% for period ended 2024-09-30.,0.119634,0.119634143771,1.43771326136e-07,1e-06,accepted,,rule
+IND02_2024-09-30,IND02,2024-09-30,2024-11-14,revenue,USD_million,Revenue was USD 569.4079 million for period ended 2024-09-30.,569.4079,569.4079,0,0.0005694079,accepted,,rule
+IND02_2024-09-30,IND02,2024-09-30,2024-11-14,operating_income,USD_million,Operating income was USD 51.5394 million for period ended 2024-09-30.,51.5394,51.5394,0,0.0001,accepted,,rule
+IND02_2024-09-30,IND02,2024-09-30,2024-11-14,backlog,USD_million,Backlog was USD 1026.8853 million for period ended 2024-09-30.,1026.8853,1026.8853,0,0.0010268853,accepted,,rule
+IND02_2024-09-30,IND02,2024-09-30,2024-11-14,operating_margin,ratio,Operating margin was 9.0514% for period ended 2024-09-30.,0.090514,0.0905140234268,2.34267912291e-08,1e-06,accepted,,rule
+IND03_2024-09-30,IND03,2024-09-30,2024-11-14,revenue,USD_million,Revenue was USD 707.7401 million for period ended 2024-09-30.,707.7401,707.7401,0,0.0007077401,accepted,,rule
+IND03_2024-09-30,IND03,2024-09-30,2024-11-14,operating_income,USD_million,Operating income was USD 86.4707 million for period ended 2024-09-30.,86.4707,86.4707,0,0.0001,accepted,,rule
+IND03_2024-09-30,IND03,2024-09-30,2024-11-14,backlog,USD_million,Backlog was USD 1425.7592 million for period ended 2024-09-30.,1425.7592,1425.7592,0,0.0014257592,accepted,,rule
+IND03_2024-09-30,IND03,2024-09-30,2024-11-14,operating_margin,ratio,Operating margin was 12.2179% for period ended 2024-09-30.,0.122179,0.122178607656,3.92344449623e-07,1e-06,accepted,,rule
+IND04_2024-09-30,IND04,2024-09-30,2024-11-14,revenue,USD_million,Revenue was USD 807.8782 million for period ended 2024-09-30.,807.8782,807.8782,0,0.0008078782,accepted,,rule
+IND04_2024-09-30,IND04,2024-09-30,2024-11-14,operating_income,USD_million,Operating income was USD 98.2219 million for period ended 2024-09-30.,98.2219,98.2219,0,0.0001,accepted,,rule
+IND04_2024-09-30,IND04,2024-09-30,2024-11-14,backlog,USD_million,Backlog was USD 1624.2664 million for period ended 2024-09-30.,1624.2664,1624.2664,0,0.0016242664,accepted,,rule
+IND04_2024-09-30,IND04,2024-09-30,2024-11-14,operating_margin,ratio,Operating margin was 12.1580% for period ended 2024-09-30.,0.12158,0.121580084721,8.47206918231e-08,1e-06,accepted,,rule
+IND05_2024-09-30,IND05,2024-09-30,2024-11-14,revenue,USD_million,Revenue was USD 1021.1913 million for period ended 2024-09-30.,1021.1913,928.3557,92.8356,0.0009283557,rejected,value_mismatch,rule
+IND05_2024-09-30,IND05,2024-09-30,2024-11-14,operating_income,USD_million,Operating income was USD 122.7197 million for period ended 2024-09-30.,122.7197,122.7197,0,0.0001227197,accepted,,rule
+IND05_2024-09-30,IND05,2024-09-30,2024-11-14,backlog,USD_million,Backlog was USD 1932.1581 million for period ended 2024-09-30.,1932.1581,1932.1581,0,0.0019321581,accepted,,rule
+IND05_2024-09-30,IND05,2024-09-30,2024-11-14,operating_margin,ratio,Operating margin was 13.2190% for period ended 2024-09-30.,0.13219,0.132190387801,3.87800710433e-07,1e-06,accepted,,rule
+IND06_2024-09-30,IND06,2024-09-30,2024-11-14,revenue,USD_million,Revenue was USD 961.3634 million for period ended 2024-09-30.,961.3634,961.3634,0,0.0009613634,accepted,,rule
+IND06_2024-09-30,IND06,2024-09-30,2024-11-14,operating_income,USD_million,Operating income was USD 93.2319 million for period ended 2024-09-30.,93.2319,93.2319,0,0.0001,accepted,,rule
+IND06_2024-09-30,IND06,2024-09-30,2024-11-14,backlog,USD_million,Backlog was USD 1775.1823 million for period ended 2024-09-30.,1775.1823,1775.1823,0,0.0017751823,accepted,,rule
+IND06_2024-09-30,IND06,2024-09-30,2024-11-14,operating_margin,ratio,Operating margin was 9.6979% for period ended 2024-09-30.,0.096979,0.0969788323541,1.67645866286e-07,1e-06,accepted,,rule
+IND07_2024-09-30,IND07,2024-09-30,2024-11-14,revenue,USD_million,Revenue was USD 1086.8056 million for period ended 2024-09-30.,1086.8056,1086.8056,0,0.0010868056,accepted,,rule
+IND07_2024-09-30,IND07,2024-09-30,2024-11-14,operating_income,USD_million,Operating income was USD 120.2513 million for period ended 2024-09-30.,120.2513,120.2513,0,0.0001202513,accepted,,rule
+IND07_2024-09-30,IND07,2024-09-30,2024-11-14,backlog,USD_million,Backlog was USD 2105.8418 million for period ended 2024-09-30.,2105.8418,2105.8418,0,0.0021058418,accepted,,rule
+IND07_2024-09-30,IND07,2024-09-30,2024-11-14,operating_margin,ratio,Operating margin was 11.0647% for period ended 2024-09-30.,0.110647,0.110646559053,4.4094656855e-07,1e-06,accepted,,rule
+IND08_2024-09-30,IND08,2024-09-30,2024-11-14,revenue,USD_million,Revenue was USD 1205.3698 million for period ended 2024-09-30.,1205.3698,1205.3698,0,0.0012053698,accepted,,rule
+IND08_2024-09-30,IND08,2024-09-30,2024-11-14,operating_income,USD_million,Operating income was USD 143.3338 million for period ended 2024-09-30.,143.3338,143.3338,0,0.0001433338,accepted,,rule
+IND08_2024-09-30,IND08,2024-09-30,2024-11-14,backlog,USD_million,Backlog was USD 2402.0022 million for period ended 2024-09-30.,2402.0022,2402.0022,0,0.0024020022,accepted,,rule
+IND08_2024-09-30,IND08,2024-09-30,2024-11-14,operating_margin,ratio,Operating margin was 11.8913% for period ended 2024-09-30.,0.118913,0.118912718736,2.81264222801e-07,1e-06,accepted,,rule
+IND09_2024-09-30,IND09,2024-09-30,2024-11-14,revenue,USD_million,Revenue was USD 1286.9941 million for period ended 2024-09-30.,1286.9941,1286.9941,0,0.0012869941,accepted,,rule
+IND09_2024-09-30,IND09,2024-09-30,2024-11-14,operating_income,USD_million,Operating income was USD 143.6965 million for period ended 2024-09-30.,143.6965,143.6965,0,0.0001436965,accepted,,rule
+IND09_2024-09-30,IND09,2024-09-30,2024-11-14,backlog,USD_million,Backlog was USD 2502.3695 million for period ended 2024-09-30.,2502.3695,2502.3695,0,0.0025023695,accepted,,rule
+IND09_2024-09-30,IND09,2024-09-30,2024-11-14,operating_margin,ratio,Operating margin was 11.1653% for period ended 2024-09-30.,0.111653,0.111652804003,1.95997246613e-07,1e-06,accepted,,rule
+IND10_2024-09-30,IND10,2024-09-30,2024-11-14,revenue,USD_million,Revenue was USD 1334.5373 million for period ended 2024-09-30.,1334.5373,1334.5373,0,0.0013345373,accepted,,rule
+IND10_2024-09-30,IND10,2024-09-30,2024-11-14,operating_income,USD_million,Operating income was USD 123.7603 million for period ended 2024-09-30.,123.7603,123.7603,0,0.0001237603,accepted,,rule
+IND10_2024-09-30,IND10,2024-09-30,2024-11-14,backlog,USD_million,Backlog was USD 2426.5133 million for period ended 2024-09-30.,2426.5133,2426.5133,0,0.0024265133,accepted,,rule
+IND10_2024-09-30,IND10,2024-09-30,2024-11-14,operating_margin,ratio,Operating margin was 9.2736% for period ended 2024-09-30.,0.092736,0.0927364862713,4.86271309164e-07,1e-06,accepted,,rule
+IND11_2024-09-30,IND11,2024-09-30,2024-11-14,revenue,USD_million,Revenue was USD 1409.5578 million for period ended 2024-09-30.,1409.5578,1409.5578,0,0.0014095578,accepted,,rule
+IND11_2024-09-30,IND11,2024-09-30,2024-11-14,operating_income,USD_million,Operating income was USD 120.6380 million for period ended 2024-09-30.,120.638,120.638,0,0.000120638,accepted,,rule
+IND11_2024-09-30,IND11,2024-09-30,2024-11-14,backlog,USD_million,Backlog was USD 2495.7230 million for period ended 2024-09-30.,2495.723,2495.723,0,0.002495723,accepted,,rule
+IND11_2024-09-30,IND11,2024-09-30,2024-11-14,operating_margin,ratio,Operating margin was 8.5586% for period ended 2024-09-30.,0.085586,0.0855857063825,2.93617473515e-07,1e-06,accepted,,rule
+IND12_2024-09-30,IND12,2024-09-30,2024-11-14,revenue,USD_million,Revenue was USD 1737.4710 million for period ended 2024-09-30.,1737.471,1737.471,0,0.001737471,accepted,,rule
+IND12_2024-09-30,IND12,2024-09-30,2024-11-14,operating_income,USD_million,Operating income was USD 274.3358 million for period ended 2024-09-30.,274.3358,274.3358,0,0.0002743358,accepted,,rule
+IND12_2024-09-30,IND12,2024-09-30,2024-11-14,backlog,USD_million,Backlog was USD 3913.8705 million for period ended 2024-09-30.,3913.8705,3913.8705,0,0.0039138705,accepted,,rule
+IND12_2024-09-30,IND12,2024-09-30,2024-11-14,operating_margin,ratio,Operating margin was 16.7894% for period ended 2024-09-30.,0.167894,0.157893743262,0.0100002567375,1e-06,rejected,value_mismatch,rule
+IND01_2024-12-31,IND01,2024-12-31,2025-02-14,revenue,USD_million,Revenue was USD 478.1775 million for period ended 2024-12-31.,478.1775,478.1775,0,0.0004781775,accepted,,rule
+IND01_2024-12-31,IND01,2024-12-31,2025-02-14,operating_income,USD_million,Operating income was USD 43.6898 million for period ended 2024-12-31.,43.6898,43.6898,0,0.0001,accepted,,rule
+IND01_2024-12-31,IND01,2024-12-31,2025-02-14,backlog,USD_million,Backlog was USD 865.0780 million for period ended 2024-12-31.,865.078,865.078,0,0.000865078,accepted,,rule
+IND01_2024-12-31,IND01,2024-12-31,2025-02-14,operating_margin,ratio,Operating margin was 9.1367% for period ended 2024-12-31.,0.091367,0.0913673269863,3.26986317842e-07,1e-06,accepted,,rule
+IND02_2024-12-31,IND02,2024-12-31,2025-02-14,revenue,USD_million,Revenue was USD 623.8778 million for period ended 2024-12-31.,623.8778,623.8778,0,0.0006238778,accepted,,rule
+IND02_2024-12-31,IND02,2024-12-31,2025-02-14,operating_income,USD_million,Operating income was USD 83.0960 million for period ended 2024-12-31.,83.096,83.096,0,0.0001,accepted,,rule
+IND02_2024-12-31,IND02,2024-12-31,2025-02-14,operating_margin,ratio,Operating margin was 13.3193% for period ended 2024-12-31.,0.133193,0.133192750247,2.49753076637e-07,1e-06,accepted,,rule
+IND02_2024-12-31,IND02,2024-12-31,2025-02-14,backlog,USD_million,,,,,,missing,not_extracted,rule
+IND03_2024-12-31,IND03,2024-12-31,2025-02-14,revenue,USD_million,Revenue was USD 672.4280 million for period ended 2024-12-31.,672.428,672.428,0,0.000672428,accepted,,rule
+IND03_2024-12-31,IND03,2024-12-31,2025-02-14,operating_income,USD_million,Operating income was USD 62.9309 million for period ended 2024-12-31.,62.9309,62.9309,0,0.0001,accepted,,rule
+IND03_2024-12-31,IND03,2024-12-31,2025-02-14,backlog,USD_million,Backlog was USD 1226.4531 million for period ended 2024-12-31.,1226.4531,1226.4531,0,0.0012264531,accepted,,rule
+IND03_2024-12-31,IND03,2024-12-31,2025-02-14,operating_margin,ratio,Operating margin was 9.3588% for period ended 2024-12-31.,0.093588,0.0935875662524,4.33747553638e-07,1e-06,accepted,,rule
+IND04_2024-12-31,IND04,2024-12-31,2025-02-14,revenue,USD_million,Revenue was USD 808.1234 million for period ended 2024-12-31.,808.1234,808.1234,0,0.0008081234,accepted,,rule
+IND04_2024-12-31,IND04,2024-12-31,2025-02-14,operating_income,USD_million,Operating income was USD 95.9499 million for period ended 2024-12-31.,95.9499,95.9499,0,0.0001,accepted,,rule
+IND04_2024-12-31,IND04,2024-12-31,2025-02-14,backlog,USD_million,Backlog was USD 1609.4142 million for period ended 2024-12-31.,1609.4142,1609.4142,0,0.0016094142,accepted,,rule
+IND04_2024-12-31,IND04,2024-12-31,2025-02-14,operating_margin,ratio,Operating margin was 11.8732% for period ended 2024-12-31.,0.118732,0.118731743197,2.5680335454e-07,1e-06,accepted,,rule
+IND05_2024-12-31,IND05,2024-12-31,2025-02-14,revenue,USD_million,Revenue was USD 904.5914 million for period ended 2024-12-31.,904.5914,904.5914,0,0.0009045914,accepted,,rule
+IND05_2024-12-31,IND05,2024-12-31,2025-02-14,operating_income,USD_million,Operating income was USD 105.1357 million for period ended 2024-12-31.,105.1357,105.1357,0,0.0001051357,accepted,,rule
+IND05_2024-12-31,IND05,2024-12-31,2025-02-14,backlog,USD_million,Backlog was USD 1786.4145 million for period ended 2024-12-31.,1786.4145,1786.4145,0,0.0017864145,accepted,,rule
+IND05_2024-12-31,IND05,2024-12-31,2025-02-14,operating_margin,ratio,Operating margin was 11.6225% for period ended 2024-12-31.,0.116225,0.116224518606,4.81394141064e-07,1e-06,accepted,,rule
+IND06_2024-12-31,IND06,2024-12-31,2025-02-14,revenue,USD_million,Revenue was USD 1039.4147 million for period ended 2024-12-31.,1039.4147,1039.4147,0,0.0010394147,accepted,,rule
+IND06_2024-12-31,IND06,2024-12-31,2025-02-14,operating_income,USD_million,Operating income was USD 138.2517 million for period ended 2024-12-31.,138.2517,138.2517,0,0.0001382517,accepted,,rule
+IND06_2024-12-31,IND06,2024-12-31,2025-02-14,backlog,USD_million,Backlog was USD 2168.9754 million for period ended 2024-12-31.,2168.9754,2168.9754,0,0.0021689754,accepted,,rule
+IND06_2024-12-31,IND06,2024-12-31,2025-02-14,operating_margin,ratio,Operating margin was 13.3009% for period ended 2024-12-31.,0.133009,0.133009182957,1.82956523487e-07,1e-06,accepted,,rule
+IND07_2024-12-31,IND07,2024-12-31,2025-02-14,revenue,USD_million,Revenue was USD 1131.1232 million for period ended 2024-12-31.,1131.1232,1131.1232,0,0.0011311232,accepted,,rule
+IND07_2024-12-31,IND07,2024-12-31,2025-02-14,operating_income,USD_million,Operating income was USD 144.3661 million for period ended 2024-12-31.,144.3661,144.3661,0,0.0001443661,accepted,,rule
+IND07_2024-12-31,IND07,2024-12-31,2025-02-14,backlog,USD_million,Backlog was USD 2319.7884 million for period ended 2024-12-31.,2319.7884,2319.7884,0,0.0023197884,accepted,,rule
+IND07_2024-12-31,IND07,2024-12-31,2025-02-14,operating_margin,ratio,Operating margin was 12.7631% for period ended 2024-12-31.,0.127631,0.127630747915,2.52085007202e-07,1e-06,accepted,,rule
+IND08_2024-12-31,IND08,2024-12-31,2025-02-14,revenue,USD_million,Revenue was USD 1258.0338 million for period ended 2024-12-31.,1258.0338,1258.0338,0,0.0012580338,accepted,,rule
+IND08_2024-12-31,IND08,2024-12-31,2025-02-14,operating_income,USD_million,Operating income was USD 172.7211 million for period ended 2024-12-31.,172.7211,172.7211,0,0.0001727211,accepted,,rule
+IND08_2024-12-31,IND08,2024-12-31,2025-02-14,backlog,USD_million,Backlog was USD 2661.1148 million for period ended 2024-12-31.,2661.1148,2661.1148,0,0.0026611148,accepted,,rule
+IND08_2024-12-31,IND08,2024-12-31,2025-02-14,operating_margin,ratio,Operating margin was 13.7294% for period ended 2024-12-31.,0.137294,0.137294482867,4.82866835544e-07,1e-06,accepted,,rule
+IND09_2024-12-31,IND09,2024-12-31,2025-02-14,revenue,USD_million,Revenue was USD 1363.0030 million for period ended 2024-12-31.,1363.003,1363.003,0,0.001363003,accepted,,rule
+IND09_2024-12-31,IND09,2024-12-31,2025-02-14,operating_income,USD_million,Operating income was USD 187.1993 million for period ended 2024-12-31.,187.1993,187.1993,0,0.0001871993,accepted,,rule
+IND09_2024-12-31,IND09,2024-12-31,2025-02-14,backlog,USD_million,Backlog was USD 2883.5992 million for period ended 2024-12-31.,2883.5992,2883.5992,0,0.0028835992,accepted,,rule
+IND09_2024-12-31,IND09,2024-12-31,2025-02-14,operating_margin,ratio,Operating margin was 13.7343% for period ended 2024-12-31.,0.137343,0.137343278041,2.78041207558e-07,1e-06,accepted,,rule
+IND10_2024-12-31,IND10,2024-12-31,2025-02-14,revenue,USD_million,Revenue was USD 1587.1252 million for period ended 2024-12-31.,1587.1252,1442.8411,144.2841,0.0014428411,rejected,value_mismatch,rule
+IND10_2024-12-31,IND10,2024-12-31,2025-02-14,operating_income,USD_million,Operating income was USD 185.7676 million for period ended 2024-12-31.,185.7676,185.7676,0,0.0001857676,accepted,,rule
+IND10_2024-12-31,IND10,2024-12-31,2025-02-14,backlog,USD_million,Backlog was USD 2969.8597 million for period ended 2024-12-31.,2969.8597,2969.8597,0,0.0029698597,accepted,,rule
+IND10_2024-12-31,IND10,2024-12-31,2025-02-14,operating_margin,ratio,Operating margin was 12.8751% for period ended 2024-12-31.,0.128751,0.128751253343,2.53343143575e-07,1e-06,accepted,,rule
+IND11_2024-12-31,IND11,2024-12-31,2025-02-14,revenue,USD_million,Revenue was USD 1508.9688 million for period ended 2024-12-31.,1508.9688,1508.9688,0,0.0015089688,accepted,,rule
+IND11_2024-12-31,IND11,2024-12-31,2025-02-14,operating_income,USD_million,Operating income was USD 176.0377 million for period ended 2024-12-31.,176.0377,176.0377,0,0.0001760377,accepted,,rule
+IND11_2024-12-31,IND11,2024-12-31,2025-02-14,backlog,USD_million,Backlog was USD 2984.3473 million for period ended 2024-12-31.,2984.3473,2984.3473,0,0.0029843473,accepted,,rule
+IND11_2024-12-31,IND11,2024-12-31,2025-02-14,operating_margin,ratio,Operating margin was 11.6661% for period ended 2024-12-31.,0.116661,0.116660927648,7.23519266999e-08,1e-06,accepted,,rule
+IND12_2024-12-31,IND12,2024-12-31,2025-02-14,revenue,USD_million,Revenue was USD 1686.1591 million for period ended 2024-12-31.,1686.1591,1686.1591,0,0.0016861591,accepted,,rule
+IND12_2024-12-31,IND12,2024-12-31,2025-02-14,operating_income,USD_million,Operating income was USD 235.9022 million for period ended 2024-12-31.,235.9022,235.9022,0,0.0002359022,accepted,,rule
+IND12_2024-12-31,IND12,2024-12-31,2025-02-14,backlog,USD_million,Backlog was USD 3596.0722 million for period ended 2024-12-31.,3596.0722,3596.0722,0,0.0035960722,accepted,,rule
+IND12_2024-12-31,IND12,2024-12-31,2025-02-14,operating_margin,ratio,Operating margin was 13.9905% for period ended 2024-12-31.,0.139905,0.139905065898,6.5897992646e-08,1e-06,accepted,,rule

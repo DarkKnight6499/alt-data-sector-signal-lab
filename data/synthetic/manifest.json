@@ -1,0 +1,28 @@
+{
+  "dataset": "seeded synthetic industrial panel",
+  "seed": 1729,
+  "synthetic": true,
+  "public_observations": 0,
+  "start": "2020-01-31",
+  "end": "2024-12-31",
+  "generator": "python/altdata_lab/synthetic.py",
+  "imposed_return_loading": 0.002,
+  "recorded_fixture_sha256": "060f3e75e0fbc806dfaa68397f80bb6a51015fc51817c54245787c444e5e92db",
+  "files": {
+    "universe.csv": {
+      "sha256": "7a3e6fab60ce56d96de7a8b273736046e3e12bfe1f599c9d402f8f67caa39a6e"
+    },
+    "returns.csv": {
+      "sha256": "ecf53aabbd6e33a853eaaa6fdb8ebd60d412e64369cc29e5ff803c5b200d6885"
+    },
+    "observations.csv": {
+      "sha256": "994322bc19cb279b95afe2fbe7d1319d049048f406509ead52b59b6cfa8ea70b"
+    },
+    "reported_financials.csv": {
+      "sha256": "e4fab56fc1a07bfa5b0aebcc6e082d1679cd12b6fd262b847f4f5f6900fab929"
+    },
+    "documents.jsonl": {
+      "sha256": "c5409ca9467624533de1f49dd533a649aeed85185ec6431c03b6ba5d871995f3"
+    }
+  }
+}

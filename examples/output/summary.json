@@ -1,0 +1,35 @@
+{
+  "data_kind": "synthetic",
+  "periods": 48,
+  "gross_total_return": 0.04650822371890162,
+  "net_total_return": 0.028922743430787046,
+  "benchmark_total_return": 0.0029714917170255983,
+  "net_annualized_return": 0.00715355902103143,
+  "annualized_tracking_error": 0.015583587525453253,
+  "information_ratio": 0.41388484388651015,
+  "mean_rank_ic": 0.04008017729381111,
+  "rank_ic_periods": 48,
+  "active_hit_rate": 0.4791666666666667,
+  "maximum_drawdown": -0.25370232490510103,
+  "mean_one_way_turnover": 0.18697823164841743,
+  "total_cost_return_points": 0.016949910238248066,
+  "max_attribution_residual": 1.5070410197548512e-17,
+  "assumptions": {
+    "volatility_window": 12,
+    "volatility_floor": 0.01,
+    "name_cap": 0.15,
+    "signal_tilt": 0.8,
+    "cost_bps": 10.0,
+    "periods_per_year": 12
+  },
+  "extraction_status_counts": {
+    "accepted": 924,
+    "rejected": 26,
+    "missing": 10
+  },
+  "recorded_adapter_status_counts": {
+    "accepted": 9,
+    "rejected": 3
+  },
+  "warning": "Results on synthetic data are not evidence of alpha."
+}

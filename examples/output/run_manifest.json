@@ -1,0 +1,22 @@
+{
+  "synthetic": true,
+  "snapshot_manifest_sha256": "106f463c76afdc005a7db9d71bccd7208770f692b2f0a795a34809603826d151",
+  "controls": {
+    "volatility_window": 12,
+    "volatility_floor": 0.01,
+    "name_cap": 0.15,
+    "signal_tilt": 0.8,
+    "cost_bps": 10.0,
+    "periods_per_year": 12
+  },
+  "numpy_version": "2.5.4",
+  "pandas_version": "3.0.6",
+  "output_files": {
+    "attribution.csv": "60b722511dbb31abcfb443422d6c5ea48f91f08579df7b99873eb95d31f7f994",
+    "extraction_report.csv": "aeba8acdf87091556e9473953d37150ad6ff2ce0c31f7facb0a83581c7c2b99d",
+    "monthly_backtest.csv": "3e737492bc1b1e899bc4d806fd7ac140f43e077a0880b119a42d264ab327e8c1",
+    "recorded_adapter_report.csv": "6f06100ae9aeb97338f22927f91ca6e919c82f3dc95c83174d50384098abd8f8",
+    "validated_observations.csv": "4c0fc6a839a2cb169c6bb0e1c931947cc065f7613e50071357e6fb5f25a15e18",
+    "weights.csv": "23db60f83182d2b84c029e8e5b65833bfabdb3cf7f9709c018c43268c14c1cff"
+  }
+}

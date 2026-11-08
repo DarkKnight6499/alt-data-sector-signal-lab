@@ -1,0 +1,13 @@
+{
+  "group_rows": 144,
+  "monthly_rows": 48,
+  "hand_example": "passed",
+  "source_reconciliation": "passed",
+  "input_perturbation": "passed",
+  "formula_engine": "artifact-tool",
+  "native_excel": "not tested",
+  "author_metadata": "Yazad Madan",
+  "automatic_recalculation": true,
+  "formula_error_scan": "0 matches",
+  "visual_review": "All three sheets reviewed"
+}

@@ -1,0 +1,13 @@
+document_id,ticker,period_end,available_at,metric,unit,evidence,extracted_value,reported_value,absolute_error,tolerance,status,reason,method
+IND01_2020-03-31,IND01,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 467.9334 million for period ended 2020-03-31.,467.9334,467.9334,0,0.0004679334,accepted,,recorded_adapter
+IND01_2020-03-31,IND01,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 64.3592 million for period ended 2020-03-31.,64.3592,64.3592,0,0.0001,accepted,,recorded_adapter
+IND01_2020-03-31,IND01,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 990.5812 million for period ended 2020-03-31.,990.5812,990.5812,0,0.0009905812,accepted,,recorded_adapter
+IND01_2020-03-31,IND01,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 13.7539% for period ended 2020-03-31.,0.137539,0.13753923101,2.31010224977e-07,1e-06,accepted,,recorded_adapter
+IND02_2020-03-31,IND02,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 535.4656 million for period ended 2020-03-31.,535465.6,535.4656,534930.1344,0.0005354656,rejected,value_mismatch,recorded_adapter
+IND02_2020-03-31,IND02,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 60.9273 million for period ended 2020-03-31.,60.9273,60.9273,0,0.0001,accepted,,recorded_adapter
+IND02_2020-03-31,IND02,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 1048.7408 million for period ended 2020-03-31.,1048.7408,1048.7408,0,0.0010487408,accepted,,recorded_adapter
+IND02_2020-03-31,IND02,2020-03-31,2020-05-15,operating_margin,ratio,Operating margin was 11.3784% for period ended 2020-03-31.,0.113784,0.113783779948,2.20052231173e-07,1e-06,accepted,,recorded_adapter
+IND03_2020-03-31,IND03,2020-03-31,2020-05-15,revenue,USD_million,Revenue was USD 647.3307 million for period ended 2020-03-31.,647.3307,647.3307,0,0.0006473307,accepted,,recorded_adapter
+IND03_2020-03-31,IND03,2020-03-31,2020-05-15,operating_income,USD_million,Operating income was USD 85.1685 million for period ended 2020-03-31.,85.1685,85.1685,0,0.0001,accepted,,recorded_adapter
+IND03_2020-03-31,IND03,2020-03-31,2020-05-15,backlog,USD_million,Backlog was USD 1344.5867 million for period ended 2020-03-31.,1344.5867,1344.5867,0,0.0013445867,rejected,period_mismatch,recorded_adapter
+IND03_2020-03-31,IND03,2020-03-31,2020-05-15,operating_margin,ratio,This statement does not occur in the source.,0.131569,0.131568763848,2.36151784544e-07,1e-06,rejected,ungrounded_evidence,recorded_adapter

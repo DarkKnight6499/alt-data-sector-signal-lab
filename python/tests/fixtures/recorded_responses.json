@@ -1,0 +1,92 @@
+{
+  "IND01_2020-03-31": [
+    {
+      "metric": "revenue",
+      "value": 467.9334,
+      "unit": "USD_million",
+      "period_end": "2020-03-31",
+      "evidence": "Revenue was USD 467.9334 million for period ended 2020-03-31."
+    },
+    {
+      "metric": "operating_income",
+      "value": 64.3592,
+      "unit": "USD_million",
+      "period_end": "2020-03-31",
+      "evidence": "Operating income was USD 64.3592 million for period ended 2020-03-31."
+    },
+    {
+      "metric": "backlog",
+      "value": 990.5812,
+      "unit": "USD_million",
+      "period_end": "2020-03-31",
+      "evidence": "Backlog was USD 990.5812 million for period ended 2020-03-31."
+    },
+    {
+      "metric": "operating_margin",
+      "value": 0.137539,
+      "unit": "ratio",
+      "period_end": "2020-03-31",
+      "evidence": "Operating margin was 13.7539% for period ended 2020-03-31."
+    }
+  ],
+  "IND02_2020-03-31": [
+    {
+      "metric": "revenue",
+      "value": 535465.6,
+      "unit": "USD_million",
+      "period_end": "2020-03-31",
+      "evidence": "Revenue was USD 535.4656 million for period ended 2020-03-31."
+    },
+    {
+      "metric": "operating_income",
+      "value": 60.9273,
+      "unit": "USD_million",
+      "period_end": "2020-03-31",
+      "evidence": "Operating income was USD 60.9273 million for period ended 2020-03-31."
+    },
+    {
+      "metric": "backlog",
+      "value": 1048.7408,
+      "unit": "USD_million",
+      "period_end": "2020-03-31",
+      "evidence": "Backlog was USD 1048.7408 million for period ended 2020-03-31."
+    },
+    {
+      "metric": "operating_margin",
+      "value": 0.113784,
+      "unit": "ratio",
+      "period_end": "2020-03-31",
+      "evidence": "Operating margin was 11.3784% for period ended 2020-03-31."
+    }
+  ],
+  "IND03_2020-03-31": [
+    {
+      "metric": "revenue",
+      "value": 647.3307,
+      "unit": "USD_million",
+      "period_end": "2020-03-31",
+      "evidence": "Revenue was USD 647.3307 million for period ended 2020-03-31."
+    },
+    {
+      "metric": "operating_income",
+      "value": 85.1685,
+      "unit": "USD_million",
+      "period_end": "2020-03-31",
+      "evidence": "Operating income was USD 85.1685 million for period ended 2020-03-31."
+    },
+    {
+      "metric": "backlog",
+      "value": 1344.5867,
+      "unit": "USD_million",
+      "period_end": "2019-12-31",
+      "evidence": "Backlog was USD 1344.5867 million for period ended 2020-03-31."
+    },
+    {
+      "metric": "operating_margin",
+      "value": 0.131569,
+      "unit": "ratio",
+      "period_end": "2020-03-31",
+      "evidence": "This statement does not occur in the source."
+    }
+  ]
+}
